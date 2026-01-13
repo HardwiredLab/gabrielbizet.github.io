@@ -1,2 +1,2 @@
 # gabrielbizet.github.io
-Gabriel Bizet Portfolio
+Gabriel Bizet - Portfolio

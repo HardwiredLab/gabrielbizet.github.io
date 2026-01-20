@@ -31,3 +31,9 @@ nav:
     url: "/enseignement/"
   - title: "Activités connexes"
     url: "/autres-activites/"
+
+sass:
+  style: compressed
+
+include:
+  - assets

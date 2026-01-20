@@ -17,3 +17,17 @@ defaults:
       type: pages
     values:
       layout: page
+
+nav:
+  - title: "Accueil"
+    url: "/"
+  - title: "À propos"
+    url: "/about/"
+  - title: "Pratique Clinique"
+    url: "/clinique/"
+  - title: "Recherche"
+    url: "/recherche/"
+  - title: "Enseignement"
+    url: "/enseignement/"
+  - title: "Activités connexes"
+    url: "/autres-activites/"

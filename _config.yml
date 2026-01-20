@@ -1,0 +1,19 @@
+title: "Gabriel Bizet"
+email: "gabriel.bizet.etu@univ-lille.fr"
+description: "Portfolio académique – Recherche, clinique, enseignement"
+
+theme: minima
+
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page

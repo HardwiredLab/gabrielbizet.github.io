@@ -2,7 +2,7 @@ title: "Gabriel Bizet"
 email: "gabriel.bizet.etu@univ-lille.fr"
 description: "Portfolio académique – Recherche, clinique, enseignement"
 
-theme: minima
+theme: jekyll-theme-slate
 
 markdown: kramdown
 

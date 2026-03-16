@@ -1,7 +1,6 @@
 ---
 title: "Cursus Académique"
-layout: page
-permalink: /formation/
+layout: default
 ---
 
 # Formation Académique

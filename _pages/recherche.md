@@ -3,40 +3,46 @@
 ### 1. Variations glycémiques maternelles et système nerveux autonome fœtal (Direction : Dr L. Ghesquière et Dr M. Lemaitre)
 **Objectif :** Comprendre comment les variations glycémiques maternelles (hypo- et hyperglycémies) influencent le système nerveux autonome fœtal.  
 **Compétences mobilisées :** 
-- Piloter et coordonner un projet de recherche translationnel - incluant la conception méthodologique et la rédaction de la saisine à destination du comité d'éthique en expérimentation animale
-- Superviser et encadrer les étudiants en Master 2 impliqués dans le projet
-- Développer une démarche critique continue pour ajuster en temps réel les procédures et garantir l'intégrité et la qualité scientifique du protocole
+- Piloter et coordonner un projet de recherche translationnel - incluant la conception méthodologique et la rédaction de la saisine à destination du comité d'éthique en expérimentation animale.
+- Superviser et encadrer les étudiants en Master 2 impliqués dans le projet.
+- Développer une démarche critique continue pour ajuster en temps réel les procédures et garantir l'intégrité et la qualité scientifique du protocole.
 
 ---
 
-### 2. Diagnostic de l’Intervillite Histiocytaire Chronique
+### 2. Diagnostic de l’Intervillite Histiocytaire Chronique (Direction : Pr D. Subtil)
 **Objectif :** Définir la valeur diagnostique et pronostique d’un dosage de phosphatases alcalines dans l’intervillite histiocytaire chronique.  
 **Compétences mobilisées :** 
-- Co‑construire et déployer des études cliniques en collaboration avec les équipes biologiques et obstétricales
-- Recenser, structurer, analyser et synthétiser les données pour produire un article scientifique clair et exploitable
-- Adapter le manuscrit aux exigences méthodologiques et éditoriales de la revue en vue de la soumission de l'article
-
+- Co‑construire et déployer des études cliniques en collaboration avec les équipes biologiques et obstétricales.
+- Clarifier, structurer et rendre accessibles des données complexes pour étayer une pathologie rare et peu documentée.
+- Réviser les analyses et les manuscrits en intégrant les retours des reviewers et experts externes.
+  
 ---
 
-### 3. Antibioprophylaxie per-partum du Streptocoque du Groupe B
+### 3. Antibioprophylaxie per-partum du Streptocoque du Groupe B (Direction : Pr D. Subtil et Dr C. Duployez)
 **Objectif :** Déterminer l’utilité du recours à un antibiogramme systématique en cas de portage maternel de SGB chez les patientes allergiques aux bêta‑lactamines.  
 **Compétences mobilisées :** 
-- épidémiologie clinique · analyse des issues néonatales · valorisation des résultats en congrès.
+- Anticiper les contraintes méthodologiques pour renforcer la validité de l’étude d’un événement clinique rare.
+- Mettre en œuvre un recueil standardisé des données issues des dossiers obstétricaux.
+- Fédérer et mobiliser les équipes cliniques et biologiques grâce à des communications orales dédiées, en explicitant les enjeux liés à l’allergie maternelle et à la réalisation d’un antibiogramme pour prévenir les infections néonatales.
 
 ---
 
 ## Participation aux projets de recherche
 
 ### 4. Anévrysme de l’artère splénique pendant la grossesse (Thèse Dr Elise Deroubaix)
-**Objectif :** décrire les conditions de rupture et identifier les facteurs associés à la survie maternelle.  
-**Compétences mobilisées :** revue de dossiers complexes · extraction de données cliniques · interprétation des issues materno‑fœtales.
+**Objectif :** Décrire les conditions de rupture et identifier les facteurs associés à la survie maternelle.  
+**Compétences mobilisées :** 
+- Concevoir et optimiser des figures issues d’imageries (scans, radios) pour renforcer la lisibilité scientifique du manuscrit
+- Contribuer à la relecture méthodologique et à la discussion scientifique de l’article
+- Préparer et soumettre le manuscrit auprès de la revue
 
 ---
 
 ### 5. Dysjonctions symphysaires dans le post-partum (Thèse Dr Sacha Masquelier)
-**Objectif :** décrire les circonstances de survenue et les facteurs de risque de la dysjonction symphysaire.  
-**Compétences mobilisées :** caractérisation clinique · analyses statistiques ciblées · structuration d’un jeu de données.
-
+**Objectif :** Décrire les circonstances de survenue et les facteurs de risque de la dysjonction symphysaire.  
+**Compétences mobilisées :** 
+- Structurer le jeu de données et réaliser des analyses statistiques ciblées
+  
 ---
 
 ### 6. Macrosomie et courbes de poids fœtales (Thèse Dr Madleen Lemaitre)

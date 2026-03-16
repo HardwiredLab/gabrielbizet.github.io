@@ -9,23 +9,26 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
+# IMPORTANT pour un site de projet
+url: "https://gabrielbizet.github.io"
+baseurl: "/HardwiredLab"
 
 # Navigation du site
 nav:
   - title: "Accueil"
-    url: "/"
+    url: "/HardwiredLab/"
   - title: "À propos"
-    url: "/about/"
+    url: "/HardwiredLab/about/"
   - title: "Pratique Clinique"
-    url: "/pratique-clinique/"
+    url: "/HardwiredLab/pratique-clinique/"
   - title: "Recherche"
-    url: "/recherche/"
+    url: "/HardwiredLab/recherche/"
   - title: "Enseignement"
-    url: "/enseignement/"
+    url: "/HardwiredLab/enseignement/"
   - title: "Cursus Académique"
-    url: "/formation/"
+    url: "/HardwiredLab/formation/"
   - title: "Projets Transversaux"
-    url: "/projets-transversaux/"
+    url: "/HardwiredLab/projets-transversaux/"
 
 sass:
   style: compressed

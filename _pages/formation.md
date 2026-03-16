@@ -1,10 +1,10 @@
 ---
-title: "Formation académique"
+title: "Formation Académique"
 layout: page
 permalink: /formation/
 ---
 
-# Formation
+# Formation Académique
 
 ## CertiLingua — Label d’excellence européen (2019)
 - Conduite de débats multilingues dans un projet franco‑germano‑polonais sur le développement durable.  

@@ -1,3 +1,9 @@
+---
+title: "Recherche"
+layout: page
+permalink: /recherche/
+---
+
 ## Projets en cours
 
 ### 1. Variations glycémiques maternelles et système nerveux autonome fœtal (Direction : Dr L. Ghesquière et Dr M. Lemaitre)

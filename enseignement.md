@@ -1,5 +1,4 @@
 ---
 title: "Enseignement"
-layout: page
-permalink: /enseignement/
+layout: default
 ---

@@ -32,7 +32,6 @@
 ### 4. Anévrysme de l’artère splénique pendant la grossesse (Thèse Dr Elise Deroubaix)
 **Objectif :** Décrire les conditions de rupture et identifier les facteurs associés à la survie maternelle.  
 **Compétences mobilisées :** 
-- Concevoir et optimiser des figures issues d’imageries (scans, radios) pour renforcer la lisibilité scientifique du manuscrit
 - Contribuer à la relecture méthodologique et à la discussion scientifique de l’article
 - Préparer et soumettre le manuscrit auprès de la revue
 
@@ -41,13 +40,16 @@
 ### 5. Dysjonctions symphysaires dans le post-partum (Thèse Dr Sacha Masquelier)
 **Objectif :** Décrire les circonstances de survenue et les facteurs de risque de la dysjonction symphysaire.  
 **Compétences mobilisées :** 
-- Structurer le jeu de données et réaliser des analyses statistiques ciblées
-  
+- Concevoir et optimiser des figures issues d’imageries (scans, radios) pour renforcer la lisibilité scientifique du manuscrit
+- Créer du lien entre analyses statistiques et implications cliniques
+
 ---
 
 ### 6. Macrosomie et courbes de poids fœtales (Thèse Dr Madleen Lemaitre)
 **Objectif :** apprécier l’intérêt du z‑score et du birth weight ratio (BWRatio) pour préciser le niveau de risque associé à la macrosomie dans le DT1.  
-**Compétences mobilisées :** modélisation de courbes de croissance · interprétation des indicateurs de risque · analyse comparative.
+**Compétences mobilisées :** 
+- Modéliser des courbes ROC et estimer les performances prédictives des paramètres étudiés
+- Faciliter l'analyse comparative des données recueillies
 
 ---
 

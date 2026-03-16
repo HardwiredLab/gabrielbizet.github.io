@@ -3,8 +3,8 @@
 ### 1. Variations glycémiques maternelles et système nerveux autonome fœtal (Direction : Dr L. Ghesquière et Dr M. Lemaitre)
 **Objectif :** Comprendre comment les variations glycémiques maternelles (hypo- et hyperglycémies) influencent le système nerveux autonome fœtal.  
 **Compétences mobilisées :** 
-- Piloter et coordonner un projet de recherche translationnel - incluant la conception méthodologique et la rédaction de la saisine à destination du comité d'éthique en expérimentation animale.
-- Superviser et encadrer les étudiants en Master 2 impliqués dans le projet.
+- Piloter et coordonner un projet de recherche translationnel - incluant la conception méthodologique, la rédaction de la saisine à destination du comité d'éthique en expérimentation animale et l'encadrement des étudiants en Master 2 impliqués dans le projet.
+- Recueil et traitement de signaux biomédicaux (logiciels PhysioTrace, VitalRecorder et Physiotika)
 - Développer une démarche critique continue pour ajuster en temps réel les procédures et garantir l'intégrité et la qualité scientifique du protocole.
 
 ---

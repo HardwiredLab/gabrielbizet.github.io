@@ -4,6 +4,8 @@ permalink: /about/
 layout: page
 ---
 
+# A propos
+
 Je suis sage-femme hospitalier, enseignant, sapeur-pompier volontaire et doctorant au sein de l’unité ULR2694 METRICS — Évaluation des Technologies de Santé et des Pratiques Médicales (Université de Lille).
 
 Mes travaux actuels portent sur la détection, l’interprétation et l’anticipation des risques en périnatalité. 

@@ -1,7 +1,6 @@
 ---
 title: "Pratique Clinique"
-layout: page
-permalink: /pratique-clinique/
+layout: default
 ---
 
 # Pratique clinique

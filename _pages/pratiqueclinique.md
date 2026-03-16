@@ -17,7 +17,7 @@ Ma pratique clinique constitue le socle de l’ensemble de mes projets. Elle nou
 
 ## Niveau IIb
 
-### Hôpital Saint‑Vincent — Remplacements ponctuels (07/2024 → 09/2025)  
+### Groupement des Hôpitaux de l'Institut Catholique de Lille, Hôpital Saint‑Vincent — Remplacements ponctuels (07/2024 → 09/2025)  
 - Bloc obstétrical  
 - Urgences obstétricales  
 

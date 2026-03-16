@@ -46,7 +46,7 @@
 ---
 
 ### 6. Macrosomie et courbes de poids fœtales (Thèse Dr Madleen Lemaitre)
-**Objectif :** apprécier l’intérêt du z‑score et du birth weight ratio (BWRatio) pour préciser le niveau de risque associé à la macrosomie dans le DT1.  
+**Objectif :** apprécier l’intérêt du z‑score et du birth weight ratio (BWRatio) pour préciser le niveau de risque associé à la macrosomie dans le Diabète de Type 1.  
 **Compétences mobilisées :** 
 - Modéliser des courbes ROC et estimer les performances prédictives des paramètres étudiés
 - Faciliter l'analyse comparative des données recueillies
@@ -87,12 +87,12 @@
   DOI : 10.1016/j.sagf.2024.01.005  
 
 ### 2023
-- **En cas d'allergie aux bêta-lactamines…**  
+- **En cas d'allergie aux béta-lactamines chez les femmes enceintes colonisées à Streptococcus agalactiae, tenir compte de l'antibiogramme à l'accouchement pourrait diminuer le risque d'infection néonatale**  
   *Médecine et Maladies Infectieuses Formation*, 2023.  
   DOI : 10.1016/j.mmifmc.2023.11.001  
 
 ### 2022
-- **Total alkaline phosphatase levels by gestational age…**  
+- **Total alkaline phosphatase levels by gestational age in a large sample of pregnant women**  
   *Placenta*, 2022–2023.  
   DOI : 10.1016/j.placenta.2022.12.005  
 
@@ -113,21 +113,20 @@
 - **Journées Sages-Femmes 2025**, Paris  
   *Place de l’antibiogramme du SGB dans la prévention des INBP* — 03/2025  
 
-- **Pari(s) Santé Femmes 2025**  
+- **Pari(s) Santé Femmes 2025**, Paris
   *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept* — 12/2025  
 
-- **Société Française de Médecine Périnatale 2025**  
+- **Société Française de Médecine Périnatale 2025**, Rennes
   *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept* — 10/2025  
 
 ### 2024
-- **Groupement Régional du CNGOF 2024**  
+- **Groupement Régional du CNGOF 2024**, Lille
   *Intérêt de l’antibiogramme du SGB dans la prévention des INBP* — 05/2024  
 
 ### 2023
 - **Journées Sages-Femmes 2023**, Paris  
   *Place des phosphatases alcalines dans le diagnostic de l’IHC* — 03/2023  
 
----
 
 ## Communications affichées
 

@@ -27,24 +27,24 @@ permalink: /formation/
 
 ---
 
-## Master 1 Histoire & Philosophie de la Médecine — Université de Lille (2022–2023)
+## Master 1 Biologie Santé (Formation de la pensée médicale : concepts et histoire) — Université de Lille (2022–2023)
 - Transcription et analyse de textes médicaux anciens en langue grecque et latine.  
 - Acquisition des bases de réflexion en épistémologie et des outils d’analyse logique des erreurs de raisonnement.
-- Définir la notion de grossesse pathologique en mobilisant une démarche de philosophie expérimentale (construction d’un protocole, recueil d’intuitions, analyse conceptuelle).
+- Etude de la notion de grossesse pathologique via la philosophie expérimentale (construction d’un protocole, recueil d’intuitions, analyse conceptuelle).
 
 ---
 
 ## DU Intelligence Artificielle en Santé — Université de Lille (2023–2024)
 - Analyse critique des usages de l’IA en santé et des idées reçues qui les entourent.  
 - Compréhension des architectures IA et de leurs implications dans les pratiques médicales.  
-- Mise en lien des enseignements avec des projets concrets en périnatalité (RCF, automatisation).
+- Mise en lien des enseignements reçus avec des projets concrets en périnatalité (automatisation de la lecture du rythme cardiaque foetal).
 
 ---
 
-## Master 2 Biologie‑Santé — Sciences Chirurgicales & Nouvelles Technologies Interventionnelles (Paris‑Saclay, 2024–2025)
-- Conception d’un protocole expérimental complet sur l’hypoglycémie chez la brebis gestante.  
-- Analyse de signaux biomédicaux (EEG/ECG) pour explorer les réponses physiologiques fœtales.  
-- Rédaction et soumission d’une saisine éthique acceptée sans correction.
+## Master 2 Biologie‑Santé (Sciences Chirurgicales & Nouvelles Technologies Interventionnelles) - Université Paris‑Saclay (2024–2025)
+- Réaliser l’instrumentation chirurgicale de la brebis gestante et de son fœtus pour permettre la mise en place du modèle expérimental.  
+- Concevoir, mettre en œuvre et ajuster un protocole d’hypoglycémie, incluant la rédaction et la soumission d’une saisine au Comité d’Éthique en Expérimentation Animale (acceptée sans correction).  
+- Traiter et analyser des signaux biomédicaux (EEG, ECG) afin d’étudier les réponses physiologiques fœtales.
 
 ---
 

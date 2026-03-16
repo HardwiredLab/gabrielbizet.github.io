@@ -6,11 +6,13 @@ theme: jekyll-theme-cayman
 
 markdown: kramdown
 
+# Déclaration de la collection des pages
 collections:
   pages:
     output: true
     permalink: /:path/
 
+# Valeurs par défaut pour toutes les pages de la collection
 defaults:
   - scope:
       path: ""
@@ -18,22 +20,26 @@ defaults:
     values:
       layout: page
 
+# Navigation du site
 nav:
   - title: "Accueil"
     url: "/"
   - title: "À propos"
     url: "/about/"
   - title: "Pratique Clinique"
-    url: "/clinique/"
+    url: "/pratique-clinique/"
   - title: "Recherche"
     url: "/recherche/"
   - title: "Enseignement"
     url: "/enseignement/"
-  - title: "Activités connexes"
-    url: "/autres-activites/"
+  - title: "Cursus Académique"
+    url: "/enseignement/"
+  - title: "Projets Transversaux"
+    url: "/projets-transversaux/"
 
 sass:
   style: compressed
 
+# Dossiers à inclure dans la génération
 include:
   - assets

@@ -12,7 +12,7 @@ Il propose une vue d’ensemble de mes travaux, de mes engagements et des compé
 Ce site est organisé en plusieurs sections :
 
 - **À propos**  
-  Repères sur mon identité professionnelle, ma posture et mon projet.
+  Quelques repères sur mon identité professionnelle, ma posture et mon projet de carrière.
 
 - **Pratique clinique**  
   Présentation de mes expériences professionnelles et des compétences mobilisées sur le terrain.
@@ -21,9 +21,9 @@ Ce site est organisé en plusieurs sections :
   Travaux en cours, publications et éléments méthodologiques.
 
 - **Enseignement**  
-  Unités d’enseignement, démarche pédagogique et travaux de refonte en lien avec la réforme.
+  Enseignements dispensés et démarche pédagogique.
 
 - **Activités connexes**  
-  Engagement en tant que sapeur‑pompier volontaire, activités de formation et projets transversaux.
+  Mes engagements et projets transversaux.
   
 Ce portfolio est réalisé dans le cadre du dispositif **COMPEDOC** de l’Université de Lille.

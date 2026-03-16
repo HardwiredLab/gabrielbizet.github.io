@@ -6,20 +6,6 @@ theme: jekyll-theme-cayman
 
 markdown: kramdown
 
-# Déclaration de la collection des pages
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-# Valeurs par défaut pour toutes les pages de la collection
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
-
 # Navigation du site
 nav:
   - title: "Accueil"
@@ -40,6 +26,5 @@ nav:
 sass:
   style: compressed
 
-# Dossiers à inclure dans la génération
 include:
   - assets

@@ -1,23 +1,27 @@
 ## Projets en cours
 
 ### 1. Variations glycémiques maternelles et système nerveux autonome fœtal (Direction : Dr L. Ghesquière et Dr M. Lemaitre)
-**Objectif :** comprendre comment les variations glycémiques maternelles (hypo- et hyperglycémies) influencent le système nerveux autonome fœtal.  
+**Objectif :** Comprendre comment les variations glycémiques maternelles (hypo- et hyperglycémies) influencent le système nerveux autonome fœtal.  
 **Compétences mobilisées :** 
-- Piloter et coordonner un projet de recherche translationnel
-- Recueil et analyse de signaux physiologiques par ajustements itératifs d'un protocole
-- Coordination interdisciplinaire.
+- Piloter et coordonner un projet de recherche translationnel - incluant la conception méthodologique et la rédaction de la saisine à destination du comité d'éthique en expérimentation animale
+- Superviser et encadrer les étudiants en Master 2 impliqués dans le projet
+- Développer une démarche critique continue pour ajuster en temps réel les procédures et garantir l'intégrité et la qualité scientifique du protocole
 
 ---
 
 ### 2. Diagnostic de l’Intervillite Histiocytaire Chronique
-**Objectif :** définir la valeur diagnostique et pronostique d’un dosage de phosphatases alcalines dans l’intervillite histiocytaire chronique.  
-**Compétences mobilisées :** structuration d’une étude cas‑témoins · interprétation de données biologiques · synthèse scientifique.
+**Objectif :** Définir la valeur diagnostique et pronostique d’un dosage de phosphatases alcalines dans l’intervillite histiocytaire chronique.  
+**Compétences mobilisées :** 
+- Co‑construire et déployer des études cliniques en collaboration avec les équipes biologiques et obstétricales
+- Recenser, structurer, analyser et synthétiser les données pour produire un article scientifique clair et exploitable
+- Adapter le manuscrit aux exigences méthodologiques et éditoriales de la revue en vue de la soumission de l'article
 
 ---
 
 ### 3. Antibioprophylaxie per-partum du Streptocoque du Groupe B
-**Objectif :** déterminer l’utilité du recours à un antibiogramme systématique en cas de portage maternel de SGB chez les patientes allergiques aux bêta‑lactamines.  
-**Compétences mobilisées :** épidémiologie clinique · analyse des issues néonatales · valorisation des résultats en congrès.
+**Objectif :** Déterminer l’utilité du recours à un antibiogramme systématique en cas de portage maternel de SGB chez les patientes allergiques aux bêta‑lactamines.  
+**Compétences mobilisées :** 
+- épidémiologie clinique · analyse des issues néonatales · valorisation des résultats en congrès.
 
 ---
 

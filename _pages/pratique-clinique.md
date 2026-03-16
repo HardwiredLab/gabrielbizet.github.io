@@ -1,3 +1,9 @@
+---
+title: "Pratique Clinique"
+layout: page
+permalink: /pratique-clinique/
+---
+
 # Pratique clinique
 
 Ma pratique clinique constitue le socle de l’ensemble de mes projets. Elle nourrit ma réflexion, structure mes priorités et donne du sens à mes engagements parallèles. J’ai choisi d’exercer dans **tous les niveaux de maternité** — en milieu public, privé et libéral — afin de construire une **vision globale et objective** de ma profession. Cette diversité me permet d’affiner mes compétences techniques tout en préservant mon indépendance professionnelle, et de renforcer mes capacités d’adaptation, d’organisation et de prise de décision au sein d’environnements et d’équipes multiples.

@@ -48,21 +48,21 @@ permalink: /formation/
 
 ---
 
-## AUEC — Concepteur de procédures expérimentales (2025)
+## AUEC Concepteur de procédures expérimentales — Université de Lille (2025)
 - Sélectionner un modèle animal pertinent et structurer un protocole expérimental adapté (biologie comparative, méthodes alternatives...).  
 - Identifier les signes de douleur, détresse, inconfort ou souffrance chez les petits et grands mammifères et ajuster la procédure (points limites, analgésie, anesthésie).  
 - Rédiger une saisine éthique complète en intégrant les exigences réglementaires, les principes des 3R et les mesures garantissant la sécurité et le bien‑être de l'animal.
 
 ---
 
-## AUEC — Procédures expérimentales chirurgicales (2025)
+## AUEC Procédures expérimentales chirurgicales — Université de Lille (2025)
 - Réalisation de gestes chirurgicaux de base et spécialisés sur petits et grands mammifères, en appliquant les techniques opératoires enseignées.  
 - Développer un modèle expérimental chirurgical conforme au cadre réglementaire et éthique (3R), en intégrant notamment les règles de sécurité, d’analgésie et de réduction de la douleur.
 - Adapter une procédure chirurgicale à un modèle expérimental (cardiovasculaire, métabolique, inflammatoire, neurologique) en respectant les contraintes techniques et physiologiques de l’espèce.
 
 ---
 
-## Doctorat — ULR2694 METRICS (2025–2028, en cours)
+## Doctorat au sein de l'ULR2694 METRICS : Evaluation des technologies de Santé et des Pratiques Médicales - Ecole Graduée Biologie-Santé de Lille (2025–2028, en cours)
 - Développer un projet translationnel sur l’impact des variations glycémiques maternelles sur le système nerveux autonome fœtal.  
 - Conduire une revue de littérature structurée pour définir les hypothèses du projet et préparer les prochaines études cliniques.  
 - Gestion autonome d'un programme de recherche faisant communiquer expérimentation animale et recherche clinique.

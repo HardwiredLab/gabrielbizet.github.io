@@ -13,9 +13,12 @@ Ce site est organisé en plusieurs sections :
 
 - **À propos**  
   Quelques repères sur mon identité professionnelle, ma posture et mon projet de carrière.
-
+  
+- **Formation**  
+  Présentation de mon cursus académique.
+  
 - **Pratique clinique**  
-  Présentation de mes expériences professionnelles et des compétences mobilisées sur le terrain.
+  Mes expériences professionnelles et les compétences mobilisées sur le terrain.
 
 - **Recherche**  
   Travaux en cours, publications et éléments méthodologiques.

@@ -1,5 +1,5 @@
 ---
-title: "Formation"
+title: "Formation académique"
 layout: page
 permalink: /formation/
 ---

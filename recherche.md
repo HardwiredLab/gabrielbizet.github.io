@@ -1,6 +1,7 @@
 ---
 title: "Recherche"
 layout: default
+permalink: /recherche/
 ---
 
 ## Projets en cours

@@ -7,14 +7,10 @@ permalink: /
 <div class="intro">
     <h1>Portfolio de compétences</h1>
    
+ Bienvenue sur mon portfolio académique.
+ Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.
 
-    <p>
-        Bienvenue sur mon portfolio académique.
-        Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.
-    </p>
-
-   
-</div>
+ </div>
 
 ---
 
@@ -67,11 +63,11 @@ permalink: /
 
 <br>
 <br>
+<br>
+<br>
 
 Ce site a été réalisé dans le cadre du projet **COMPEDOC** mené par l'Université de Lille
 
-<br>
-<br>
 
  <div class="buttons">
         <a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/" target="_blank">LinkedIn</a>

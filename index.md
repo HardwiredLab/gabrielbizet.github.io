@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-layout: page
+layout: default
 permalink: /
 ---
 

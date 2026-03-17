@@ -150,3 +150,41 @@ a {
     margin-bottom: 30px;
   }
 }
+
+
+
+
+/* Contenu interne des pages */
+.page-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  line-height: 1.8;
+}
+
+/* Titres internes */
+.page-content h1,
+.page-content h2,
+.page-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #f0f6fc;
+}
+
+/* Paragraphes */
+.page-content p {
+  margin-bottom: 1.2rem;
+  color: #d0d7de;
+}
+
+/* Listes */
+.page-content ul,
+.page-content ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Liens internes */
+.page-content a {
+  color: #79c0ff;
+}

@@ -6,22 +6,22 @@ permalink: /
 
 <div class="banner" style="background-image: url('{{ "/assets/assets/img/LKD_v2.jpg" | relative_url }}');"></div>
 
- # Gabriel Bizet
- ### Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant
+<div class="intro">
+    <h1>Gabriel Bizet</h1>
+    <h3>Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant</h3>
 
+    <p>
+        Bienvenue sur mon portfolio académique.
+        Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.
+    </p>
 
-<p>
-Bienvenue sur mon portfolio académique.
-Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.
-</p>
-
-<div class="buttons">
-<a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/" target="_blank">LinkedIn</a>
-<a href="https://www.researchgate.net/profile/Gabriel-Bizet" target="_blank">ResearchGate</a>
-<a href="https://orcid.org/0000-0001-8758-6056" target="_blank">ORCID</a><br>
-<a href="{{ "/contact/" | relative_url }}">Contact</a>
-</div>
-
+    <div class="buttons">
+        <a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/" target="_blank">LinkedIn</a>
+        <a href="https://www.researchgate.net/profile/Gabriel-Bizet" target="_blank">ResearchGate</a>
+        <a href="https://orcid.org/0000-0001-8758-6056" target="_blank">ORCID</a>
+        <br>
+        <a href="{{ "/contact/" | relative_url }}">Contact</a>
+    </div>
 </div>
 
 ---

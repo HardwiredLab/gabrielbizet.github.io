@@ -1,5 +1,5 @@
 ---
-title: "Enseignement"
+title: "À propos"
 layout: default
 permalink: /about/
 ---

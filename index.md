@@ -63,8 +63,6 @@ permalink: /
 
 <br>
 <br>
-<br>
-<br>
 
 Ce site a été réalisé dans le cadre du projet **COMPEDOC** mené par l'Université de Lille
 

@@ -4,11 +4,11 @@ title: Accueil
 permalink: /
 ---
 
-<div class="banner" style="background-image: url('{{ "/assets/img/banner.jpg" | relative_url }}');"></div>
+<div class="banner" style="background-image: url('{{ "/‎assets/assets/img/LKD_v2.jpg" | relative_url }}');"></div>
 
 <div class="profile">
 
-<img src="{{ "/assets/img/photo.jpg" | relative_url }}" alt="photo">
+<img src="{{ "/assets/img/img catho nb.jpeg" | relative_url }}" alt="photo">
 
 # Gabriel Bizet
 ### Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant

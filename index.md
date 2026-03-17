@@ -53,4 +53,4 @@ Ce site est organisé en plusieurs sections :
 <a href="{{ "/projets-transversaux/" | relative_url }}">Voir →</a>
 </div>
 
-Ce portfolio est réalisé dans le cadre du dispositif **COMPEDOC** de l’Université de Lille.
+Ce portfolio s'inscrit dans le cadre du dispositif **COMPEDOC** de l’Université de Lille.

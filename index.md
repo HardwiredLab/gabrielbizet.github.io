@@ -10,8 +10,8 @@ permalink: /
 <br>
 
 <div class="intro">
-    <h1>Gabriel Bizet</h1>
-    <h3>Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant</h3>
+    <h1>Portfolio de compétences</h1>
+   
 
     <p>
         Bienvenue sur mon portfolio académique.
@@ -59,14 +59,20 @@ permalink: /
 <a href="{{ "/projets-transversaux/" | relative_url }}">Voir →</a>
 </div>
 
+<div class="section">
+<h3>📬 Contact</h3>
+<p>N'hésitez pas à me contacter !</p>
+<a href="{{ "/contact/" | relative_url }}">Voir →</a>
+</div>
 
+<br>
+<br>
 Ce site a été réalisé dans le cadre du projet **COMPEDOC** mené par l'Université de Lille
-
-
+<br
+<br>
  <div class="buttons">
         <a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/" target="_blank">LinkedIn</a>
         <a href="https://www.researchgate.net/profile/Gabriel-Bizet" target="_blank">ResearchGate</a>
         <a href="https://orcid.org/0000-0001-8758-6056" target="_blank">ORCID</a>
-        <br>
-        <a href="{{ "/contact/" | relative_url }}">Contact</a>
     </div>
+

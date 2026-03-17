@@ -23,7 +23,7 @@ body {
 /* 🖼️ Bannière */
 .banner {
   width: 100%;
-  height: 260px;                 /* hauteur desktop */
+  height: 260px; /* desktop */
   background-size: cover;
   background-position: center;
   border-radius: 16px;
@@ -88,7 +88,7 @@ body {
 /* 🧊 Sections */
 .section {
   margin-top: 50px;
-  padding: 25px;
+  padding: 35px; /* 🔥 plus d’air */
   background: #11161f;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
@@ -110,8 +110,8 @@ a {
 .page-content {
   max-width: 850px;
   margin: 0 auto;
-  padding: 2.5rem 1.5rem;
-  line-height: 1.8;
+  padding: 3rem 2rem; /* 🔥 plus respirable */
+  line-height: 1.85;
 }
 
 .page-content h1,
@@ -141,23 +141,25 @@ a {
 @media (max-width: 600px) {
 
   .banner {
-    height: 140px;              /* 🔥 enfin une hauteur mobile correcte */
-    border-radius: 16px;
-    margin: 20px 0 40px 0;
-    background-position: center top;
-  }
-
-  .banner::after {
-    background: rgba(0,0,0,0.18);
+    height: 160px; /* 🔥 meilleure hauteur mobile */
+    background-size: cover;
+    background-position: center top; /* 🔥 recadrage intelligent */
+    border-radius: 14px;
+    margin: 15px 0 30px 0;
   }
 
   .page-content {
-    padding: 2rem 1.2rem;
+    padding: 2.2rem 1.4rem; /* 🔥 plus d’espace latéral */
+    line-height: 1.9;
+  }
+
+  .section {
+    padding: 28px; /* 🔥 lisibilité mobile */
   }
 
   .buttons a {
     display: block;
-    width: 85%;
+    width: 90%;
     margin: 10px auto;
   }
 }

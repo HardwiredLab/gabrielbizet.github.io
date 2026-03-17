@@ -4,29 +4,47 @@ layout: default
 permalink: /
 ---
 
-# Gabriel BIZET
+# Portfolio
 
 Bienvenue sur mon portfolio académique.  
 Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.
 
 Ce site est organisé en plusieurs sections :
 
-- **[À propos]({{ "/about/" | relative_url }})**
-Quelques repères sur mon identité professionnelle, ma posture et mon projet de carrière.
+<div class="card">
+<h3>👤 À propos</h3>
+<p>Quelques repères sur mon identité professionnelle et mon projet de carrière</p>
+<a href="{{ "/about/" | relative_url }}">Voir →</a>
+</div>
 
-- **[Cursus académique]({{ "/formation/" | relative_url }})**
-Présentation de mon cursus académique.
+<div class="card">
+<h3>🎓 Cursus académique</h3>
+<p>Présentation de mon parcours universitaire</p>
+<a href="{{ "/formation/" | relative_url }}">Voir →</a>
+</div>
 
-- **[Pratique clinique]({{ "/pratique-clinique/" | relative_url }})**
-Mes expériences professionnelles et les compétences mobilisées sur le terrain.
+<div class="card">
+<h3>🏥 Pratique clinique</h3>
+<p>Mes expériences professionnelles</p>
+<a href="{{ "/pratique-clinique/" | relative_url }}">Voir →</a>
+</div>
 
-- **[Recherche]({{ "/recherche/" | relative_url }})**
-Travaux en cours, publications et éléments méthodologiques.
+<div class="card">
+<h3>🔬 Recherche</h3>
+<p>Mes travaux en cours et publications</p>
+<a href="{{ "/recherche/" | relative_url }}">Voir →</a>
+</div>
 
-- **[Enseignement]({{ "/enseignement/" | relative_url }})**
-Enseignements dispensés et démarche pédagogique.
+<div class="card">
+<h3>📚 Enseignement</h3>
+<p>Les cours que je dispense</p>
+<a href="{{ "/enseignement/" | relative_url }}">Voir →</a>
+</div>
 
-- **[Projets transversaux]({{ "/projets-transversaux/" | relative_url }})**
-Mes engagements et projets transversaux.
+<div class="card">
+<h3>🚀 Projets transversaux</h3>
+<p>Mes engagements et projets</p>
+<a href="{{ "/projets-transversaux/" | relative_url }}">Voir →</a>
+</div>
 
 Ce portfolio est réalisé dans le cadre du dispositif **COMPEDOC** de l’Université de Lille.

@@ -12,7 +12,7 @@ permalink: /contact/
 <p>
 <a href="https://www.researchgate.net/profile/Gabriel-Bizet">🔬 ResearchGate</a><br>
 <a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/">💼 LinkedIn</a><br>
-<a href="https://orcid.org/0000-0001-8758-6056">🧬 ORCID</a>
+<a href="https://orcid.org/0000-0001-8758-6056">🧬 ORCID</a><br>
 <a href="https://scholar.google.fr/citations?user=nO-q7GwAAAAJ&hl=fr&oi=ao">📚 Google Scholar</a>
 
 

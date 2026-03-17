@@ -3,15 +3,17 @@
 
 @import "jekyll-theme-primer";
 
-/* 🌑 Fond global : noir adouci */
+/* 🌑 Fond global */
 body {
-  background: #0f131a; /* légèrement plus chaud que #0d1117 */
+  background: #0f131a;
   color: #e6edf3;
   font-family: "Inter", -apple-system, sans-serif;
   line-height: 1.7;
+  margin: 0;
+  padding: 0;
 }
 
-/* 🧱 Conteneur */
+/* 🧱 Conteneur global */
 .container-lg {
   max-width: 900px;
   margin: auto;
@@ -21,12 +23,22 @@ body {
 /* 🖼️ Bannière */
 .banner {
   width: 100%;
-  height: 220px;
+  height: 260px;                 /* hauteur desktop */
   background-size: cover;
   background-position: center;
-  border-radius: 14px;
-  margin-bottom: 20px;
+  border-radius: 16px;
+  margin: 25px 0 40px 0;
+  position: relative;
+  overflow: hidden;
   box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+}
+
+/* Overlay */
+.banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.22);
 }
 
 /* 🧑‍🔬 Profil */
@@ -42,7 +54,6 @@ body {
   box-shadow: 0 4px 12px rgba(0,0,0,0.5);
 }
 
-/* 🧠 Nom */
 .profile h1 {
   margin-top: 12px;
   font-size: 2.4em;
@@ -50,7 +61,6 @@ body {
   font-weight: 700;
 }
 
-/* 🧾 Sous-titre */
 .profile p {
   color: #9aa4b1;
   font-size: 1.1em;
@@ -78,9 +88,9 @@ body {
 /* 🧊 Sections */
 .section {
   margin-top: 50px;
-  padding: 20px;
+  padding: 25px;
   background: #11161f;
-  border-radius: 10px;
+  border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
@@ -96,46 +106,14 @@ a {
   color: #58a6ff;
 }
 
-/* 📱 Responsive mobile */
-/* Bannière desktop */
-.banner {
-  width: 100%;
-  height: 300px;              /* 🔥 plus large qu’avant */
-  background-size: cover;
-  background-position: center;
-  border-radius: 16px;
-  margin: 30px 0 40px 0;      /* espace au-dessus ET en dessous */
-  position: relative;
-  overflow: hidden;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.45);
-}
-
-/* Overlay subtil */
-.banner::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0,0,0,0.22); /* léger voile pour adoucir */
-}
-
-/* Bannière mobile */
-@media (max-width: 600px) {
-  .banner {
-    height: 200px;            /* 🔥 plus grande qu’avant */
-    border-radius: 18px;
-    margin: 25px 0 45px 0;    /* plus d’air autour */
-  }
-}
-
-/* Contenu interne des pages */
+/* 📄 Contenu interne */
 .page-content {
   max-width: 850px;
   margin: 0 auto;
-  padding: 2.5rem 1.5rem;   /* gros padding pour respirer */
+  padding: 2.5rem 1.5rem;
   line-height: 1.8;
 }
 
-/* Titres internes */
 .page-content h1,
 .page-content h2,
 .page-content h3 {
@@ -144,27 +122,42 @@ a {
   color: #f0f6fc;
 }
 
-/* Paragraphes */
 .page-content p {
   margin-bottom: 1.4rem;
   color: #d0d7de;
 }
 
-/* Listes */
 .page-content ul,
 .page-content ol {
   margin-left: 1.5rem;
   margin-bottom: 1.5rem;
 }
 
-/* Liens internes */
 .page-content a {
   color: #79c0ff;
 }
 
-/* Mobile */
+/* 📱 VERSION MOBILE */
 @media (max-width: 600px) {
+
+  .banner {
+    height: 140px;              /* 🔥 enfin une hauteur mobile correcte */
+    border-radius: 16px;
+    margin: 20px 0 40px 0;
+    background-position: center top;
+  }
+
+  .banner::after {
+    background: rgba(0,0,0,0.18);
+  }
+
   .page-content {
-    padding: 2rem 1.2rem;  /* encore plus d’air sur téléphone */
+    padding: 2rem 1.2rem;
+  }
+
+  .buttons a {
+    display: block;
+    width: 85%;
+    margin: 10px auto;
   }
 }

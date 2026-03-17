@@ -6,7 +6,7 @@ permalink: /recherche/
 
 ## Projets en cours
 
-### 1. Variations glycémiques maternelles et système nerveux autonome fœtal (Direction : Dr L. Ghesquière et Dr M. Lemaitre)
+### Variations glycémiques maternelles et système nerveux autonome fœtal (Direction : Dr L. Ghesquière et Dr M. Lemaitre)
 **Objectif :** Comprendre comment les variations glycémiques maternelles (hypo- et hyperglycémies) influencent le système nerveux autonome fœtal.  
 **Compétences mobilisées :** 
 - Piloter et coordonner un projet de recherche translationnel - incluant la conception méthodologique, la rédaction de la saisine à destination du comité d'éthique en expérimentation animale et l'encadrement des étudiants en Master 2 impliqués dans le projet.
@@ -15,7 +15,7 @@ permalink: /recherche/
 
 ---
 
-### 2. Diagnostic de l’Intervillite Histiocytaire Chronique (Direction : Pr D. Subtil)
+### Diagnostic de l’Intervillite Histiocytaire Chronique (Direction : Pr D. Subtil)
 **Objectif :** Définir la valeur diagnostique et pronostique d’un dosage de phosphatases alcalines dans l’intervillite histiocytaire chronique.  
 **Compétences mobilisées :** 
 - Co‑construire et déployer des études cliniques en collaboration avec les équipes biologiques et obstétricales.
@@ -24,7 +24,7 @@ permalink: /recherche/
   
 ---
 
-### 3. Antibioprophylaxie per-partum du Streptocoque du Groupe B (Direction : Pr D. Subtil et Dr C. Duployez)
+### Antibioprophylaxie per-partum du Streptocoque du Groupe B (Direction : Pr D. Subtil et Dr C. Duployez)
 **Objectif :** Déterminer l’utilité du recours à un antibiogramme systématique en cas de portage maternel de SGB chez les patientes allergiques aux bêta‑lactamines.  
 **Compétences mobilisées :** 
 - Anticiper les contraintes méthodologiques pour renforcer la validité de l’étude d’un événement clinique rare.
@@ -35,7 +35,7 @@ permalink: /recherche/
 
 ## Participation aux projets de recherche
 
-### 4. Anévrysme de l’artère splénique pendant la grossesse (Thèse Dr Elise Deroubaix)
+### Anévrysme de l’artère splénique pendant la grossesse (Thèse Dr Elise Deroubaix)
 **Objectif :** Décrire les conditions de rupture et identifier les facteurs associés à la survie maternelle.  
 **Compétences mobilisées :** 
 - Contribuer à la relecture méthodologique et à la discussion scientifique de l’article
@@ -43,7 +43,7 @@ permalink: /recherche/
 
 ---
 
-### 5. Dysjonctions symphysaires dans le post-partum (Thèse Dr Sacha Masquelier)
+### Dysjonctions symphysaires dans le post-partum (Thèse Dr Sacha Masquelier)
 **Objectif :** Décrire les circonstances de survenue et les facteurs de risque de la dysjonction symphysaire.  
 **Compétences mobilisées :** 
 - Concevoir et optimiser des figures issues d’imageries (scans, radios) pour renforcer la lisibilité scientifique du manuscrit
@@ -51,7 +51,7 @@ permalink: /recherche/
 
 ---
 
-### 6. Macrosomie et courbes de poids fœtales (Thèse Dr Madleen Lemaitre)
+### Macrosomie et courbes de poids fœtales (Thèse Dr Madleen Lemaitre)
 **Objectif :** apprécier l’intérêt du z‑score et du birth weight ratio (BWRatio) pour préciser le niveau de risque associé à la macrosomie dans le Diabète de Type 1.  
 **Compétences mobilisées :** 
 - Modéliser des courbes ROC et estimer les performances prédictives des paramètres étudiés

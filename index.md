@@ -7,12 +7,12 @@ permalink: /
 <div class="intro">
     <h1>Portfolio de compétences</h1>
    
- ## Bienvenue sur mon portfolio académique. <br>
- ## Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.
+ Bienvenue sur mon portfolio académique. <br>
+ Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.
 
  </div>
 
----
+
 
 <div class="section">
 <h3>👤 À propos</h3>

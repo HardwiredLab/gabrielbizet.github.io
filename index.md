@@ -62,12 +62,17 @@ permalink: /
 
 <br>
 <br>
-Ce site a été réalisé dans le cadre du projet **COMPEDOC** mené par l'Université de Lille
-<br>
-<br>
+
 <div class="banner" style="background-image: url('{{ "/assets/assets/img/LKD_v2.jpg" | relative_url }}');"></div>
+
 <br>
 <br>
+
+Ce site a été réalisé dans le cadre du projet **COMPEDOC** mené par l'Université de Lille
+
+<br>
+<br>
+
  <div class="buttons">
         <a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/" target="_blank">LinkedIn</a>
         <a href="https://www.researchgate.net/profile/Gabriel-Bizet" target="_blank">ResearchGate</a>

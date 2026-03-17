@@ -6,7 +6,8 @@ permalink: /recherche/
 
 ## Projets en cours
 
-### Variations glycémiques maternelles et système nerveux autonome fœtal (Direction : Dr L. Ghesquière et Dr M. Lemaitre)
+### Variations glycémiques maternelles et système nerveux autonome fœtal
+### Direction : Dr L. Ghesquière et Dr M. Lemaitre
 **Objectif :** Comprendre comment les variations glycémiques maternelles (hypo- et hyperglycémies) influencent le système nerveux autonome fœtal.  
 **Compétences mobilisées :** 
 - Piloter et coordonner un projet de recherche translationnel - incluant la conception méthodologique, la rédaction de la saisine à destination du comité d'éthique en expérimentation animale et l'encadrement des étudiants en Master 2 impliqués dans le projet.
@@ -15,7 +16,8 @@ permalink: /recherche/
 
 ---
 
-### Diagnostic de l’Intervillite Histiocytaire Chronique (Direction : Pr D. Subtil)
+### Diagnostic de l’Intervillite Histiocytaire Chronique 
+### Direction : Pr D. Subtil
 **Objectif :** Définir la valeur diagnostique et pronostique d’un dosage de phosphatases alcalines dans l’intervillite histiocytaire chronique.  
 **Compétences mobilisées :** 
 - Co‑construire et déployer des études cliniques en collaboration avec les équipes biologiques et obstétricales.
@@ -24,7 +26,8 @@ permalink: /recherche/
   
 ---
 
-### Antibioprophylaxie per-partum du Streptocoque du Groupe B (Direction : Pr D. Subtil et Dr C. Duployez)
+### Antibioprophylaxie per-partum du Streptocoque du Groupe B 
+### Direction : Pr D. Subtil et Dr C. Duployez
 **Objectif :** Déterminer l’utilité du recours à un antibiogramme systématique en cas de portage maternel de SGB chez les patientes allergiques aux bêta‑lactamines.  
 **Compétences mobilisées :** 
 - Anticiper les contraintes méthodologiques pour renforcer la validité de l’étude d’un événement clinique rare.

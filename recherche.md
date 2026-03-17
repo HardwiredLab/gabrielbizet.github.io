@@ -28,7 +28,7 @@ permalink: /recherche/
 
 ### Antibioprophylaxie per-partum du Streptocoque du Groupe B 
 ### Direction : Pr D. Subtil et Dr C. Duployez
-**Objectif :** Déterminer l’utilité du recours à un antibiogramme systématique en cas de portage maternel de SGB chez les patientes allergiques aux bêta‑lactamines.  
+**Objectif :** Déterminer l’utilité du recours à un antibiogramme systématique en cas de portage maternel de Streptocoque du Groupe B chez les patientes allergiques aux bêta‑lactamines.  
 **Compétences mobilisées :** 
 - Anticiper les contraintes méthodologiques pour renforcer la validité de l’étude d’un événement clinique rare.
 - Mettre en œuvre un recueil standardisé des données issues des dossiers obstétricaux.
@@ -39,7 +39,7 @@ permalink: /recherche/
 ## Participation aux projets de recherche
 
 ### Anévrysme de l’artère splénique pendant la grossesse (Thèse Dr Elise Deroubaix)
-**Objectif :** Décrire les conditions de rupture et identifier les facteurs associés à la survie maternelle.  
+**Objectif :** Décrire les conditions de rupture d'anévrysme de l'artère splénique et identifier les facteurs associés à la survie maternelle.  
 **Compétences mobilisées :** 
 - Contribuer à la relecture méthodologique et à la discussion scientifique de l’article
 - Préparer et soumettre le manuscrit auprès de la revue
@@ -55,7 +55,7 @@ permalink: /recherche/
 ---
 
 ### Macrosomie et courbes de poids fœtales (Thèse Dr Madleen Lemaitre)
-**Objectif :** apprécier l’intérêt du z‑score et du birth weight ratio (BWRatio) pour préciser le niveau de risque associé à la macrosomie dans le Diabète de Type 1.  
+**Objectif :** Apprécier l’intérêt du z‑score et du birth weight ratio (BWRatio) pour préciser le niveau de risque associé à la macrosomie dans le Diabète de Type 1.  
 **Compétences mobilisées :** 
 - Modéliser des courbes ROC et estimer les performances prédictives des paramètres étudiés
 - Faciliter l'analyse comparative des données recueillies
@@ -64,6 +64,9 @@ permalink: /recherche/
 
 ## Mémoires
 
+- **Induction d'une hypoglycémie chez la brebis gestante : preuve de concept**
+  Mémoire pour l'obtention du Master Biologie Santé, 2025.
+  
 - **Place de l'antibiogramme du Streptocoque du Groupe B maternel dans la prévention des INBP**  
   Mémoire pour l'obtention du D.E. de Sage-Femme, 2024.  
 

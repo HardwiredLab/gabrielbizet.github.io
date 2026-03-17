@@ -21,7 +21,7 @@ Il propose une vue d’ensemble de mes travaux, de mes engagements et des compé
 <div class="buttons">
 <a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/" target="_blank">LinkedIn</a>
 <a href="https://www.researchgate.net/profile/Gabriel-Bizet" target="_blank">ResearchGate</a>
-<a href="https://orcid.org/0000-0001-8758-6056" target="_blank">ORCID</a>
+<a href="https://orcid.org/0000-0001-8758-6056" target="_blank">ORCID</a><br>
 <a href="{{ "/contact/" | relative_url }}">Contact</a>
 </div>
 

@@ -1,6 +1,7 @@
 ---
 title: "Projets Transversaux"
 layout: default
+permalink: /projets-transversaux/
 ---
 
 Projets transversaux

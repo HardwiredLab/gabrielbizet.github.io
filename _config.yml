@@ -31,6 +31,8 @@ nav:
     url: "{{ site.baseurl }}/formation/"
   - title: "Projets Transversaux"
     url: "{{ site.baseurl }}/projets-transversaux/"
+  - title: "Contact"
+  url: "{{ site.baseurl }}/contact/"
 
 sass:
   style: compressed

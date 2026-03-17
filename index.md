@@ -11,22 +11,22 @@ Il propose une vue d’ensemble de mes travaux, de mes engagements et des compé
 
 Ce site est organisé en plusieurs sections :
 
-- **[À propos]({{ site.baseurl }}/about/)**
+- **[À propos]({{ "/about/" | relative_url }})**
 Quelques repères sur mon identité professionnelle, ma posture et mon projet de carrière.
 
-- **[Cursus académique]({{ site.baseurl }}/formation/)**
+- **[Cursus académique]({{ "/formation/" | relative_url }})**
 Présentation de mon cursus académique.
 
-- **[Pratique clinique]({{ site.baseurl }}/pratique-clinique/)**
+- **[Pratique clinique]({{ "/pratique-clinique/" | relative_url }})**
 Mes expériences professionnelles et les compétences mobilisées sur le terrain.
 
-- **[Recherche]({{ site.baseurl }}/recherche/)**
+- **[Recherche]({{ "/recherche/" | relative_url }})**
 Travaux en cours, publications et éléments méthodologiques.
 
-- **[Enseignement]({{ site.baseurl }}/enseignement/)**
+- **[Enseignement]({{ "/enseignement/" | relative_url }})**
 Enseignements dispensés et démarche pédagogique.
-  
-- **[Projets transversaux]({{ site.baseurl }}/projets-transversaux/)**
+
+- **[Projets transversaux]({{ "/projets-transversaux/" | relative_url }})**
 Mes engagements et projets transversaux.
 
 Ce portfolio est réalisé dans le cadre du dispositif **COMPEDOC** de l’Université de Lille.

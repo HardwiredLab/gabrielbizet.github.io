@@ -13,6 +13,11 @@ permalink: /
 # Gabriel Bizet
 ### Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant
 
+<p>
+Bienvenue sur mon portfolio académique.
+Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.
+</p>
+
 <div class="buttons">
 <a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/" target="_blank">LinkedIn</a>
 <a href="https://www.researchgate.net/profile/Gabriel-Bizet" target="_blank">ResearchGate</a>

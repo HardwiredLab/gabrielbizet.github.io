@@ -1,6 +1,7 @@
 ---
-title: "À propos"
+title: "Enseignement"
 layout: default
+permalink: /about/
 ---
 
 # A propos

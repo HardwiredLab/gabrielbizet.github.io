@@ -4,7 +4,7 @@ layout: default
 permalink: /
 ---
 
-# Gabriel BIZET - Portfolio COMPEDOC
+# Gabriel BIZET
 
 Bienvenue sur mon portfolio académique.  
 Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.

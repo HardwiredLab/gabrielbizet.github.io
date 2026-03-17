@@ -10,8 +10,8 @@ permalink: /
     <img src="{{ "/assets/img/img-catho-nb.jpeg" | relative_url }}" alt="photo">
 </div>
 
-    # Gabriel Bizet
-    ### Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant
+ # Gabriel Bizet
+ ### Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant
 
 
 <p>

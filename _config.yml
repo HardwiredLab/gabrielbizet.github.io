@@ -32,7 +32,7 @@ nav:
   - title: "Projets Transversaux"
     url: "{{ site.baseurl }}/projets-transversaux/"
   - title: "Contact"
-  url: "{{ site.baseurl }}/contact/"
+    url: "{{ site.baseurl }}/contact/"
 
 sass:
   style: compressed

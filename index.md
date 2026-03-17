@@ -43,9 +43,14 @@ Ce site est organisé en plusieurs sections :
 
 <div class="card">
 <h3>🚀 Projets transversaux</h3>
-<p>Mes engagements et projets</p>
+<p>Mes engagements et projets connexes</p>
 <a href="{{ "/projets-transversaux/" | relative_url }}">Voir →</a>
 </div>
 
+<div class="card">
+<h3>📬 Contact</h3>
+<p>N'hésitez paz à me contacter !</p>
+<a href="{{ "/projets-transversaux/" | relative_url }}">Voir →</a>
+</div>
 
 Ce portfolio est réalisé dans le cadre du dispositif **COMPEDOC** de l’Université de Lille.

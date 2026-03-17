@@ -50,7 +50,7 @@ Ce site est organisé en plusieurs sections :
 <div class="card">
 <h3>📬 Contact</h3>
 <p>N'hésitez paz à me contacter !</p>
-<a href="{{ "/projets-transversaux/" | relative_url }}">Voir →</a>
+<a href="{{ "/contact/" | relative_url }}">Voir →</a>
 </div>
 
 Ce portfolio s'inscrit dans le cadre du dispositif **COMPEDOC** de l’Université de Lille.

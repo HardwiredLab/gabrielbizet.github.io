@@ -8,10 +8,10 @@ permalink: /
 
 <div class="profile">
     <img src="{{ "/assets/img/img-catho-nb.jpeg" | relative_url }}" alt="photo">
-    
 
-# Gabriel Bizet
-### Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant
+    <h1>Gabriel Bizet</h1>
+    <h3>Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant</h3>
+</div>
 
 <p>
 Bienvenue sur mon portfolio académique.

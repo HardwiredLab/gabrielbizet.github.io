@@ -97,31 +97,6 @@ a {
 }
 
 /* 📱 Responsive mobile */
-@media (max-width: 600px) {
-
-  .banner {
-    height: 160px;
-  }
-
-  .profile h1 {
-    font-size: 1.9em;
-  }
-
-  .profile p {
-    font-size: 1em;
-  }
-
-  .buttons a {
-    display: block;
-    width: 90%;
-    margin: 10px auto;
-  }
-
-  .section {
-    padding: 15px;
-  }
-}
-
 /* Bannière desktop */
 .banner {
   width: 100%;
@@ -129,12 +104,12 @@ a {
   background-size: cover;
   background-position: center;
   border-radius: 14px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   position: relative;
   overflow: hidden;
 }
 
-/* Overlay subtil pour adoucir */
+/* Overlay subtil */
 .banner::after {
   content: "";
   position: absolute;
@@ -145,20 +120,18 @@ a {
 /* Bannière mobile */
 @media (max-width: 600px) {
   .banner {
-    height: 150px;
-    border-radius: 12px;
-    margin-bottom: 30px;
+    height: 130px;              /* plus petite */
+    border-radius: 16px;        /* plus élégante */
+    margin: 20px 0 40px 0;      /* espace au-dessus ET en dessous */
   }
 }
 
 
-
-
 /* Contenu interne des pages */
 .page-content {
-  max-width: 800px;
+  max-width: 850px;
   margin: 0 auto;
-  padding: 2rem 1.5rem;
+  padding: 2.5rem 1.5rem;   /* gros padding pour respirer */
   line-height: 1.8;
 }
 
@@ -166,14 +139,14 @@ a {
 .page-content h1,
 .page-content h2,
 .page-content h3 {
-  margin-top: 2rem;
+  margin-top: 2.2rem;
   margin-bottom: 1rem;
   color: #f0f6fc;
 }
 
 /* Paragraphes */
 .page-content p {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.4rem;
   color: #d0d7de;
 }
 
@@ -187,4 +160,11 @@ a {
 /* Liens internes */
 .page-content a {
   color: #79c0ff;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .page-content {
+    padding: 2rem 1.2rem;  /* encore plus d’air sur téléphone */
+  }
 }

@@ -13,15 +13,6 @@ permalink: /
 # Gabriel Bizet
 ### Sage-femme hospitalier, enseignant, sapeur-pompier volontaire, doctorant
 
-<p>
-Mon parcours se construit entre pratique clinique, enseignement et recherche. J’avance avec l’idée que les pratiques médicales, les données cliniques et la rigueur scientifique doivent se répondre pour améliorer la qualité et la cohérence des soins.</p>
-
-<div class="buttons">
-<a href="{{ "/pratique-clinique/" | relative_url }}">🏥 Pratique Clinique</a>
-<a href="{{ "/recherche/" | relative_url }}">🔬 Recherche</a>
-<a href="{{ "/enseignement/" | relative_url }}">📚 Enseignement</a>
-</div>
-
 <div class="buttons">
 <a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/" target="_blank">LinkedIn</a>
 <a href="https://www.researchgate.net/profile/Gabriel-Bizet" target="_blank">ResearchGate</a>

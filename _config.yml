@@ -11,7 +11,7 @@ plugins:
 
 # IMPORTANT pour un site de projet
 url: "https://gabrielbizet.github.io"
-baseurl: "/HardwiredLab"
+baseurl: ""
 
 # Navigation du site
 nav:

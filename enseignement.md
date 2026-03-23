@@ -100,17 +100,22 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
 </div>
 
 ### Pour l’institution
+
 <div class="cards-container">
+
   <div class="card">
     <h3>Structuration de la recherche au sein du Département de Maïeutique</h3>
     <p>Participation aux projets institutionnels (eRCF, AIM‑CTG) et intégration du département aux dynamiques de recherche en étroite collaboration avec mes collègues sages-femmes enseignants.</p>
- <div class="cards-container">
+  </div>
+
   <div class="card">
     <h3>Interface clinique–université</h3>
-   <p>Traduction de situations cliniques complexes en dispositifs pédagogiques universitaires (études de cas, supports d’enseignement...).</p> 
+    <p>Traduction de situations cliniques complexes en dispositifs pédagogiques universitaires (études de cas, supports d’enseignement...).</p>
   </div>
+
   <div class="card">
-    <h3><div class="card">
-  <h3>Polyvalence d’enseignement dans les filières santé</h3>
-  <p>Capacité à intervenir dans plusieurs filières (médecine, maïeutique, paramédical) sur des enseignements spécialisés et peu représentés : biostatistiques, physiologie placentaire, santé publique, méthodologie scientifique.</p>
+    <h3>Polyvalence d’enseignement dans les filières santé</h3>
+    <p>Capacité à intervenir dans plusieurs filières (médecine, maïeutique, paramédical) sur des enseignements spécialisés et peu représentés : biostatistiques, physiologie placentaire, santé publique, méthodologie scientifique.</p>
+  </div>
+
 </div>

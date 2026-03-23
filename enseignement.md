@@ -27,6 +27,7 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
   
 
 
+
 <style>
 .cards-container {
   display: grid;
@@ -62,7 +63,7 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
 }
 </style>
 
-## Compétences métiers spécifiques
+## Compétences issues de mon activité d'enseignement
 
 ### Pour les étudiants
 <div class="cards-container">
@@ -84,11 +85,11 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
 <div class="cards-container">
   <div class="card">
     <h3>Pilotage pédagogique</h3>
-    <p>Gestion autonome d’une promotion complète et coordination des enseignants intervenants.</p>
+    <p>Gestion autonome d’une promotion complète et coordination des intervenants.</p>
   </div>
   <div class="card">
     <h3>Harmonisation des programmes d'enseignement</h3>
-    <p>Contribution à la cohérence FGSMa2–FGSMa3 et aux réformes du 1er cycle.</p>
+    <p>Contribution à la cohérence FGSMa2–FGSMa3 et à la réforme des études de sages-femmes.</p>
   </div>
   <div class="card">
     <h3>Déploiement d'évaluations ciblées sur les compétences métiers</h3>
@@ -99,8 +100,8 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
 ### Pour l’institution
 <div class="cards-container">
   <div class="card">
-    <h3>Structuration de la recherche</h3>
-    <p>Participation aux projets institutionnels (eRCF, AIM‑CTG) et intégration du département aux dynamiques de recherche.</p>
+    <h3>Structuration de la recherche au sein du Département de Maïeutique</h3>
+    <p>Participation aux projets institutionnels (eRCF, AIM‑CTG) et intégration du département aux dynamiques de recherche en étroite collaboration avec mes collègues sages-femmes enseignants.</p>
   </div>
   <div class="card">
     <h3>Valorisation scientifique</h3>

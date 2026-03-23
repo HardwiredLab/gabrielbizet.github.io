@@ -14,16 +14,16 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
 - Travaux Dirigés : 17h
 - Travaux pratiques : 17h
 - Autres (évaluation sur terrain, jurys, oraux, suivi et jury de mémoire) : 93h
-  <br>*Total heures faciales : 38h*
-  <br>*Total heures : 131h*
+  <br>**Total heures faciales : 38h**
+  <br>**Total heures : 131h**
   
 ### 2025-2026
 - Cours Magistraux : 38h
 - Travaux Dirigés : 49h
 - Travaux pratiques : 31h
 - Autres (évaluation sur terrain, jurys, oraux, suivi et jury de mémoire) : 136h
-  <br>*Total heures faciales : 118h*
-  <br>*Total heures  : 254h*
+  <br>**Total heures faciales : 118h**
+  <br>**Total heures  : 254h**
   
 
 

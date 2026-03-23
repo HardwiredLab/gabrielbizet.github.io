@@ -14,6 +14,7 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
 - Travaux Dirigés : 17h
 - Travaux pratiques : 17h
 - Autres (évaluation sur terrain, jurys, oraux, suivi et jury de mémoire) : 93h
+  <br>
   <br>**Total heures faciales : 38h**
   <br>**Total heures : 131h**
   
@@ -22,6 +23,7 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
 - Travaux Dirigés : 49h
 - Travaux pratiques : 31h
 - Autres (évaluation sur terrain, jurys, oraux, suivi et jury de mémoire) : 136h
+  <br>
   <br>**Total heures faciales : 118h**
   <br>**Total heures  : 254h**
   
@@ -69,11 +71,11 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
 <div class="cards-container">
   <div class="card">
     <h3>Parcours d’apprentissage hybrides</h3>
-    <p>Conception de supports pédagogiques adaptatifs alignés sur les réformes et les besoins des promotions.</p>
+    <p>Conception de supports pédagogiques adaptatifs, alignés sur les réformes et les besoins des promotions.</p>
   </div>
   <div class="card">
     <h3>Simulation haute-fidélité</h3>
-    <p>Création de scénarios immersifs en simulation médicale et participation aux épreuves cliniques objectives standardisées et oraux.</p>
+    <p>Création de scénarios immersifs pluridisciplinaires en simulation médicale.</p>
   </div>
   <div class="card">
     <h3>Accompagnement en recherche</h3>
@@ -89,11 +91,11 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
   </div>
   <div class="card">
     <h3>Harmonisation des programmes d'enseignement</h3>
-    <p>Contribution à la cohérence FGSMa2–FGSMa3 et à la réforme des études de sages-femmes.</p>
+    <p>Contribution à la cohérence du 1er cycle (FGSMa2-FGSMa3) et à la réforme des études de sages-femmes.</p>
   </div>
   <div class="card">
     <h3>Déploiement d'évaluations ciblées sur les compétences métiers</h3>
-    <p>Conception d’ECOS, oraux structurés et dispositifs d’évaluation par compétences.</p>
+    <p>Conception d’Epreuves Cliniques Objectives Standarisées (ECOS), d'oraux et de dispositifs d’évaluation par compétences.</p>
   </div>
 </div>
 
@@ -102,13 +104,13 @@ J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de M�
   <div class="card">
     <h3>Structuration de la recherche au sein du Département de Maïeutique</h3>
     <p>Participation aux projets institutionnels (eRCF, AIM‑CTG) et intégration du département aux dynamiques de recherche en étroite collaboration avec mes collègues sages-femmes enseignants.</p>
+ <div class="cards-container">
+  <div class="card">
+    <h3>Interface clinique–université</h3>
+   <p>Traduction de situations cliniques complexes en dispositifs pédagogiques universitaires (études de cas, supports d’enseignement...).</p> 
   </div>
   <div class="card">
-    <h3>Valorisation scientifique</h3>
-    <p>Communications orales, articles, posters et animation d’ateliers en congrès.</p>
-  </div>
-  <div class="card">
-    <h3>Pédagogie universitaire en santé</h3>
-    <p>Expertise renforcée par les DU en biostatistiques, pédagogie et simulation.</p>
-  </div>
+    <h3><div class="card">
+  <h3>Polyvalence d’enseignement dans les filières santé</h3>
+  <p>Capacité à intervenir dans plusieurs filières (médecine, maïeutique, paramédical) sur des enseignements spécialisés et peu représentés : biostatistiques, physiologie placentaire, santé publique, méthodologie scientifique.</p>
 </div>

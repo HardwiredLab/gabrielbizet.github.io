@@ -7,115 +7,127 @@ permalink: /enseignement/
 # Enseignement
 
 ## Présentation générale
-J'exerce depuis janvier 2025 à temps partiel (50%) au sein de la Faculté de Médecine, Maïeutique, Sciences de la Santé (FMMS) de l'Université Catholique de Lille. Je suis l'enseignant référent de la promotion des FGSMa3 (étudiants sages-femmes 3ème année).
 
-### 2024-2025
-- Cours Magistraux : 4h
-- Travaux Dirigés : 17h
-- Travaux pratiques : 17h
-- Autres (évaluation sur terrain, jurys, oraux, suivi et jury de mémoire) : 93h
-  <br>
-  <br>**Total heures faciales : 38h**
-  <br>**Total heures : 131h**
-  
-### 2025-2026
-- Cours Magistraux : 38h
-- Travaux Dirigés : 49h
-- Travaux pratiques : 31h
-- Autres (évaluation sur terrain, jurys, oraux, suivi et jury de mémoire) : 136h
-  <br>
-  <br>**Total heures faciales : 118h**
-  <br>**Total heures  : 254h**
-  
+Depuis janvier 2025, je suis Enseignant en Maïeutique au sein de la Faculté de Médecine, Maïeutique et Sciences de la Santé (Université Catholique de Lille) et assume la responsabilité d'une promotion d'étudiant(e)s sages-femmes.  
+Ce qui me motive dans l’enseignement, c’est de former des cliniciens capables de décider, d’actualiser leurs connaissances et de remettre leur pratique en question. C’est aussi une manière pour moi de rester à jour, de me stimuler intellectuellement et de continuer à faire évoluer ma propre pratique.
 
+---
 
+# Compétences issues de mon activité d’enseignement
 
 <style>
+.section-title {
+  font-size: 1.4rem;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
 .cards-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 20px;
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 .card {
-  background: #ffffff;
+  background: #1a1a1a;
   border-radius: 12px;
   padding: 20px;
-  border: 1px solid #e5e7eb;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  border: 1px solid #333;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.5);
 }
 
 .card h3 {
   margin-top: 0;
-  font-size: 1.2rem;
-  color: #1f2937;
+  font-size: 1.15rem;
+  color: #f3f4f6;
 }
 
 .card p {
   margin: 8px 0 0;
-  color: #4b5563;
+  color: #d1d5db;
   line-height: 1.45;
 }
 </style>
 
-## Compétences issues de mon activité d'enseignement
+---
 
-### Pour les étudiants
+## 🎓 Pour les étudiants  
+### **Compétence centrale : Être capable de transférer un savoir théorique en compétence clinique**
+
+**Savoir** — Connaître les bases du raisonnement clinique, de la méthodologie et les principes de simulation
+**Savoir‑faire** — Concevoir des situations d’apprentissage qui amènent les étudiants à appliquer un concept, analyser une situation et justifier une décision
+**Savoir‑être** — Rendre l’apprentissage accessible : simplifier, structurer et sécuriser le cheminement des étudiants.
+
 <div class="cards-container">
   <div class="card">
-    <h3>Parcours d’apprentissage hybrides</h3>
-    <p>Conception de supports pédagogiques adaptatifs, alignés sur les réformes et les besoins des promotions.</p>
+    <h3>Apprentissages hybrides</h3>
+    <p>Alterner cours magistraux, cas cliniques et exercices pratiques pour aider les étudiants à passer de la théorie à la pratique</p>
   </div>
   <div class="card">
     <h3>Simulation haute-fidélité</h3>
-    <p>Création de scénarios immersifs pluridisciplinaires en simulation médicale.</p>
+    <p>Placer les étudiants dans des situations réalistes où ils doivent analyser, décider et justifier leurs choix</p>
   </div>
   <div class="card">
     <h3>Accompagnement en recherche</h3>
-    <p>Encadrement méthodologique des mémoires et projets scientifiques.</p>
+    <p>Guider les étudiants dans la construction d’une démarche scientifique simple, rigoureuse et adaptée à leur niveau</p>
   </div>
 </div>
 
-### Pour l’équipe pédagogique
+
+
+---
+
+## 🧑‍🏫 Pour l’équipe pédagogique  
+### **Compétence centrale : Piloter et faire vivre un parcours universitaire**
+
+**Savoir** — Maîtriser les référentiels et les attendus du 1er cycle des études de Maïeutique  
+**Savoir‑faire** — Élaborer une maquette pédagogique, un programme et une docimologie conforme aux textes réglementaires
+**Savoir‑être** — Soutenir la dynamique collective en étant disponible et pleinement engagé dans le travail d’équipe
+
 <div class="cards-container">
   <div class="card">
     <h3>Pilotage pédagogique</h3>
-    <p>Gestion autonome d’une promotion complète et coordination des intervenants.</p>
+    <p>Gestion d’une promotion et coordination des intervenants</p>
   </div>
   <div class="card">
-    <h3>Harmonisation des programmes d'enseignement</h3>
-    <p>Contribution à la cohérence du 1er cycle (FGSMa2-FGSMa3) et à la réforme des études de sages-femmes.</p>
+    <h3>Harmonisation des programmes</h3>
+    <p>Construction de progressions cohérentes entre seconde et troisième année</p>
   </div>
   <div class="card">
-    <h3>Déploiement d'évaluations ciblées sur les compétences métiers</h3>
-    <p>Conception d’Epreuves Cliniques Objectives Standarisées (ECOS), d'oraux et de dispositifs d’évaluation par compétences.</p>
+    <h3>Évaluations par compétences</h3>
+    <p>Conception d’épreuves cliniques et d’oraux centrés sur les compétences métiers</p>
   </div>
 </div>
 
-### Pour l’institution
+
+---
+
+## 🏛️ Pour l’institution  
+### Compétence centrale : Structurer le Département de Maïeutique par une polyvalence hospitalo‑universitaire
+
+**Savoir** — Mobiliser les connaissances issues de la clinique, de la recherche en périnatalité et de la pédagogie universitaire
+**Savoir‑faire** — Intégrer la réalité clinique pour enrichir et actualiser les enseignements
+**Savoir‑être** — Articuler pratique clinique et pédagogie
 
 <div class="cards-container">
-
   <div class="card">
-    <h3>Structuration de la recherche au sein du Département de Maïeutique</h3>
-    <p>Participation aux projets institutionnels (eRCF, AIM‑CTG) et intégration du département aux dynamiques de recherche en étroite collaboration avec mes collègues sages-femmes enseignants.</p>
+    <h3>Recherche institutionnelle</h3>
+    <p>Participation aux projets eRCF (e-learning du Rythme Cardiaque Foetal), AIM‑CTG (Artificial Intelligence for Monitoring Cardiotocogram) et à la structuration de la recherche en maïeutique</p>
   </div>
-
   <div class="card">
-    <h3>Interface clinique–université</h3>
-    <p>Traduction de situations cliniques complexes en dispositifs pédagogiques universitaires (études de cas, supports d’enseignement...).</p>
+    <h3>Interface hôpital–université</h3>
+    <p>Transformation du terrain en supports pédagogiques concrets</p>
   </div>
-
   <div class="card">
-    <h3>Polyvalence d’enseignement dans les filières santé</h3>
-    <p>Capacité à intervenir dans plusieurs filières (médecine, maïeutique, paramédical) sur des enseignements spécialisés et peu représentés : biostatistiques, physiologie placentaire, santé publique, méthodologie scientifique.</p>
+    <h3>Polyvalence inter‑filières</h3>
+    <p>Interventions auprès des étudiants en médecine, maïeutique et professions paramédicales</p>
   </div>
-
 </div>

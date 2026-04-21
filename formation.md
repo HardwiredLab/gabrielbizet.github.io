@@ -6,29 +6,40 @@ permalink: /formation/
 
 # Cursus Académique
 
+## Présentation
+
+Cette section retrace la construction progressive de mes compétences cliniques, scientifiques et pédagogiques.  
+Mon parcours est porté par une curiosité naturelle — parfois difficile à canaliser — et par un besoin constant de rigueur et d’utilité.
+
+Il s’articule autour de trois dimensions complémentaires :  
+**Savoir** — Acquérir des connaissances méthodologiques solides dans mes différents domaines d’expertise  
+**Savoir‑faire** — Mettre en œuvre ces connaissances dans des actions concrètes : analyser, décider, expérimenter, transmettre  
+**Savoir‑être** — Cultiver l’utilité, l’adaptabilité et l’engagement au service des autres
+
+La frise ci‑dessous met en lumière la manière dont chaque formation a contribué à façonner le professionnel de santé que je suis.
+
 <style>
-/* Container global */
 .timeline-container {
+  position: relative;
   display: flex;
   flex-direction: column;
-  gap: 60px;
-  margin-top: 40px;
+  gap: 70px;
+  margin-top: 50px;
   color: #e6e6e6;
   font-family: "Inter", sans-serif;
 }
 
-/* Ligne centrale */
 .timeline-line {
   position: absolute;
   left: 50%;
   top: 0;
-  width: 3px;
+  width: 4px;
   height: 100%;
   background: linear-gradient(#4A90E2, #6EC6FF);
   transform: translateX(-50%);
+  border-radius: 2px;
 }
 
-/* Élément de frise */
 .timeline-item {
   position: relative;
   display: flex;
@@ -36,203 +47,181 @@ permalink: /formation/
   align-items: flex-start;
 }
 
-/* Date à gauche */
 .timeline-date {
   width: 30%;
   text-align: right;
-  padding-right: 30px;
-  font-weight: 600;
-  font-size: 1.1rem;
+  padding-right: 35px;
+  font-weight: 700;
+  font-size: 1.2rem;
   color: #9ecbff;
 }
 
-/* Contenu à droite */
 .timeline-content {
   width: 60%;
-  background: #111;
-  padding: 20px 25px;
-  border-radius: 8px;
-  border: 1px solid #333;
-  box-shadow: 0 0 12px rgba(74,144,226,0.15);
+  background: #0f0f0f;
+  padding: 25px 28px;
+  border-radius: 10px;
+  border: 1px solid #2d2d2d;
+  box-shadow: 0 0 14px rgba(74,144,226,0.18);
 }
 
-/* Pastille */
 .timeline-dot {
   position: absolute;
   left: 50%;
-  top: 12px;
-  width: 16px;
-  height: 16px;
+  top: 18px;
+  width: 18px;
+  height: 18px;
   background: #4A90E2;
   border-radius: 50%;
   transform: translateX(-50%);
-  border: 2px solid #0d0d0d;
+  border: 3px solid #0d0d0d;
 }
 
-/* Transition */
 .transition {
-  margin-top: 15px;
+  margin-top: 18px;
   padding: 15px 20px;
   background: rgba(74,144,226,0.12);
   border-left: 4px solid #4A90E2;
   border-radius: 4px;
   font-style: italic;
   color: #cfe6ff;
+  line-height: 1.5;
 }
 </style>
 
 <div class="timeline-container">
 <div class="timeline-line"></div>
 
-<!-- 2019 CertiLingua -->
+<!-- Formation d'Equipier de Sapeur-Pompier Volontaire -->
 <div class="timeline-item">
   <div class="timeline-date">2019</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    <h3>CertiLingua — Label d’excellence européen</h3>
-    <ul>
-      <li>Conduite de débats multilingues dans un projet franco‑germano‑polonais sur le développement durable.</li>
-      <li>Élaboration de positions de conciliation entre acteurs aux intérêts divergents par la médiation et la négociation.</li>
-      <li>Restitution synthétique des échanges issus de ces conférences internationales par la rédaction d’un mémoire en langue allemande.</li>
-    </ul>
+    Secours à personne, interventions incendie, opérations diverses et secours routiers  
     <div class="transition">
-      Envie de participer à un échange multilingue, portée par une forte appétence pour les langues étrangères.
+      Envie de me rendre utile dans un engagement concret où l’on apprend à agir vite, juste et en équipe. C’est cet engagement qui a fait naître ma vocation pour le domaine de la santé.
     </div>
   </div>
 </div>
 
-<!-- Sage-femme -->
+<!-- Label d'Excellence CertiLingua (B2 anglais et allemand) -->
+<div class="timeline-item">
+  <div class="timeline-date">2019</div>
+  <div class="timeline-dot"></div>
+  <div class="timeline-content">
+    Projet mené dans le cadre de l’enseignement d’allemand : débats multilingues autour d’un programme franco‑germano‑polonais sur le climat  
+    Médiation entre acteurs aux intérêts divergents et rédaction d’un mémoire en allemand  
+    <div class="transition">
+      Projet devenu support pour l’obtention du label, porté par l’envie de travailler dans un environnement international et de structurer une pensée argumentée.
+    </div>
+  </div>
+</div>
+
+<!-- Diplôme d'Etat de Sage-Femme -->
 <div class="timeline-item">
   <div class="timeline-date">2019–2024</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    <h3>Diplôme d’État de Sage‑Femme — Université de Lille</h3>
-    <ul>
-      <li>Prioriser les situations et organiser les soins en contexte d’urgence.</li>
-      <li>Analyser les signes cliniques et formuler un diagnostic argumenté à partir des données présentées par les patientes.</li>
-      <li>Instaurer un climat de confiance en communiquant de manière claire, disponible et adaptée auprès des patient(e)s et des équipes.</li>
-    </ul>
+    Priorisation des soins, gestion des urgences, analyse clinique et communication adaptée  
     <div class="transition">
-      Envie de me rendre utile et de m’engager dans un métier concret, humain et responsable.
+      Envie d’un métier où je pouvais me sentir réellement utile, en étant présent et en accompagnant concrètement les couples que je rencontre.
     </div>
   </div>
 </div>
 
-<!-- M1 Biostat -->
+<!-- M1 Biologie Santé - Biostatistiques -->
 <div class="timeline-item">
-  <div class="timeline-date">2020–2021</div>
+  <div class="timeline-date">2021–2022</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    <h3>Master 1 Biologie Santé (Biostatistiques) — Université de Lille</h3>
-    <ul>
-      <li>Apprentissage et utilisation de R, SPSS et EpiInfo pour conduire des analyses inférentielles et multivariées.</li>
-      <li>Collecte, nettoyage et analyse statistique de données cliniques.</li>
-      <li>Mise en œuvre d’une analyse factorielle de données mixtes en collaboration avec les biostatisticiens de notre équipe.</li>
-    </ul>
+    Analyses inférentielles, structuration de données cliniques, méthodes multivariées  
     <div class="transition">
-      Envie de m’initier à la recherche quantitative, dont j’avais brièvement entendu parler et qui avait piqué ma curiosité.
+      Envie de comprendre la recherche quantitative et de donner du sens aux données rencontrées en clinique.
     </div>
   </div>
 </div>
 
-<!-- M1 Histoire/philo -->
+<!-- M1 Biologie Santé - Formation de la pensée médicale : concepts et histoire -->
 <div class="timeline-item">
   <div class="timeline-date">2022–2023</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    <h3>Master 1 Biologie Santé (Formation de la pensée médicale : concepts et histoire)</h3>
-    <ul>
-      <li>Transcription et analyse de textes médicaux anciens en langue grecque et latine.</li>
-      <li>Acquisition des bases de réflexion en épistémologie et des outils d’analyse logique des erreurs de raisonnement.</li>
-      <li>Étude de la notion de grossesse pathologique via la philosophie expérimentale.</li>
-    </ul>
+    Analyse de textes anciens, introduction à l’épistémologie, réflexion sur les erreurs de raisonnement  
     <div class="transition">
-      Envie de découvrir l’abord conceptuel et historique de la médecine, et de mieux englober les notions qui structuraient mon quotidien d’étudiant sage‑femme.
+      Envie de comprendre les fondements conceptuels de la médecine et d’élargir ma vision du soin.
     </div>
   </div>
 </div>
 
-<!-- DU IA -->
+<!-- Diplôme Universitaire Intelligence Artificielle en Santé -->
 <div class="timeline-item">
   <div class="timeline-date">2023–2024</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    <h3>DU Intelligence Artificielle en Santé — Université de Lille</h3>
-    <ul>
-      <li>Analyse critique des usages de l’IA en santé et des idées reçues qui les entourent.</li>
-      <li>Compréhension des architectures IA et de leurs implications dans les pratiques médicales.</li>
-      <li>Mise en lien des enseignements reçus avec des projets concrets en périnatalité.</li>
-    </ul>
+    Analyse critique des usages de l’IA, compréhension des architectures et applications en périnatalité  
     <div class="transition">
-      Envie de comprendre les enjeux, les limites, et de me faire ma propre idée au‑delà des idées reçues.
+      Envie de dépasser les idées reçues et de comprendre réellement ce que l’IA peut — et ne peut pas — apporter.
     </div>
   </div>
 </div>
 
-<!-- M2 Chir -->
+<!-- Formation de Chef d’Équipe de Sapeur‑Pompier Volontaire -->
+<div class="timeline-item">
+  <div class="timeline-date">2023</div>
+  <div class="timeline-dot"></div>
+  <div class="timeline-content">
+    Formation de Chef d’Équipe Sapeur‑Pompier Volontaire  
+    Commandement opérationnel, lecture du feu, prise de décision sous pression  
+    <div class="transition">
+      Envie d’accroître mes compétences opérationnelles et d’améliorer ma capacité à décider rapidement.
+    </div>
+  </div>
+</div>
+
+<!-- M2 Biologie Santé - Sciences Chirurgicales -->
 <div class="timeline-item">
   <div class="timeline-date">2024–2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    <h3>Master 2 Biologie‑Santé (Sciences Chirurgicales & NTI) — Paris‑Saclay</h3>
-    <ul>
-      <li>Réaliser l’instrumentation chirurgicale de la brebis gestante et de son fœtus.</li>
-      <li>Concevoir, mettre en œuvre et ajuster un protocole d’hypoglycémie.</li>
-      <li>Traiter et analyser des signaux biomédicaux (EEG, ECG).</li>
-    </ul>
+    Instrumentation, conception de protocoles, analyse de signaux biomédicaux  
     <div class="transition">
-      Envie d’un abord de la recherche “à la main”, de concrétiser moi‑même les choses, et de développer mon premier projet à partir de presque rien.
+      Envie de passer à une recherche réellement concrète et de mener moi‑même un projet expérimental de bout en bout.
     </div>
   </div>
 </div>
 
-<!-- AUEC 1 -->
+<!-- Attestation Universitaire d’Enseignement Complémentaire - Concepteur de procédures expérimentales -->
 <div class="timeline-item">
   <div class="timeline-date">2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    <h3>AUEC Concepteur de procédures expérimentales — Université de Lille</h3>
-    <ul>
-      <li>Sélectionner un modèle animal pertinent et structurer un protocole expérimental adapté.</li>
-      <li>Identifier les signes de douleur, détresse, inconfort ou souffrance.</li>
-      <li>Rédiger une saisine éthique complète intégrant les 3R.</li>
-    </ul>
+    Choix du modèle animal, structuration de protocole, rédaction de saisines éthiques  
     <div class="transition">
-      Envie de faire correctement mon travail, par respect pour le modèle animal et pour garantir la qualité de ma méthodologie scientifique.
+      Envie de travailler avec rigueur scientifique et dans le respect du modèle animal.
     </div>
   </div>
 </div>
 
-<!-- AUEC 2 -->
+<!-- Attestation Universitaire d’Enseignement Complémentaire - Concepteur de procédures expérimentales chirurgicales -->
 <div class="timeline-item">
   <div class="timeline-date">2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    <h3>AUEC Procédures expérimentales chirurgicales — Université de Lille</h3>
-    <ul>
-      <li>Réalisation de gestes chirurgicaux de base et spécialisés.</li>
-      <li>Développer un modèle expérimental chirurgical conforme au cadre réglementaire.</li>
-      <li>Adapter une procédure chirurgicale aux contraintes physiologiques de l’espèce.</li>
-    </ul>
+    Gestes chirurgicaux, développement de modèles expérimentaux, adaptation aux contraintes physiologiques  
     <div class="transition">
-      Envie d’acquérir la technicité nécessaire pour mener mes propres protocoles expérimentaux de manière rigoureuse.
+      Envie d’acquérir la technicité nécessaire pour mener mes protocoles de manière autonome
     </div>
   </div>
 </div>
 
-<!-- Doctorat -->
+<!-- Doctorat — ULR2694 METRICS   -->
 <div class="timeline-item">
   <div class="timeline-date">2025–2028</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    <h3>Doctorat — ULR2694 METRICS</h3>
-    <ul>
-      <li>Développer un projet translationnel sur l’impact des variations glycémiques maternelles sur le SNA fœtal.</li>
-      <li>Conduire une revue de littérature structurée.</li>
-      <li>Gérer un programme de recherche reliant expérimentation animale et clinique.</li>
-    </ul>
+    Projet translationnel sur les variations glycémiques maternelles et le SNA fœtal  
     <div class="transition">
-      Envie d’aller plus loin, de gagner en rigueur, et de m’inscrire pleinement dans une ambition hospitalo‑universitaire.
+      Envie d’aller plus loin, de gagner en rigueur et de m’inscrire pleinement dans une trajectoire hospitalo‑universitaire
     </div>
   </div>
 </div>

@@ -27,11 +27,3 @@ permalink: /contact/
 <a href="mailto:gabriel.bizet@univ-catholille.fr">gabriel.bizet@univ-catholille.fr</a>
 </p>
 </div>
-
-<div class="card">
-<h3>🤝 Collaborations</h3>
-
-<p>
-Ouvert aux projets de recherche, collaborations pédagogiques et initiatives cliniques.
-</p>
-</div>

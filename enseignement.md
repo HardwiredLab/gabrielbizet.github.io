@@ -117,7 +117,7 @@ Ce qui me motive dans l’enseignement, c’est de former des cliniciens capable
 <div class="cards-container">
   <div class="card">
     <h3>Recherche institutionnelle</h3>
-    <p>Participation aux projets eRCF, AIM‑CTG et à la structuration de la recherche en maïeutique.</p>
+    <p>Participation aux projets d'e-learning du Rythme Cardiaque Foetal (eRCF), d'Intelligence Artificielle pour l'analyse du Rythme Cardiaque Foetal (AIM‑CTG) et à la structuration de la recherche en maïeutique.</p>
   </div>
   <div class="card">
     <h3>Interface hôpital–université</h3>

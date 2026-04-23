@@ -22,13 +22,13 @@ permalink: /
 
 <div class="section">
 <h3>🎓 Cursus académique</h3>
-<p>Présentation de mon parcours universitaire</p>
+<p>Présentation de mon parcours universitaire et des compétences clés qui y sont associées</p>
 <a href="{{ "/formation/" | relative_url }}">Voir →</a>
 </div>
 
 <div class="section">
 <h3>🏥 Pratique clinique</h3>
-<p>Mes expériences professionnelles</p>
+<p>Mon activité de sage-femme</p>
 <a href="{{ "/pratique-clinique/" | relative_url }}">Voir →</a>
 </div>
 
@@ -40,7 +40,7 @@ permalink: /
 
 <div class="section">
 <h3>📚 Enseignement</h3>
-<p>Les cours que je dispense</p>
+<p>Les compétences liées à mona activité d'enseignement</p>
 <a href="{{ "/enseignement/" | relative_url }}">Voir →</a>
 </div>
 
@@ -52,7 +52,7 @@ permalink: /
 
 <div class="section">
 <h3>📬 Contact</h3>
-<p>N'hésitez pas à me contacter !</p>
+<p>Pour échanger et collaborer</p>
 <a href="{{ "/contact/" | relative_url }}">Voir →</a>
 </div>
 

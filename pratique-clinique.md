@@ -20,14 +20,14 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 
 ---
 
-##Savoir  
-**Maîtriser les connaissances gynécologiques et obstétricales essentielles** en intégrant les protocoles, les recommandations et les spécificités organisationnelles propres à chaque structure.
+## Savoir  
+**Maîtriser les connaissances gynécologiques et obstétricales essentielles**, en intégrant les protocoles, les recommandations et les spécificités organisationnelles propres à chaque structure.
 
 ## Savoir‑faire  
-**Anticiper, prioriser et organiser la prise en charge** en adaptant la stratégie clinique au contexte et aux ressources disponibles
+**Anticiper, prioriser et organiser la prise en charge**, en adaptant la stratégie clinique au contexte et aux ressources disponibles.
 
 ## Savoir‑être  
-**Maintenir une présence professionnelle stable et rassurante et garantir un accompagnement respectueux**
+**Maintenir une présence professionnelle stable et rassurante**, et garantir un accompagnement respectueux.
 
 </div>
 
@@ -65,7 +65,7 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 **Depuis 09/2025**
 
 - Bloc obstétrical  
-- Urgences obstétricales
+- Urgences obstétricales  
 - Pathologies maternelles et fœtales  
 - Suites de naissance  
 
@@ -91,5 +91,4 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 - Consultations de suivi de grossesse  
 - Visites à domicile  
 - Préparation à la naissance  
-- Consultations de gynécologie de prévention  
-
+- Consultations de gynécologie de prévention 

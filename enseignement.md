@@ -64,7 +64,7 @@ Ce qui me motive dans l’enseignement, c’est de former des cliniciens capable
 
 **Savoir** — Connaître les bases du raisonnement clinique, de la méthodologie et les principes de simulation  
 **Savoir‑faire** — Concevoir des situations d’apprentissage qui amènent les étudiants à appliquer un concept, analyser une situation et justifier une décision  
-**Savoir‑être** — Rendre l’apprentissage accessible : simplifier, structurer et sécuriser le cheminement des étudiants
+**Savoir‑être** — Soutenir l’apprentissage en rendant le parcours clair et structuré pour les étudiants
 
 <div class="cards-container">
   <div class="card">
@@ -110,9 +110,9 @@ Ce qui me motive dans l’enseignement, c’est de former des cliniciens capable
 ## 🏛️ Pour l’institution  
 ### **Compétence centrale : Structurer le Département de Maïeutique par une polyvalence hospitalo‑universitaire**
 
-**Savoir** — Mobiliser les connaissances issues de la clinique, de la recherche en périnatalité et de la pédagogie universitaire  
+**Savoir** — Mobiliser les connaissances issues de la clinique, de la recherche et de la pédagogie  
 **Savoir‑faire** — Intégrer la réalité clinique pour enrichir et actualiser les enseignements  
-**Savoir‑être** — Articuler pratique clinique et pédagogie grâce à une polyvalence adaptable
+**Savoir‑être** — Articuler pratique clinique et pédagogie en restant polyvalent et adaptable
 
 <div class="cards-container">
   <div class="card">

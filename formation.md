@@ -156,7 +156,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- DESF -->
+<!-- Diplôme d'Etat de Sage-Femme -->
 <div class="timeline-item">
   <div class="timeline-date">2019–2024</div>
   <div class="timeline-dot"></div>
@@ -172,13 +172,13 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- M1 Biostat -->
+<!-- M1 Biologie-Santé - Biostatistiques -->
 <div class="timeline-item">
   <div class="timeline-date">2021–2022</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="timeline-title">Master 1 Biologie‑Santé — Biostatistiques</div>
+    <div class="timeline-title">M1 Biologie-Santé - Biostatistiques</div>
     <div class="skill-tag">Compétence clé : Analyser et interpréter des données médicales</div>
 
     Analyses inférentielles, structuration de données cliniques, méthodes multivariées  
@@ -188,13 +188,13 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- M1 Pensée médicale -->
+<!-- M1 Biologie Santé - Formation de la Pensée Médicale: concepts et histoire -->
 <div class="timeline-item">
   <div class="timeline-date">2022–2023</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="timeline-title">Master 1 — Formation de la pensée médicale</div>
+    <div class="timeline-title">M1 Biologie Santé - Formation de la Pensée Médicale: concepts et histoire</div>
     <div class="skill-tag">Compétence clé : Interroger les concepts médicaux</div>
 
     Analyse de textes anciens, introduction à l’épistémologie, réflexion sur les erreurs de raisonnement  

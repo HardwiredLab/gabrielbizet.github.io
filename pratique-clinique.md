@@ -23,10 +23,10 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 ##Savoir  
 **Maîtriser les connaissances gynécologiques et obstétricales essentielles** en intégrant les protocoles, les recommandations et les spécificités organisationnelles propres à chaque structure.
 
-## 🛠️ Savoir‑faire  
+## Savoir‑faire  
 **Anticiper, prioriser et organiser la prise en charge** en adaptant la stratégie clinique au contexte et aux ressources disponibles
 
-## 🤝 Savoir‑être  
+## Savoir‑être  
 **Maintenir une présence professionnelle stable et rassurante et garantir un accompagnement respectueux**
 
 </div>

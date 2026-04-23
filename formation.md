@@ -19,95 +19,96 @@ Il s’articule autour de trois dimensions complémentaires :
 La frise ci‑dessous met en lumière la manière dont chaque formation a contribué à façonner le professionnel de santé que je suis.
 
 <style>
+
+/* ====== CONTAINER ====== */
 .timeline-container {
   position: relative;
   display: flex;
   flex-direction: column;
-  gap: 70px;
-  margin-top: 50px;
+  gap: 80px;
+  margin-top: 60px;
   color: #e8e8e8;
   font-family: "Inter", sans-serif;
 }
 
-/* Ligne centrale plus lumineuse */
+/* ====== LIGNE DÉCALÉE À GAUCHE ====== */
 .timeline-line {
   position: absolute;
-  left: 50%;
+  left: 18%;
   top: 0;
-  width: 4px;
+  width: 3px;
   height: 100%;
-  background: linear-gradient(#5fb3ff, #9cd8ff);
-  transform: translateX(-50%);
+  background: linear-gradient(#c9a36a, #e8cfa3);
   border-radius: 2px;
+  opacity: 0.9;
 }
 
-/* Élément */
+/* ====== ITEM ====== */
 .timeline-item {
   position: relative;
   display: flex;
-  justify-content: space-between;
+  gap: 40px;
   align-items: flex-start;
 }
 
-/* Date */
+/* ====== DATE ====== */
 .timeline-date {
-  width: 30%;
+  width: 18%;
   text-align: right;
-  padding-right: 35px;
+  padding-right: 25px;
   font-weight: 700;
-  font-size: 1.25rem;
-  color: #aeddff;
+  font-size: 1.2rem;
+  color: #e8cfa3;
 }
 
-/* Carte */
+/* ====== CARTE ====== */
 .timeline-content {
-  width: 60%;
-  background: #1f1f1f;
-  padding: 30px 32px;
-  border-radius: 14px;
-  border: 1px solid #4a4a4a;
-  box-shadow: 0 0 22px rgba(95,179,255,0.25);
-  color: #f2f2f2;
+  width: 70%;
+  background: #1b1b1b;
+  padding: 28px 32px;
+  border-radius: 12px;
+  border: 1px solid #3d3d3d;
+  box-shadow: 0 0 18px rgba(200,160,100,0.18);
 }
 
-/* Titre de formation (si tu veux l’utiliser plus tard)
+/* ====== TITRE DE FORMATION ====== */
 .timeline-title {
   font-size: 1.15rem;
   font-weight: 700;
-  margin-bottom: 10px;
-  color: #ffffff;
+  margin-bottom: 12px;
+  color: #f5e7d3;
+  letter-spacing: 0.3px;
 }
-*/
 
-/* Pastille */
+/* ====== PASTILLE ====== */
 .timeline-dot {
   position: absolute;
-  left: 50%;
+  left: 18%;
   top: 18px;
-  width: 18px;
-  height: 18px;
-  background: #5fb3ff;
+  width: 14px;
+  height: 14px;
+  background: #e8cfa3;
   border-radius: 50%;
   transform: translateX(-50%);
   border: 3px solid #0d0d0d;
 }
 
-/* Transition narrative */
+/* ====== TRANSITION ====== */
 .transition {
   margin-top: 18px;
   padding: 15px 20px;
-  background: rgba(95,179,255,0.12);
-  border-left: 4px solid #5fb3ff;
+  background: rgba(200,160,100,0.10);
+  border-left: 4px solid #e8cfa3;
   border-radius: 4px;
   font-style: italic;
-  color: #d8ecff;
+  color: #f0e4d2;
   line-height: 1.55;
 }
 
-/* Tag compétence clé */
+/* ====== TAG COMPÉTENCE ====== */
 .skill-tag {
   display: inline-block;
-  background: linear-gradient(90deg, #5fb3ff, #9cd8ff);
+  background: #e8cfa3;
   color: #0d0d0d;
   font-weight: 600;
   padding: 5px 12px;
@@ -115,19 +116,20 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   margin-bottom: 14px;
   font-size: 0.9rem;
   letter-spacing: 0.2px;
-  box-shadow: 0 0 8px rgba(95,179,255,0.35);
 }
+
 </style>
 
 <div class="timeline-container">
 <div class="timeline-line"></div>
 
-<!-- Equipier de Sapeur-Pompier Volontaire -->
+<!-- Equipier SPV -->
 <div class="timeline-item">
   <div class="timeline-date">2019</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
+    <div class="timeline-title">Équipier de Sapeur‑Pompier Volontaire</div>
     <div class="skill-tag">Compétence clé : Réagir efficacement en situation d’urgence</div>
 
     Secours à personne, incendie, opérations diverses et secours routiers  
@@ -137,13 +139,14 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- Label d'Excellence CertiLingua -->
+<!-- CertiLingua -->
 <div class="timeline-item">
   <div class="timeline-date">2019</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="skill-tag">Compétence clé : Défendre un point de vue en l'argumentant dans un contexte multilingue</div>
+    <div class="timeline-title">Label d’Excellence CertiLingua</div>
+    <div class="skill-tag">Compétence clé : Défendre un point de vue en contexte multilingue</div>
 
     Projet mené dans le cadre de l’enseignement d’allemand : débats multilingues autour d’un programme franco‑germano‑polonais sur le climat  
     Médiation entre acteurs aux intérêts divergents et rédaction d’un mémoire en allemand  
@@ -153,12 +156,13 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- Diplôme d'Etat de Sage-femme -->
+<!-- DESF -->
 <div class="timeline-item">
   <div class="timeline-date">2019–2024</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
+    <div class="timeline-title">Diplôme d’État de Sage‑Femme</div>
     <div class="skill-tag">Compétence clé : Prioriser et organiser les soins</div>
 
     Priorisation des soins, gestion des urgences, analyse clinique et communication adaptée  
@@ -168,12 +172,13 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- M1 Biologie-Santé - Biostatistiques -->
+<!-- M1 Biostat -->
 <div class="timeline-item">
   <div class="timeline-date">2021–2022</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
+    <div class="timeline-title">Master 1 Biologie‑Santé — Biostatistiques</div>
     <div class="skill-tag">Compétence clé : Analyser et interpréter des données médicales</div>
 
     Analyses inférentielles, structuration de données cliniques, méthodes multivariées  
@@ -183,13 +188,14 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- M1 Biologie-Santé - Formation de la pensée médicale : concepts et histoire -->
+<!-- M1 Pensée médicale -->
 <div class="timeline-item">
   <div class="timeline-date">2022–2023</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="skill-tag">Compétence clé : Interroger les concepts médicaux à partir de leurs sources historiques et philosophiques</div>
+    <div class="timeline-title">Master 1 — Formation de la pensée médicale</div>
+    <div class="skill-tag">Compétence clé : Interroger les concepts médicaux</div>
 
     Analyse de textes anciens, introduction à l’épistémologie, réflexion sur les erreurs de raisonnement  
     <div class="transition">
@@ -198,12 +204,13 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- Diplôme Universitaire Intelligence Artificielle en Santé -->
+<!-- DU IA Santé -->
 <div class="timeline-item">
   <div class="timeline-date">2023–2024</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
+    <div class="timeline-title">Diplôme Universitaire — IA en Santé</div>
     <div class="skill-tag">Compétence clé : Évaluer de manière critique les technologies en santé</div>
 
     Analyse critique des usages de l’IA, compréhension des architectures et applications en périnatalité  
@@ -213,12 +220,13 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- Chef d'équipe de Sapeur-Pompier Volontaire -->
+<!-- Chef d'équipe SPV -->
 <div class="timeline-item">
   <div class="timeline-date">2023</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
+    <div class="timeline-title">Chef d’Équipe — Sapeurs‑Pompiers Volontaires</div>
     <div class="skill-tag">Compétence clé : Diriger une équipe en situation opérationnelle</div>
 
     Commandement d'un binôme, lecture du feu, prise de décision sous pression  
@@ -228,12 +236,13 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- M2 Sciences Chirurgicales et Nouvelles Technologies Interventionnelles -->
+<!-- M2 Sciences chirurgicales -->
 <div class="timeline-item">
   <div class="timeline-date">2024–2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
+    <div class="timeline-title">Master 2 — Sciences Chirurgicales & NTI</div>
     <div class="skill-tag">Compétence clé : Concevoir et conduire une recherche expérimentale</div>
 
     Instrumentation, conception de protocoles, analyse de signaux biomédicaux  
@@ -243,27 +252,29 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- AUEC - Concepteur de procédures expérimentales -->
+<!-- AUEC Procédures expérimentales -->
 <div class="timeline-item">
   <div class="timeline-date">2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
+    <div class="timeline-title">AUEC — Concepteur de procédures expérimentales</div>
     <div class="skill-tag">Compétence clé : Structurer un protocole expérimental en respectant les enjeux éthiques</div>
 
-    Choix du modèle animal, structuration de protocole, rédaction de saisine à destination du Comité d'Éthique en Expérimentation Animale  
+    Choix du modèle animal, structuration de protocole, rédaction de saisine au Comité d’Éthique  
     <div class="transition">
       Envie de travailler avec rigueur scientifique et dans le respect du modèle animal.
     </div>
   </div>
 </div>
 
-<!-- AUEC - Procédures expérimentales chirurgicales -->
+<!-- AUEC Chirurgical -->
 <div class="timeline-item">
   <div class="timeline-date">2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
+    <div class="timeline-title">AUEC — Procédures expérimentales chirurgicales</div>
     <div class="skill-tag">Compétence clé : Réaliser des gestes chirurgicaux expérimentaux</div>
 
     Gestes chirurgicaux, développement de modèles expérimentaux, adaptation aux contraintes physiologiques  
@@ -279,6 +290,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
+    <div class="timeline-title">Doctorat — ULR 2694 METRICS</div>
     <div class="skill-tag">Compétence clé : Piloter un programme de recherche translationnelle</div>
 
     Projet translationnel sur les variations glycémiques maternelles et le SNA fœtal  

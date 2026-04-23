@@ -58,11 +58,11 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
 .timeline-content {
   width: 60%;
-  background: #0f0f0f;
-  padding: 25px 28px;
-  border-radius: 10px;
-  border: 1px solid #2d2d2d;
-  box-shadow: 0 0 14px rgba(74,144,226,0.18);
+  background: #1a1a1a;
+  padding: 28px 30px;
+  border-radius: 12px;
+  border: 1px solid #3a3a3a;
+  box-shadow: 0 0 18px rgba(74,144,226,0.25);
 }
 
 .timeline-dot {
@@ -87,28 +87,45 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   color: #cfe6ff;
   line-height: 1.5;
 }
+
+.skill-tag {
+  display: inline-block;
+  background: #4A90E2;
+  color: #0d0d0d;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+  font-size: 0.85rem;
+}
 </style>
 
 <div class="timeline-container">
 <div class="timeline-line"></div>
 
-<!-- Formation d'Equipier de Sapeur-Pompier Volontaire -->
+<!-- Equipier de Sapeur-Pompier Volontaire -->
 <div class="timeline-item">
   <div class="timeline-date">2019</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    Secours à personne, interventions incendie, opérations diverses et secours routiers  
+
+    <div class="skill-tag">Compétence clé : Réagir efficacement en situation d’urgence</div>
+
+    Secours à personne, incendie, opérations diverses et secours routiers  
     <div class="transition">
       Envie de me rendre utile dans un engagement concret où l’on apprend à agir vite, juste et en équipe. C’est cet engagement qui a fait naître ma vocation pour le domaine de la santé.
     </div>
   </div>
 </div>
 
-<!-- Label d'Excellence CertiLingua (B2 anglais et allemand) -->
+<!-- Label d'Excellence CertiLingua -->
 <div class="timeline-item">
   <div class="timeline-date">2019</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
+
+    <div class="skill-tag">Compétence clé : Défendre un point de vue en l'argumentant dans un contexte multilingue</div>
+
     Projet mené dans le cadre de l’enseignement d’allemand : débats multilingues autour d’un programme franco‑germano‑polonais sur le climat  
     Médiation entre acteurs aux intérêts divergents et rédaction d’un mémoire en allemand  
     <div class="transition">
@@ -117,11 +134,14 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- Diplôme d'Etat de Sage-Femme -->
+<!-- Diplôme d'Etat de Sage-femme -->
 <div class="timeline-item">
   <div class="timeline-date">2019–2024</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
+
+    <div class="skill-tag">Compétence clé : Prioriser et organiser les soins</div>
+
     Priorisation des soins, gestion des urgences, analyse clinique et communication adaptée  
     <div class="transition">
       Envie d’un métier où je pouvais me sentir réellement utile, en étant présent et en accompagnant concrètement les couples que je rencontre.
@@ -129,11 +149,14 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- M1 Biologie Santé - Biostatistiques -->
+<!-- M1 Biologie-Santé - Biostatistiques -->
 <div class="timeline-item">
   <div class="timeline-date">2021–2022</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
+
+    <div class="skill-tag">Compétence clé : Analyser et interpréter des données médicales</div>
+
     Analyses inférentielles, structuration de données cliniques, méthodes multivariées  
     <div class="transition">
       Envie de comprendre la recherche quantitative et de donner du sens aux données rencontrées en clinique.
@@ -141,11 +164,14 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- M1 Biologie Santé - Formation de la pensée médicale : concepts et histoire -->
+<!-- M1 Biologie-Santé - Formation de la pensée médicale : concepts et histoire -->
 <div class="timeline-item">
   <div class="timeline-date">2022–2023</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
+
+    <div class="skill-tag">Compétence clé : Interroger les concepts médicaux à partir de leurs sources historiques et philosophiques</div>
+
     Analyse de textes anciens, introduction à l’épistémologie, réflexion sur les erreurs de raisonnement  
     <div class="transition">
       Envie de comprendre les fondements conceptuels de la médecine et d’élargir ma vision du soin.
@@ -158,6 +184,9 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   <div class="timeline-date">2023–2024</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
+
+    <div class="skill-tag">Compétence clé : Évaluer de manière critique les technologies en santé</div>
+
     Analyse critique des usages de l’IA, compréhension des architectures et applications en périnatalité  
     <div class="transition">
       Envie de dépasser les idées reçues et de comprendre réellement ce que l’IA peut — et ne peut pas — apporter.
@@ -165,24 +194,29 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- Formation de Chef d’Équipe de Sapeur‑Pompier Volontaire -->
+<!-- Chef d'équipe de Sapeur-Pompier Volontaire -->
 <div class="timeline-item">
   <div class="timeline-date">2023</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    Formation de Chef d’Équipe Sapeur‑Pompier Volontaire  
-    Commandement opérationnel, lecture du feu, prise de décision sous pression  
+
+    <div class="skill-tag">Compétence clé : Diriger une équipe en situation opérationnelle</div>
+
+    Commandement d'un binôme, lecture du feu, prise de décision sous pression  
     <div class="transition">
       Envie d’accroître mes compétences opérationnelles et d’améliorer ma capacité à décider rapidement.
     </div>
   </div>
 </div>
 
-<!-- M2 Biologie Santé - Sciences Chirurgicales -->
+<!-- M2 Sciences Chirurgicales et Nouvelles Technologies Interventionnelles -->
 <div class="timeline-item">
   <div class="timeline-date">2024–2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
+
+    <div class="skill-tag">Compétence clé : Concevoir et conduire une recherche expérimentale</div>
+
     Instrumentation, conception de protocoles, analyse de signaux biomédicaux  
     <div class="transition">
       Envie de passer à une recherche réellement concrète et de mener moi‑même un projet expérimental de bout en bout.
@@ -190,38 +224,47 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- Attestation Universitaire d’Enseignement Complémentaire - Concepteur de procédures expérimentales -->
+<!-- Attestaion Universaire d'Enseignement Complémentaire - Concepteur de procédures expérimentales -->
 <div class="timeline-item">
   <div class="timeline-date">2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
-    Choix du modèle animal, structuration de protocole, rédaction de saisines éthiques  
+
+    <div class="skill-tag">Compétence clé : Structurer un protocole expérimental en respectant les enjeux éthiques</div>
+
+    Choix du modèle animal, structuration de protocole, rédaction de saisine à destination du Comité d'Ethique en Expérimentation Animale 
     <div class="transition">
       Envie de travailler avec rigueur scientifique et dans le respect du modèle animal.
     </div>
   </div>
 </div>
 
-<!-- Attestation Universitaire d’Enseignement Complémentaire - Concepteur de procédures expérimentales chirurgicales -->
+<!-- Attestaion Universaire d'Enseignement Complémentaire - Concepteur de procédures expérimentales chirurgicales -->
 <div class="timeline-item">
   <div class="timeline-date">2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
+
+    <div class="skill-tag">Compétence clé : Réaliser des gestes chirurgicaux expérimentaux</div>
+
     Gestes chirurgicaux, développement de modèles expérimentaux, adaptation aux contraintes physiologiques  
     <div class="transition">
-      Envie d’acquérir la technicité nécessaire pour mener mes protocoles de manière autonome
+      Envie d’acquérir la technicité nécessaire pour mener mes protocoles de manière autonome.
     </div>
   </div>
 </div>
 
-<!-- Doctorat — ULR2694 METRICS   -->
+<!-- Doctorat -->
 <div class="timeline-item">
   <div class="timeline-date">2025–2028</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
+
+    <div class="skill-tag">Compétence clé : Piloter un programme de recherche translationnelle</div>
+
     Projet translationnel sur les variations glycémiques maternelles et le SNA fœtal  
     <div class="transition">
-      Envie d’aller plus loin, de gagner en rigueur et de m’inscrire pleinement dans une trajectoire hospitalo‑universitaire
+      Envie d’aller plus loin, de gagner en rigueur et de m’inscrire pleinement dans une trajectoire hospitalo‑universitaire.
     </div>
   </div>
 </div>

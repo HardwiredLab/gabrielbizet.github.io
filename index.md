@@ -40,7 +40,7 @@ permalink: /
 
 <div class="section">
 <h3>📚 Enseignement</h3>
-<p>Les compétences liées à mona activité d'enseignement</p>
+<p>Les compétences liées à mon activité d'enseignement</p>
 <a href="{{ "/enseignement/" | relative_url }}">Voir →</a>
 </div>
 

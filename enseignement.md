@@ -8,7 +8,7 @@ permalink: /enseignement/
 
 ## Présentation générale
 
-Depuis janvier 2025, je suis Enseignant en Maïeutique au sein de la Faculté de Médecine, Maïeutique et Sciences de la Santé (Université Catholique de Lille), où j’assure la responsabilité d'une promotion d’étudiant·e·s sages-femmes.  
+Depuis janvier 2025, je suis Enseignant en Maïeutique au sein de la Faculté de Médecine, Maïeutique et Sciences de la Santé (Université Catholique de Lille), où j’assume la responsabilité d'une promotion d’étudiant·e·s sages-femmes.  
 Ce qui me motive dans l’enseignement, c’est de former des cliniciens capables de décider, d’actualiser leurs connaissances et de remettre leur pratique en question. C’est aussi une manière de rester à jour, de me stimuler intellectuellement et de faire évoluer ma propre pratique.
 
 ---

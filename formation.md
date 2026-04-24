@@ -198,7 +198,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
     <div class="timeline-title">M1 Biologie Santé - Formation de la Pensée Médicale: concepts et histoire</div>
     <div class="skill-tag">Compétence clé : Interroger les concepts médicaux</div>
 
-    <br>Analyse de textes anciens (grec et latin ancien), introduction à l’épistémologie, réflexion sur les erreurs de raisonnement</br>  
+    <br>Analyse de textes anciens (grec et latin ancien), introduction à l’épistémologie, réflexion sur les erreurs de raisonnement
     <div class="transition">
       Envie de comprendre les fondements conceptuels de la médecine, d’élargir ma vision du soin et de découvrir un pan plus qualitatif de la recherche.
     </div>

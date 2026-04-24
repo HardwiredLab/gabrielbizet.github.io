@@ -16,7 +16,7 @@ Il s’articule autour de trois dimensions complémentaires :
 **Savoir‑faire** — Mettre en œuvre ces connaissances dans des actions concrètes : analyser, décider, expérimenter, transmettre  
 **Savoir‑être** — Cultiver l’utilité, l’adaptabilité et l’engagement au service des autres
 
-La frise ci‑dessous met en lumière la manière dont chaque formation a contribué à façonner le professionnel de santé que je suis.
+La frise ci‑dessous met en lumière la manière dont chaque formation a contribué à façonner le professionnel de santé que je suis. Chaque carte met en évidence la compétence clé acquise, les apprentissages associés, et une phrase permettant de comprendre ce qui m’a conduit vers cette formation, afin de rendre explicite la logique qui structure mon parcours.
 
 <style>
 
@@ -132,9 +132,9 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
     <div class="timeline-title">Équipier de Sapeur‑Pompier Volontaire</div>
     <div class="skill-tag">Compétence clé : Réagir efficacement en situation d’urgence</div>
 
-    Secours à personne, incendie, opérations diverses et secours routiers  
+    <br>Secours à personne, incendie, opérations diverses et secours routiers</br> 
     <div class="transition">
-      Envie de me rendre utile dans un engagement concret où l’on apprend à agir vite, juste et en équipe. C’est cet engagement qui a fait naître ma vocation pour le domaine de la santé.
+      Envie de me rendre utile dans un engagement concret où l’on apprend à agir vite et en équipe. C’est cet engagement qui a fait naître ma vocation pour le domaine de la santé.
     </div>
   </div>
 </div>
@@ -149,9 +149,10 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
     <div class="skill-tag">Compétence clé : Défendre un point de vue en contexte multilingue</div>
 
     Projet mené dans le cadre de l’enseignement d’allemand : débats multilingues autour d’un programme franco‑germano‑polonais sur le climat  
-    Médiation entre acteurs aux intérêts divergents et rédaction d’un mémoire en allemand  
+    
+    <br>Médiation entre acteurs aux intérêts divergents et rédaction d’un mémoire en allemand</br>
     <div class="transition">
-      Projet devenu support pour l’obtention du label, porté par l’envie de travailler dans un environnement international et de structurer une pensée argumentée.
+      Projet scolaire devenu support pour l’obtention de ce label, porté par l’envie de pouvoir travailler dans un environnement international et de structurer une pensée argumentée.
     </div>
   </div>
 </div>
@@ -165,7 +166,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
     <div class="timeline-title">Diplôme d’État de Sage‑Femme</div>
     <div class="skill-tag">Compétence clé : Prioriser et organiser les soins</div>
 
-    Priorisation des soins, gestion des urgences, analyse clinique et communication adaptée  
+    <br>Priorisation des soins, gestion des urgences, analyse clinique et communication adaptée</br>
     <div class="transition">
       Envie d’un métier où je pouvais me sentir réellement utile, en étant présent et en accompagnant concrètement les couples que je rencontre.
     </div>
@@ -183,7 +184,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
     Analyses inférentielles, structuration de données cliniques, méthodes multivariées  
     <div class="transition">
-      Envie de comprendre la recherche quantitative et de donner du sens aux données rencontrées en clinique.
+      Envie de découvrir la recherche quantitative et de donner du sens aux compétences et connaissances que je développais dans le cadre de mes études de sage-femme.
     </div>
   </div>
 </div>
@@ -197,25 +198,9 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
     <div class="timeline-title">M1 Biologie Santé - Formation de la Pensée Médicale: concepts et histoire</div>
     <div class="skill-tag">Compétence clé : Interroger les concepts médicaux</div>
 
-    Analyse de textes anciens, introduction à l’épistémologie, réflexion sur les erreurs de raisonnement  
+    <br>Analyse de textes anciens (grec et latin ancien), introduction à l’épistémologie, réflexion sur les erreurs de raisonnement</br>  
     <div class="transition">
-      Envie de comprendre les fondements conceptuels de la médecine et d’élargir ma vision du soin.
-    </div>
-  </div>
-</div>
-
-<!-- DU IA Santé -->
-<div class="timeline-item">
-  <div class="timeline-date">2023–2024</div>
-  <div class="timeline-dot"></div>
-  <div class="timeline-content">
-
-    <div class="timeline-title">Diplôme Universitaire — IA en Santé</div>
-    <div class="skill-tag">Compétence clé : Évaluer de manière critique les technologies en santé</div>
-
-    Analyse critique des usages de l’IA, compréhension des architectures et applications en périnatalité  
-    <div class="transition">
-      Envie de dépasser les idées reçues et de comprendre réellement ce que l’IA peut — et ne peut pas — apporter.
+      Envie de comprendre les fondements conceptuels de la médecine, d’élargir ma vision du soin et de découvrir un pan plus qualitatif de la recherche.
     </div>
   </div>
 </div>
@@ -226,12 +211,28 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="timeline-title">Chef d’Équipe — Sapeurs‑Pompiers Volontaires</div>
+    <div class="timeline-title">Chef d’Équipe de Sapeurs‑Pompier Volontaire</div>
     <div class="skill-tag">Compétence clé : Diriger une équipe en situation opérationnelle</div>
 
     Commandement d'un binôme, lecture du feu, prise de décision sous pression  
     <div class="transition">
       Envie d’accroître mes compétences opérationnelles et d’améliorer ma capacité à décider rapidement.
+    </div>
+  </div>
+</div>
+
+<!-- DU IA Santé -->
+<div class="timeline-item">
+  <div class="timeline-date">2023–2024</div>
+  <div class="timeline-dot"></div>
+  <div class="timeline-content">
+
+    <div class="timeline-title">Diplôme Universitaire — Intelligence Artificielle en Santé</div>
+    <div class="skill-tag">Compétence clé : S’approprier les outils d’intelligence artificielle actuels pour en dégager des pistes d’application pertinentes en recherche périnatale</div>
+
+    Analyse critique des usages de l’IA, compréhension des architectures et applications en santé  
+    <div class="transition">
+      Envie de dépasser les idées reçues et de comprendre réellement ce que l’IA peut — et ne peut pas — apporter.
     </div>
   </div>
 </div>
@@ -242,12 +243,12 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="timeline-title">Master 2 — Sciences Chirurgicales & NTI</div>
+    <div class="timeline-title">Master 2 — Sciences Chirurgicales & Nouvelles Technologies Interventionnelles</div>
     <div class="skill-tag">Compétence clé : Concevoir et conduire une recherche expérimentale</div>
 
     Instrumentation, conception de protocoles, analyse de signaux biomédicaux  
     <div class="transition">
-      Envie de passer à une recherche réellement concrète et de mener moi‑même un projet expérimental de bout en bout.
+      Envie de d'acquérir et manipuler moi-même et de construire un projet expérimental complet, étape par étape
     </div>
   </div>
 </div>
@@ -274,7 +275,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="timeline-title">AUEC — Procédures expérimentales chirurgicales</div>
+    <div class="timeline-title">AUEC — Concepteur de Procédures expérimentales chirurgicales</div>
     <div class="skill-tag">Compétence clé : Réaliser des gestes chirurgicaux expérimentaux</div>
 
     Gestes chirurgicaux, développement de modèles expérimentaux, adaptation aux contraintes physiologiques  

@@ -161,4 +161,7 @@ h3 {
   </div>
 
   <div class="card">
-    <h3>Polyvalence inter‑filières
+    <h3>Polyvalence inter‑filières</h3>
+    <p>Interventions auprès des étudiants en médecine, maïeutique et professions paramédicales.</p>
+  </div>
+</div>

@@ -132,7 +132,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
     <div class="timeline-title">Équipier de Sapeur‑Pompier Volontaire</div>
     <div class="skill-tag">Compétence clé : Réagir efficacement en situation d’urgence</div>
 
-    <br>Secours à personne, incendie, opérations diverses et secours routiers</br> 
+    <br>Secours à personne, incendie, opérations diverses et secours routiers
     <div class="transition">
       Envie de me rendre utile dans un engagement concret où l’on apprend à agir vite et en équipe. C’est cet engagement qui a fait naître ma vocation pour le domaine de la santé.
     </div>
@@ -150,7 +150,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
     Projet mené dans le cadre de l’enseignement d’allemand : débats multilingues autour d’un programme franco‑germano‑polonais sur le climat  
     
-    <br>Médiation entre acteurs aux intérêts divergents et rédaction d’un mémoire en allemand</br>
+    <br>Médiation entre acteurs aux intérêts divergents et rédaction d’un mémoire en allemand
     <div class="transition">
       Projet scolaire devenu support pour l’obtention de ce label, porté par l’envie de pouvoir travailler dans un environnement international et de structurer une pensée argumentée.
     </div>
@@ -166,7 +166,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
     <div class="timeline-title">Diplôme d’État de Sage‑Femme</div>
     <div class="skill-tag">Compétence clé : Prioriser et organiser les soins</div>
 
-    <br>Priorisation des soins, gestion des urgences, analyse clinique et communication adaptée</br>
+    <br>Priorisation des soins, gestion des urgences, analyse clinique et communication adaptée
     <div class="transition">
       Envie d’un métier où je pouvais me sentir réellement utile, en étant présent et en accompagnant concrètement les couples que je rencontre.
     </div>

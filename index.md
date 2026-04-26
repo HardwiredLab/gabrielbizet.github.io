@@ -4,6 +4,112 @@ title: Accueil
 permalink: /
 ---
 
+<style>
+
+/* ===== HERO / INTRO ===== */
+.intro {
+  background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
+  padding: 70px 40px;
+  border-radius: 18px;
+  border: 1px solid #2d2d2d;
+  box-shadow: 0 0 32px rgba(200,160,100,0.22);
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.intro h1 {
+  font-size: 2.6rem;
+  font-weight: 700;
+  color: #e8cfa3;
+  margin-bottom: 18px;
+  letter-spacing: 0.6px;
+}
+
+.intro p, .intro br {
+  color: #e8e8e8;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+/* ===== SECTIONS ===== */
+.section {
+  background: #1b1b1b;
+  padding: 26px 28px;
+  border-radius: 14px;
+  border: 1px solid #3d3d3d;
+  box-shadow: 0 0 18px rgba(200,160,100,0.18);
+  margin-bottom: 28px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.section:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 0 26px rgba(200,160,100,0.28);
+}
+
+.section h3 {
+  margin-top: 0;
+  font-size: 1.35rem;
+  color: #e8cfa3;
+  margin-bottom: 8px;
+}
+
+.section p {
+  margin: 0 0 12px;
+  color: #e8e8e8;
+  line-height: 1.55;
+}
+
+.section a {
+  color: #e8cfa3;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.section a:hover {
+  color: #f5e7d3;
+}
+
+/* ===== BANNIÈRE ===== */
+.banner {
+  width: 100%;
+  height: 260px;
+  border-radius: 16px;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 0 26px rgba(200,160,100,0.25);
+  border: 1px solid #3d3d3d;
+}
+
+/* ===== BOUTONS ===== */
+.buttons {
+  margin-top: 30px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.buttons a {
+  background: #1b1b1b;
+  padding: 12px 20px;
+  border-radius: 10px;
+  border: 1px solid #3d3d3d;
+  color: #e8cfa3;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.25s ease;
+}
+
+.buttons a:hover {
+  background: rgba(200,160,100,0.12);
+  border-color: #e8cfa3;
+  transform: translateY(-3px);
+}
+
+</style>
+
+
+
 <div class="intro">
     <h1>Portfolio de compétences</h1>
    
@@ -56,13 +162,11 @@ permalink: /
 <a href="{{ "/contact/" | relative_url }}">Voir →</a>
 </div>
 
-<br>
-<br>
+<br><br>
 
 <div class="banner" style="background-image: url('{{ "/assets/assets/img/LKD_v2.jpg" | relative_url }}');"></div>
 
-<br>
-<br>
+<br><br>
 
 Ce site a été réalisé dans le cadre du projet **COMPEDOC** mené par l'Université de Lille
 
@@ -72,4 +176,3 @@ Ce site a été réalisé dans le cadre du projet **COMPEDOC** mené par l'Unive
         <a href="https://www.researchgate.net/profile/Gabriel-Bizet" target="_blank">ResearchGate</a>
         <a href="https://orcid.org/0000-0001-8758-6056" target="_blank">ORCID</a>
     </div>
-

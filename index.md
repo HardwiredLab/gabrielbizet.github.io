@@ -9,36 +9,36 @@ permalink: /
 /* ===== HERO / INTRO ===== */
 .intro {
   background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
-  padding: 70px 40px;
+  padding: 90px 40px;
   border-radius: 18px;
   border: 1px solid #2d2d2d;
   box-shadow: 0 0 32px rgba(200,160,100,0.22);
   text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 70px;
 }
 
 .intro h1 {
-  font-size: 2.6rem;
+  font-size: 2.8rem;
   font-weight: 700;
   color: #e8cfa3;
-  margin-bottom: 18px;
+  margin-bottom: 22px;
   letter-spacing: 0.6px;
 }
 
 .intro p, .intro br {
   color: #e8e8e8;
-  font-size: 1.15rem;
-  line-height: 1.7;
+  font-size: 1.25rem; /* augmenté */
+  line-height: 1.75;
 }
 
 /* ===== SECTIONS ===== */
 .section {
   background: #1b1b1b;
-  padding: 26px 28px;
-  border-radius: 14px;
+  padding: 30px 32px;
+  border-radius: 16px;
   border: 1px solid #3d3d3d;
   box-shadow: 0 0 18px rgba(200,160,100,0.18);
-  margin-bottom: 28px;
+  margin-bottom: 40px; /* espacement augmenté */
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
@@ -49,15 +49,15 @@ permalink: /
 
 .section h3 {
   margin-top: 0;
-  font-size: 1.35rem;
+  font-size: 1.45rem;
   color: #e8cfa3;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 .section p {
-  margin: 0 0 12px;
+  margin: 0 0 14px;
   color: #e8e8e8;
-  line-height: 1.55;
+  line-height: 1.6;
 }
 
 .section a {
@@ -73,25 +73,26 @@ permalink: /
 /* ===== BANNIÈRE ===== */
 .banner {
   width: 100%;
-  height: 260px;
-  border-radius: 16px;
+  height: 380px; /* agrandi pour ne plus couper ta tête */
+  border-radius: 18px;
   background-size: cover;
-  background-position: center;
+  background-position: center top; /* remonte légèrement l’image */
   box-shadow: 0 0 26px rgba(200,160,100,0.25);
   border: 1px solid #3d3d3d;
+  margin-bottom: 40px;
 }
 
 /* ===== BOUTONS ===== */
 .buttons {
-  margin-top: 30px;
+  margin-top: 40px;
   display: flex;
-  gap: 16px;
+  gap: 18px;
   flex-wrap: wrap;
 }
 
 .buttons a {
   background: #1b1b1b;
-  padding: 12px 20px;
+  padding: 12px 22px;
   border-radius: 10px;
   border: 1px solid #3d3d3d;
   color: #e8cfa3;
@@ -113,8 +114,8 @@ permalink: /
 <div class="intro">
     <h1>Portfolio de compétences</h1>
    
- Bienvenue sur mon portfolio académique. <br>
- Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle.
+ Bienvenue sur mon portfolio académique<br>
+ Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle
 
  </div>
 

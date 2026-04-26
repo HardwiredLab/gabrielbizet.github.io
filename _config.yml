@@ -9,13 +9,9 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
-# URL correcte (site parent)
 url: "https://hardwiredlab.github.io"
-
-# NOM DU REPO
 baseurl: "/gabrielbizet.github.io"
 
-# Navigation du site (toujours aligner title et url sinon ça plante)
 nav:
   - title: "Accueil"
     url: "{{ site.baseurl }}/"

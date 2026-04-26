@@ -6,89 +6,178 @@ permalink: /pratique-clinique/
 
 # Pratique clinique
 
-<div style="background:#111; padding:28px 32px; border-radius:14px; border:1px solid #333; box-shadow:0 0 22px rgba(74,144,226,0.25); color:#e6e6e6; line-height:1.65;">
+<style>
+
+/* ====== BLOC INTRO ====== */
+.intro-block {
+  background: #1b1b1b;
+  padding: 32px 36px;
+  border-radius: 14px;
+  border: 1px solid #3d3d3d;
+  box-shadow: 0 0 18px rgba(200,160,100,0.18);
+  color: #e8e8e8;
+  line-height: 1.65;
+  margin-bottom: 50px;
+}
+
+/* ====== TITRES ====== */
+.section-title {
+  font-size: 1.6rem;
+  margin-top: 60px;
+  margin-bottom: 18px;
+  font-weight: 700;
+  color: #f5e7d3;
+  letter-spacing: 0.3px;
+}
+
+/* ====== TAGS SAVOIR ====== */
+.tag-block {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+
+.tag {
+  display: inline-block;
+  background: rgba(200,160,100,0.12);
+  border-left: 4px solid #e8cfa3;
+  padding: 14px 18px;
+  border-radius: 6px;
+  color: #e8e8e8;
+  line-height: 1.55;
+}
+
+/* ====== CARTES NIVEAUX ====== */
+.level-card {
+  background: #1b1b1b;
+  border-radius: 14px;
+  padding: 28px 32px;
+  border: 1px solid #3d3d3d;
+  box-shadow: 0 0 18px rgba(200,160,100,0.18);
+  margin-bottom: 40px;
+}
+
+.level-card h2 {
+  margin-top: 0;
+  color: #f5e7d3;
+  font-size: 1.4rem;
+}
+
+.level-card h3 {
+  margin-bottom: 6px;
+  color: #e8cfa3;
+  font-size: 1.15rem;
+}
+
+.level-card ul {
+  margin-top: 14px;
+  line-height: 1.6;
+  color: #e8e8e8;
+}
+
+</style>
+
+
+<div class="intro-block">
 
 J’exerce actuellement à temps partiel (50%) au sein de l’Hôpital Privé de Marne‑la‑Vallée.  
 Ma pratique clinique constitue le socle de l’ensemble de mes projets : elle nourrit ma réflexion, structure mes priorités et donne du sens à mes engagements scientifiques et pédagogiques.
 
-J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéral au niveau III — afin de construire une **vision globale, réaliste et indépendante** de mon métier. Cette diversité m’a permis de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
-
----
-
-## Compétence clé  
-**Assurer une prise en charge obstétricale fiable et adaptée, quel que soit le niveau de complexité clinique**
-
----
-
-## Savoir  
-**Maîtriser les connaissances gynécologiques et obstétricales essentielles**, en intégrant les protocoles, les recommandations et les spécificités organisationnelles propres à chaque structure.
-
-## Savoir‑faire  
-**Anticiper, prioriser et organiser la prise en charge**, en adaptant la stratégie clinique au contexte et aux ressources disponibles.
-
-## Savoir‑être  
-**Maintenir une présence professionnelle stable et rassurante**, et garantir un accompagnement respectueux.
+Jeune sage-femme, j’ai choisi d’exercer dans **tous les niveaux de maternité** afin de construire une **vision globale, réaliste et indépendante** de mon métier. Cette diversité me permet de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
 
 </div>
 
 ---
 
-# Niveau III
-
-## CHU de Lille — Hôpital Jeanne de Flandre  
-*Pôle Femme Mère Nouveau-né*  
-**07/2024 → 05/2025**
-
-- Bloc obstétrical  
-- Urgences obstétricales  
-- Urgences gynécologiques  
-- Pathologies maternelles et fœtales  
-- Suites de naissance  
+## Compétence clé  
+<div class="tag">
+<strong>Assurer une prise en charge obstétricale fiable et adaptée</strong>, quel que soit le niveau de complexité clinique.
+</div>
 
 ---
 
-# Niveau IIb
+<div class="tag-block">
 
-## Hôpital Saint‑Vincent — GHICL  
-*Remplacements ponctuels*  
-**07/2024 → 09/2025**
+<div class="tag">
+<strong>Savoir</strong> — Maîtriser les connaissances gynécologiques et obstétricales essentielles, en intégrant les recommandations des sociétés savantes, les protocoles et les spécificités organisationnelles propres à chaque structure.
+</div>
 
-- Bloc obstétrical  
-- Urgences obstétricales  
+<div class="tag">
+<strong>Savoir‑faire</strong> — Anticiper, prioriser et organiser la prise en soins, en adaptant la stratégie clinique au contexte et aux ressources disponibles.
+</div>
 
----
+<div class="tag">
+<strong>Savoir‑être</strong> — Maintenir une présence professionnelle stable, rassurante et garantir un accompagnement respectueux.
+</div>
 
-# Niveau IIa
-
-## Hôpital Privé de Marne-la-Vallée  
-*Poste actuel — 50%*  
-**Depuis 09/2025**
-
-- Bloc obstétrical  
-- Urgences obstétricales  
-- Pathologies maternelles et fœtales  
-- Suites de naissance  
+</div>
 
 ---
 
-# Niveau I
-
-## Maternité des Lilas  
-*Remplacements ponctuels*  
-**08/2025**
-
-- Bloc obstétrical  
-- Urgences obstétricales  
+# Mes expériences en tant que sage-femme
 
 ---
 
-# Activité libérale
+<div class="level-card">
+  <h2>Niveau III</h2>
+  <h3>CHU de Lille — Hôpital Jeanne de Flandre</h3>
+  <p><em>Pôle Femme Mère Nouveau-né</em><br><strong>07/2024 → 05/2025</strong></p>
 
-## Cabinet Bien Naître — Cysoing  
-*Remplacement*  
-**08/2024**
+  <ul>
+    <li>Bloc obstétrical</li>
+    <li>Urgences obstétricales</li>
+    <li>Urgences gynécologiques</li>
+    <li>Pathologies maternelles et fœtales</li>
+    <li>Suites de naissance</li>
+  </ul>
+</div>
 
-- Consultations de suivi de grossesse  
-- Visites à domicile  
-- Préparation à la naissance  
-- Consultations de gynécologie de prévention 
+<div class="level-card">
+  <h2>Niveau IIb</h2>
+  <h3>Hôpital Saint‑Vincent — GHICL</h3>
+  <p><em>Remplacements ponctuels</em><br><strong>07/2024 → 09/2025</strong></p>
+
+  <ul>
+    <li>Bloc obstétrical</li>
+    <li>Urgences obstétricales</li>
+  </ul>
+</div>
+
+<div class="level-card">
+  <h2>Niveau IIa</h2>
+  <h3>Hôpital Privé de Marne-la-Vallée</h3>
+  <p><em>Poste actuel — Temps partiel 50%</em><br><strong>Depuis 09/2025</strong></p>
+
+  <ul>
+    <li>Bloc obstétrical</li>
+    <li>Urgences obstétricales</li>
+    <li>Pathologies maternelles et fœtales</li>
+    <li>Suites de naissance</li>
+  </ul>
+</div>
+
+<div class="level-card">
+  <h2>Niveau I</h2>
+  <h3>Maternité des Lilas</h3>
+  <p><em>Remplacements ponctuels</em><br><strong>08/2025</strong></p>
+
+  <ul>
+    <li>Bloc obstétrical</li>
+    <li>Urgences obstétricales</li>
+  </ul>
+</div>
+
+<div class="level-card">
+  <h2>Activité libérale</h2>
+  <h3>Cabinet Bien Naître — Cysoing</h3>
+  <p><em>Remplacement</em><br><strong>08/2024</strong></p>
+
+  <ul>
+    <li>Consultations de suivi de grossesse</li>
+    <li>Visites à domicile</li>
+    <li>Préparation à la naissance</li>
+    <li>Consultations de gynécologie de prévention</li>
+  </ul>
+</div>

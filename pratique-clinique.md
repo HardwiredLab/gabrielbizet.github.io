@@ -8,45 +8,48 @@ permalink: /pratique-clinique/
 
 <style>
 
-/* ====== BLOC INTRO ====== */
+/* ===== BLOC INTRO ===== */
 .intro-block {
+  background: #1b1b1b;
+  padding: 34px 38px;
+  border-radius: 14px;
+  border: 1px solid #3d3d3d;
+  box-shadow: 0 0 22px rgba(200,160,100,0.18);
+  color: #e8e8e8;
+  line-height: 1.7;
+  margin-bottom: 55px;
+}
+
+/* ===== BLOC COMPÉTENCES ===== */
+.competence-block {
   background: #1b1b1b;
   padding: 32px 36px;
   border-radius: 14px;
   border: 1px solid #3d3d3d;
-  box-shadow: 0 0 18px rgba(200,160,100,0.18);
-  color: #e8e8e8;
-  line-height: 1.65;
-  margin-bottom: 50px;
+  box-shadow: 0 0 22px rgba(200,160,100,0.18);
+  margin-bottom: 60px;
 }
 
-/* ====== TITRES ====== */
-.section-title {
-  font-size: 1.6rem;
-  margin-top: 60px;
-  margin-bottom: 18px;
+.competence-title {
+  font-size: 1.45rem;
   font-weight: 700;
   color: #f5e7d3;
+  margin-bottom: 22px;
   letter-spacing: 0.3px;
 }
 
-/* ====== TAGS SAVOIR ====== */
-.tag-block {
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-  margin-top: 25px;
-  margin-bottom: 40px;
-}
-
-.tag {
-  display: inline-block;
-  background: rgba(200,160,100,0.12);
-  border-left: 4px solid #e8cfa3;
+.competence-item {
+  margin-bottom: 18px;
   padding: 14px 18px;
+  background: rgba(200,160,100,0.10);
+  border-left: 4px solid #e8cfa3;
   border-radius: 6px;
   color: #e8e8e8;
-  line-height: 1.55;
+  line-height: 1.6;
+}
+
+.competence-item strong {
+  color: #e8cfa3;
 }
 
 /* ====== CARTES NIVEAUX ====== */
@@ -85,40 +88,37 @@ permalink: /pratique-clinique/
 J’exerce actuellement à temps partiel (50%) au sein de l’Hôpital Privé de Marne‑la‑Vallée.  
 Ma pratique clinique constitue le socle de l’ensemble de mes projets : elle nourrit ma réflexion, structure mes priorités et donne du sens à mes engagements scientifiques et pédagogiques.
 
-Jeune sage-femme, j’ai choisi d’exercer dans **tous les niveaux de maternité** afin de construire une **vision globale, réaliste et indépendante** de mon métier. Cette diversité me permet de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
+J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéral au niveau III — afin de construire une **vision globale, réaliste et indépendante** de mon métier.  
+Cette diversité m’a permis de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
+
+</div>
+
+
+<div class="competence-block">
+
+  <div class="competence-title">Compétence, savoirs et posture professionnelle</div>
+
+  <div class="competence-item">
+    <strong>Compétence clé</strong> — Assurer une prise en charge obstétricale fiable et adaptée, quel que soit le niveau de complexité clinique.
+  </div>
+
+  <div class="competence-item">
+    <strong>Savoir</strong> — Maîtrrer les connaissances gynécologiques et obstétricales essentielles, en intégrant les protocoles, les recommandations et les spécificités organisationnelles propres à chaque structure.
+  </div>
+
+  <div class="competence-item">
+    <strong>Savoir‑faire</strong> — Anticiper, prioriser et organiser la prise en charge, en adaptant la stratégie clinique au contexte et aux ressources disponibles.
+  </div>
+
+  <div class="competence-item">
+    <strong>Savoir‑être</strong> — Maintenir une présence professionnelle stable et rassurante, et garantir un accompagnement respectueux.
+  </div>
 
 </div>
 
 ---
 
-## Compétence clé  
-<div class="tag">
-<strong>Assurer une prise en charge obstétricale fiable et adaptée</strong>, quel que soit le niveau de complexité clinique.
-</div>
-
----
-
-<div class="tag-block">
-
-<div class="tag">
-<strong>Savoir</strong> — Maîtriser les connaissances gynécologiques et obstétricales essentielles, en intégrant les recommandations des sociétés savantes, les protocoles et les spécificités organisationnelles propres à chaque structure.
-</div>
-
-<div class="tag">
-<strong>Savoir‑faire</strong> — Anticiper, prioriser et organiser la prise en soins, en adaptant la stratégie clinique au contexte et aux ressources disponibles.
-</div>
-
-<div class="tag">
-<strong>Savoir‑être</strong> — Maintenir une présence professionnelle stable, rassurante et garantir un accompagnement respectueux.
-</div>
-
-</div>
-
----
-
-# Mes expériences en tant que sage-femme
-
----
+# Expérience professionnelle
 
 <div class="level-card">
   <h2>Niveau III</h2>
@@ -148,7 +148,7 @@ Jeune sage-femme, j’ai choisi d’exercer dans **tous les niveaux de maternit�
 <div class="level-card">
   <h2>Niveau IIa</h2>
   <h3>Hôpital Privé de Marne-la-Vallée</h3>
-  <p><em>Poste actuel — Temps partiel 50%</em><br><strong>Depuis 09/2025</strong></p>
+  <p><em>Poste actuel — 50%</em><br><strong>Depuis 09/2025</strong></p>
 
   <ul>
     <li>Bloc obstétrical</li>
@@ -177,7 +177,5 @@ Jeune sage-femme, j’ai choisi d’exercer dans **tous les niveaux de maternit�
   <ul>
     <li>Consultations de suivi de grossesse</li>
     <li>Visites à domicile</li>
-    <li>Préparation à la naissance</li>
-    <li>Consultations de gynécologie de prévention</li>
   </ul>
 </div>

@@ -9,7 +9,7 @@ permalink: /formation/
 ## Présentation
 
 Cette section retrace la construction progressive de mes compétences cliniques, scientifiques et pédagogiques.  
-Mon parcours est porté par une curiosité naturelle — parfois difficile à canaliser — et par un besoin constant de rigueur et d’utilité.
+Mon parcours est porté par une curiosité naturelle et par un besoin constant de rigueur et d’utilité.
 
 Il s’articule autour de trois dimensions complémentaires :  
 **Savoir** — Acquérir des connaissances méthodologiques solides dans mes différents domaines d’expertise  

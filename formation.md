@@ -134,7 +134,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
     <br>Secours à personne, incendie, opérations diverses et secours routiers
     <div class="transition">
-      Envie de me rendre utile dans un engagement concret où l’on apprend à agir vite et en équipe. C’est cet engagement qui a fait naître ma vocation pour le domaine de la santé.
+      Envie de me rendre utile dans un engagement concret où l’on apprend à agir vite et en équipe. C’est cet engagement qui a fait naître ma vocation pour le domaine de la santé
     </div>
   </div>
 </div>
@@ -152,7 +152,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
     
     <br>Médiation entre acteurs aux intérêts divergents et rédaction d’un mémoire en allemand
     <div class="transition">
-      Projet scolaire devenu support pour l’obtention de ce label, porté par l’envie de pouvoir travailler dans un environnement international et de structurer une pensée argumentée.
+      Projet scolaire devenu support pour l’obtention de ce label, porté par l’envie de pouvoir travailler dans un environnement international et de structurer une pensée argumentée
     </div>
   </div>
 </div>
@@ -168,7 +168,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
     <br>Priorisation des soins, gestion des urgences, analyse clinique et communication adaptée
     <div class="transition">
-      Envie d’un métier où je pouvais me sentir réellement utile, en étant présent et en accompagnant concrètement les couples que je rencontre.
+      Envie d’un métier où je pouvais me sentir réellement utile, en étant présent et en accompagnant concrètement les couples que je rencontre
     </div>
   </div>
 </div>
@@ -184,23 +184,23 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
     Analyses inférentielles, structuration de données cliniques, méthodes multivariées  
     <div class="transition">
-      Envie de découvrir la recherche quantitative et de donner du sens aux compétences et connaissances que je développais dans le cadre de mes études de sage-femme.
+      Envie de découvrir la recherche quantitative et de donner du sens aux compétences et connaissances que je développais dans le cadre de mes études de sage-femme
     </div>
   </div>
 </div>
 
-<!-- M1 Biologie Santé - Formation de la Pensée Médicale: concepts et histoire -->
+<!-- M1 Biologie Santé - Formation de la Pensée Médicale : concepts et histoire -->
 <div class="timeline-item">
   <div class="timeline-date">2022–2023</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="timeline-title">M1 Biologie Santé - Formation de la Pensée Médicale: concepts et histoire</div>
+    <div class="timeline-title">M1 Biologie Santé - Formation de la Pensée Médicale : concepts et histoire</div>
     <div class="skill-tag">Compétence clé : Interroger les concepts médicaux</div>
 
     <br>Analyse de textes anciens (grec et latin ancien), introduction à l’épistémologie, réflexion sur les erreurs de raisonnement
     <div class="transition">
-      Envie de comprendre les fondements conceptuels de la médecine, d’élargir ma vision du soin et de découvrir un pan plus qualitatif de la recherche.
+      Envie de comprendre les fondements conceptuels de la médecine, d’élargir ma vision du soin et de découvrir un pan plus qualitatif de la recherche
     </div>
   </div>
 </div>
@@ -216,7 +216,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
     Commandement d'un binôme, lecture du feu, prise de décision sous pression  
     <div class="transition">
-      Envie d’accroître mes compétences opérationnelles et d’améliorer ma capacité à décider rapidement.
+      Envie d’accroître mes compétences opérationnelles et d’améliorer ma capacité à décider rapidement
     </div>
   </div>
 </div>
@@ -232,7 +232,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
     Analyse critique des usages de l’IA, compréhension des architectures et applications en santé  
     <div class="transition">
-      Envie de dépasser les idées reçues et de comprendre réellement ce que l’IA peut — et ne peut pas — apporter.
+      Envie de dépasser les idées reçues et de comprendre réellement ce que l’IA peut — et ne peut pas — apporter
     </div>
   </div>
 </div>
@@ -253,18 +253,18 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   </div>
 </div>
 
-<!-- AUEC Procédures expérimentales -->
+<!-- AUEC Procédures Expérimentales -->
 <div class="timeline-item">
   <div class="timeline-date">2025</div>
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="timeline-title">AUEC — Concepteur de procédures expérimentales</div>
+    <div class="timeline-title">AUEC — Concepteur de Procédures Expérimentales</div>
     <div class="skill-tag">Compétence clé : Structurer un protocole expérimental en respectant les enjeux éthiques</div>
 
     Choix du modèle animal, structuration de protocole, rédaction de saisine au Comité d’Éthique  
     <div class="transition">
-      Envie de travailler avec rigueur scientifique et dans le respect du modèle animal.
+      Envie de travailler avec rigueur scientifique et dans le respect du modèle animal
     </div>
   </div>
 </div>
@@ -275,12 +275,12 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="timeline-title">AUEC — Concepteur de Procédures expérimentales chirurgicales</div>
+    <div class="timeline-title">AUEC — Concepteur de Procédures Expérimentales Chirurgicales</div>
     <div class="skill-tag">Compétence clé : Réaliser des gestes chirurgicaux expérimentaux</div>
 
     Gestes chirurgicaux, développement de modèles expérimentaux, adaptation aux contraintes physiologiques  
     <div class="transition">
-      Envie d’acquérir la technicité nécessaire pour mener mes protocoles de manière autonome.
+      Envie d’acquérir la technicité nécessaire pour mener mes protocoles de manière autonome
     </div>
   </div>
 </div>
@@ -296,7 +296,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
     Projet translationnel sur les variations glycémiques maternelles et le SNA fœtal  
     <div class="transition">
-      Envie d’aller plus loin, de gagner en rigueur et de m’inscrire pleinement dans une trajectoire hospitalo‑universitaire.
+      Envie d’aller plus loin, de gagner en rigueur et de m’inscrire pleinement dans une trajectoire hospitalo‑universitaire
     </div>
   </div>
 </div>

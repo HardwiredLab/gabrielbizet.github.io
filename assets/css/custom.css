@@ -1,0 +1,82 @@
+/* ===== PALETTE ===== */
+:root {
+  --gold: #e8cfa3;
+  --gold-soft: rgba(200,160,100,0.18);
+  --gold-bg: rgba(200,160,100,0.10);
+  --anthracite: #1b1b1b;
+  --anthracite-light: #2a2a2a;
+  --text-light: #e8e8e8;
+}
+
+/* ===== GLOBAL ===== */
+body {
+  background: #111 !important;
+  color: var(--text-light) !important;
+  font-family: "Inter", sans-serif;
+}
+
+/* ===== HEADER ===== */
+.site-header {
+  background: var(--anthracite) !important;
+  border-bottom: 1px solid var(--anthracite-light) !important;
+  box-shadow: 0 0 18px var(--gold-soft);
+}
+
+.site-title {
+  color: var(--gold) !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px;
+}
+
+.site-title:hover {
+  color: #f5e7d3 !important;
+}
+
+/* ===== NAVIGATION ===== */
+.site-nav .page-link {
+  color: var(--text-light) !important;
+}
+
+.site-nav .page-link:hover {
+  color: var(--gold) !important;
+}
+
+/* ===== TITRES ===== */
+h1, h2, h3, h4 {
+  color: var(--gold) !important;
+}
+
+/* ===== LIENS ===== */
+a {
+  color: var(--gold) !important;
+}
+
+a:hover {
+  color: #f5e7d3 !important;
+}
+
+/* ===== BLOCS ===== */
+hr {
+  border-color: var(--anthracite-light) !important;
+}
+
+blockquote {
+  border-left: 4px solid var(--gold) !important;
+  background: var(--gold-bg) !important;
+  color: var(--text-light) !important;
+}
+
+/* ===== TABLEAUX ===== */
+table {
+  border-color: var(--anthracite-light) !important;
+}
+
+th {
+  background: var(--anthracite-light) !important;
+  color: var(--gold) !important;
+}
+
+td {
+  background: var(--anthracite) !important;
+  color: var(--text-light) !important;
+}

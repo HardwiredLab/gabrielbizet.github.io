@@ -25,5 +25,6 @@ permalink: /contact/
 <p>
 <a href="mailto:gabriel.bizet.etu@univ-lille.fr">gabriel.bizet.etu@univ-lille.fr</a><br>
 <a href="mailto:gabriel.bizet@univ-catholille.fr">gabriel.bizet@univ-catholille.fr</a>
+<a href="mailto:gabriel.bizet@sdis59.fr">gabriel.bizet@sdis59.fr</a>
 </p>
 </div>

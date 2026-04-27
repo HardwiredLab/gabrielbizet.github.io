@@ -135,7 +135,8 @@ permalink: /
     <h1>Portfolio de compétences</h1>
    
  Bienvenue sur mon portfolio académique<br>
- Il propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle
+ Je suis sage-femme hospitalier, enseignant, sapeur-pompier volontaire et doctorant au sein de l'ULR2694 METRICS : Evaluation des Technologies de Santé et des Pratiques Médicales
+ Cette page propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle
 
  </div>
 

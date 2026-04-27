@@ -6,6 +6,12 @@ permalink: /
 
 <style>
 
+/* ===== ESPACEMENT SOUS LA NAVIGATION ===== */
+.site-header {
+  padding-bottom: 18px !important; /* espace sous le header */
+  margin-bottom: 30px !important;
+}
+
 /* ===== HERO / INTRO ===== */
 .intro {
   background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
@@ -18,17 +24,18 @@ permalink: /
 }
 
 .intro h1 {
-  font-size: 2.8rem;
+  font-size: 3rem; /* légèrement augmenté */
   font-weight: 700;
   color: #e8cfa3;
-  margin-bottom: 22px;
+  margin-bottom: 28px;
   letter-spacing: 0.6px;
 }
 
 .intro p, .intro br {
   color: #e8e8e8;
-  font-size: 1.25rem; /* augmenté */
-  line-height: 1.75;
+  font-size: 1.35rem; /* plus grand */
+  line-height: 1.85; /* plus aéré */
+  font-weight: 300;
 }
 
 /* ===== SECTIONS ===== */
@@ -38,7 +45,7 @@ permalink: /
   border-radius: 16px;
   border: 1px solid #3d3d3d;
   box-shadow: 0 0 18px rgba(200,160,100,0.18);
-  margin-bottom: 40px; /* espacement augmenté */
+  margin-bottom: 45px; /* espacement augmenté */
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
@@ -73,10 +80,11 @@ permalink: /
 /* ===== BANNIÈRE ===== */
 .banner {
   width: 100%;
-  height: 380px; /* agrandi pour ne plus couper ta tête */
+  height: 300px; /* hauteur plus raisonnable */
   border-radius: 18px;
-  background-size: cover;
-  background-position: center top; /* remonte légèrement l’image */
+  background-size: cover; /* couvre sans déformer */
+  background-position: center 20%; /* remonte l’image pour voir ton visage */
+  background-repeat: no-repeat;
   box-shadow: 0 0 26px rgba(200,160,100,0.25);
   border: 1px solid #3d3d3d;
   margin-bottom: 40px;

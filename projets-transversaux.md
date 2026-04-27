@@ -102,11 +102,11 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑faire</strong> — Transformer les données probantes en outils pédagogiques concrets et immédiatement mobilisables par les praticiens (tracés commentés, dossiers cliniques, mises en situation).
+    <strong>Savoir‑faire</strong> — Transformer les données probantes en outils pédagogiques concrets et immédiatement mobilisables par les praticiens (tracés commentés, dossiers cliniques, mises en situation)
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑être</strong> — Adopter une posture andragogique rigoureuse, inclusive et adaptée aux besoins des professionnels hospitaliers et libéraux.
+    <strong>Savoir‑être</strong> — Adopter une posture andragogique rigoureuse, inclusive et adaptée aux besoins des professionnels hospitaliers et libéraux
   </div>
 </div>
 
@@ -116,7 +116,7 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   <div class="project-title">Participation à l'élaboration de recommandations pour la pratique clinique des sociétés savantes</div>
 
   <div class="project-context">
-    Je contribue à la production et à la relecture de recommandations nationales en apportant une expertise clinique et méthodologique au sein de groupes de travail pluridisciplinaires.  
+    Je contribue à la production et à la relecture de recommandations nationales en apportant une expertise clinique et méthodologique au sein de groupes de travail pluridisciplinaires
     > 2026 : Groupe de travail recommandations HAS « Suspicion d’allergie aux antibiotiques »  
     > 2026 : Groupe de relecture recommandations CNGOF « Diabète gestationnel »  
   </div>

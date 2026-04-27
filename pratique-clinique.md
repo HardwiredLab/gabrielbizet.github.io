@@ -156,7 +156,8 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
   <div class="level-header">
     <h2 class="level-title">Niveau III</h2>
     <div class="level-subheader">
-      <div class="level-location">CHU de Lille, Hôpital Jeanne de Flandre, Pôle Femme Mère Nouveau-né, F-59000 Lille</div>
+      <div class="level-location">CHU de Lille, Hôpital Jeanne de Flandre, 
+        Pôle Femme Mère Nouveau-né, F-59000 Lille</div>
       <div class="level-date"><strong>07/2024 → 05/2025</strong></div>
     </div>
   </div>
@@ -196,7 +197,8 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
   <div class="level-header">
     <h2 class="level-title">Niveau IIa</h2>
     <div class="level-subheader">
-      <div class="level-location">Ramsay Santé, Hôpital Privé de Marne-la-Vallée, F-94015 Bry-sur-Marne</div>
+      <div class="level-location">Ramsay Santé, Hôpital Privé de Marne-la-Vallée, 
+        F-94015 Bry-sur-Marne</div>
       <div class="level-date"><strong>Depuis 09/2025</strong></div>
     </div>
   </div>
@@ -234,7 +236,7 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
   <div class="level-header">
     <h2 class="level-title">Activité libérale</h2>
     <div class="level-subheader">
-      <div class="level-location">Cabinet Bien Naître — F-59830 Cysoing</div>
+      <div class="level-location">Cabinet Bien Naître, F-59830 Cysoing</div>
       <div class="level-date"><strong>08/2024</strong></div>
     </div>
   </div>

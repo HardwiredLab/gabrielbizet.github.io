@@ -13,7 +13,21 @@ permalink: /pratique-clinique/
   font-size: 1.05rem;
   line-height: 1.75;
   color: #e8e8e8;
+  margin-bottom: 45px;
+}
+
+/* ===== COMPÉTENCE CLÉ (mise en avant autonome) ===== */
+.competence-key-standalone {
+  background: linear-gradient(135deg, rgba(200,160,100,0.22), rgba(200,160,100,0.08));
+  border: 1px solid #e8cfa3;
+  padding: 22px 26px;
+  border-radius: 14px;
   margin-bottom: 55px;
+  color: #f5e7d3;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.7;
+  box-shadow: 0 0 26px rgba(200,160,100,0.18);
 }
 
 /* ===== BLOC COMPÉTENCES ===== */
@@ -27,24 +41,11 @@ permalink: /pratique-clinique/
 }
 
 .competence-title {
-  font-size: 1.55rem;
+  font-size: 1.45rem;
   font-weight: 700;
   color: #f5e7d3;
-  margin-bottom: 28px;
-  letter-spacing: 0.4px;
-}
-
-/* Mise en valeur renforcée de la compétence clé */
-.competence-key {
-  padding: 18px 22px;
-  background: rgba(200,160,100,0.18);
-  border-left: 5px solid #e8cfa3;
-  border-radius: 8px;
-  margin-bottom: 26px;
-  color: #f5e7d3;
-  font-size: 1.15rem;
-  font-weight: 600;
-  line-height: 1.65;
+  margin-bottom: 22px;
+  letter-spacing: 0.3px;
 }
 
 .competence-item {
@@ -71,7 +72,6 @@ permalink: /pratique-clinique/
   margin-bottom: 45px;
 }
 
-/* Nouveau header : Niveau → Lieu → Dates */
 .level-header {
   margin-bottom: 14px;
 }
@@ -124,13 +124,14 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 </div>
 
 
+<div class="competence-key-standalone">
+  <strong>Compétence clé</strong> — Assurer une prise en charge obstétricale fiable et adaptée, quel que soit le niveau de complexité clinique.
+</div>
+
+
 <div class="competence-block">
 
   <div class="competence-title">Compétence, savoirs et posture professionnelle</div>
-
-  <div class="competence-key">
-    <strong>Compétence clé</strong> — Assurer une prise en charge obstétricale fiable et adaptée, quel que soit le niveau de complexité clinique.
-  </div>
 
   <div class="competence-item">
     <strong>Savoir</strong> — Maîtrrer les connaissances gynécologiques et obstétricales essentielles, en intégrant les protocoles, les recommandations et les spécificités organisationnelles propres à chaque structure.

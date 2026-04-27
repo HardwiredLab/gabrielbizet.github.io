@@ -119,49 +119,50 @@ permalink: /pratique-clinique/
 
 J’exerce actuellement à temps partiel (50%) au sein de l’Hôpital Privé de Marne‑la‑Vallée. Ma pratique clinique constitue le socle de l’ensemble de mes projets : elle nourrit ma réflexion, structure mes priorités et donne du sens à mes engagements scientifiques et pédagogiques.
 
-J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéral au niveau III — afin de construire une **vision globale, réaliste et indépendante** de mon métier. Cette diversité m’a permis de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
+J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au niveau III — afin de construire une vision globale, réaliste et indépendante de mon métier. Cette diversité m’a permis de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
 
 </div>
 
 
 <div class="competence-key-standalone">
-  <strong>Compétence clé</strong> — Assurer une prise en charge obstétricale fiable et adaptée, quel que soit le niveau de complexité clinique.
+  <strong>Compétence clé</strong> — Assurer une prise en charge gynécologique et obstétricale fiable et adaptée
 </div>
 
 
 <div class="competence-block">
 
-  <div class="competence-title">Compétence, savoirs et posture professionnelle</div>
+  <div class="competence-title">Posture professionnelle</div>
 
   <div class="competence-item">
-    <strong>Savoir</strong> — Maîtrrer les connaissances gynécologiques et obstétricales essentielles, en intégrant les protocoles, les recommandations et les spécificités organisationnelles propres à chaque structure.
+    <strong>Savoir</strong> — Maîtriser les connaissances gynécologiques et obstétricales essentielles, en intégrant les protocoles, les recommandations et les spécificités organisationnelles propres à chaque structure
   </div>
 
   <div class="competence-item">
-    <strong>Savoir‑faire</strong> — Anticiper, prioriser et organiser la prise en charge, en adaptant la stratégie clinique au contexte et aux ressources disponibles.
+    <strong>Savoir‑faire</strong> — Anticiper, prioriser et organiser la prise en charge, en adaptant la stratégie clinique au contexte et aux ressources disponibles
   </div>
 
   <div class="competence-item">
-    <strong>Savoir‑être</strong> — Maintenir une présence professionnelle stable et rassurante, et garantir un accompagnement respectueux.
+    <strong>Savoir‑être</strong> — Maintenir une présence professionnelle stable et rassurante, et garantir un accompagnement respectueux des patientes et des couples
   </div>
 
 </div>
 
 ---
 
-# Expérience professionnelle
+
 
 
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau III</h2>
     <div class="level-subheader">
-      <div class="level-location">CHU de Lille — Hôpital Jeanne de Flandre</div>
+      <div class="level-location">CHU de Lille, Hôpital Jeanne de Flandre, Pôle Femme Mère Nouveau-né, F-59000 Lille</div>
       <div class="level-date"><strong>07/2024 → 05/2025</strong></div>
     </div>
   </div>
 
-  <p><em>Pôle Femme Mère Nouveau-né</em></p>
+  <p><em>CDD</em></p>
+
 
   <ul>
     <li>Bloc obstétrical</li>
@@ -177,7 +178,7 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
   <div class="level-header">
     <h2 class="level-title">Niveau IIb</h2>
     <div class="level-subheader">
-      <div class="level-location">Hôpital Saint‑Vincent — GHICL</div>
+      <div class="level-location">GHICL, Hôpital Saint‑Vincent de Paul, F-59000 Lille</div>
       <div class="level-date"><strong>07/2024 → 09/2025</strong></div>
     </div>
   </div>
@@ -195,12 +196,12 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
   <div class="level-header">
     <h2 class="level-title">Niveau IIa</h2>
     <div class="level-subheader">
-      <div class="level-location">Hôpital Privé de Marne-la-Vallée</div>
+      <div class="level-location">Ramsay Santé, Hôpital Privé de Marne-la-Vallée, F-94015 Bry-sur-Marne</div>
       <div class="level-date"><strong>Depuis 09/2025</strong></div>
     </div>
   </div>
 
-  <p><em>Poste actuel — 50%</em></p>
+  <p><em>CDI</em></p>
 
   <ul>
     <li>Bloc obstétrical</li>
@@ -215,7 +216,7 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
   <div class="level-header">
     <h2 class="level-title">Niveau I</h2>
     <div class="level-subheader">
-      <div class="level-location">Maternité des Lilas</div>
+      <div class="level-location">Maternité des Lilas, F-93260 Les Lilas</div>
       <div class="level-date"><strong>08/2025</strong></div>
     </div>
   </div>
@@ -233,7 +234,7 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
   <div class="level-header">
     <h2 class="level-title">Activité libérale</h2>
     <div class="level-subheader">
-      <div class="level-location">Cabinet Bien Naître — Cysoing</div>
+      <div class="level-location">Cabinet Bien Naître — F-59830 Cysoing</div>
       <div class="level-date"><strong>08/2024</strong></div>
     </div>
   </div>

@@ -18,34 +18,34 @@ permalink: /
   margin-bottom: 20px !important;
 }
 
-/* ===== HERO / INTRO ===== */
+/* ===== HERO / INTRO (VERSION RÉDUITE) ===== */
 .intro {
   background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
-  padding: 70px 40px; /* RÉDUIT */
+  padding: 40px 32px; /* RÉDUIT ++ */
   border-radius: 18px;
   border: 1px solid #2d2d2d;
-  box-shadow: 0 0 28px rgba(200,160,100,0.22);
+  box-shadow: 0 0 22px rgba(200,160,100,0.18);
   text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 45px; /* RÉDUIT */
 }
 
 /* ===== TITRE ===== */
 .intro h1 {
-  font-size: 2.8rem; /* PLUS PETIT */
+  font-size: 2.3rem; /* PLUS PETIT */
   font-weight: 700;
   color: #e8cfa3;
-  margin-bottom: 35px;
-  letter-spacing: 0.6px;
+  margin-bottom: 22px; /* RÉDUIT */
+  letter-spacing: 0.5px;
 }
 
 /* ===== TEXTE D’INTRO ===== */
 .intro p, .intro br {
   color: #e8e8e8;
-  font-size: 1.9rem; /* PLUS GRAND */
-  line-height: 2.3;  /* PLUS AÉRÉ */
+  font-size: 1.55rem; /* LÉGÈREMENT RÉDUIT */
+  line-height: 1.9;   /* PLUS COMPACT */
   font-weight: 300;
   display: block;
-  margin-bottom: 22px; /* ESPACE ENTRE CHAQUE PHRASE */
+  margin-bottom: 16px; /* RÉDUIT */
 }
 
 /* ===== SECTIONS ===== */

@@ -8,44 +8,44 @@ permalink: /
 
 /* ===== ESPACEMENT SOUS LA NAVIGATION ===== */
 .site-header {
-  padding-bottom: 18px !important; /* espace sous le header */
-  margin-bottom: 30px !important;
+  padding-bottom: 28px !important;
+  margin-bottom: 45px !important;
 }
 
 /* ===== HERO / INTRO ===== */
 .intro {
   background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
-  padding: 90px 40px;
+  padding: 100px 40px;
   border-radius: 18px;
   border: 1px solid #2d2d2d;
   box-shadow: 0 0 32px rgba(200,160,100,0.22);
   text-align: center;
-  margin-bottom: 70px;
+  margin-bottom: 80px;
 }
 
 .intro h1 {
-  font-size: 3rem; /* légèrement augmenté */
+  font-size: 3.2rem;
   font-weight: 700;
   color: #e8cfa3;
-  margin-bottom: 28px;
-  letter-spacing: 0.6px;
+  margin-bottom: 36px;
+  letter-spacing: 0.7px;
 }
 
 .intro p, .intro br {
   color: #e8e8e8;
-  font-size: 1.35rem; /* plus grand */
-  line-height: 1.85; /* plus aéré */
+  font-size: 1.55rem; /* encore augmenté */
+  line-height: 2;
   font-weight: 300;
 }
 
 /* ===== SECTIONS ===== */
 .section {
   background: #1b1b1b;
-  padding: 30px 32px;
+  padding: 32px 34px;
   border-radius: 16px;
   border: 1px solid #3d3d3d;
   box-shadow: 0 0 18px rgba(200,160,100,0.18);
-  margin-bottom: 45px; /* espacement augmenté */
+  margin-bottom: 50px;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
@@ -80,14 +80,19 @@ permalink: /
 /* ===== BANNIÈRE ===== */
 .banner {
   width: 100%;
-  height: 300px; /* hauteur plus raisonnable */
+  height: 520px; /* beaucoup plus grande */
   border-radius: 18px;
+
+  /* Affichage propre */
   background-size: cover; /* couvre sans déformer */
-  background-position: center 20%; /* remonte l’image pour voir ton visage */
+  background-position: center 15%; /* remonte ton visage */
   background-repeat: no-repeat;
-  box-shadow: 0 0 26px rgba(200,160,100,0.25);
-  border: 1px solid #3d3d3d;
-  margin-bottom: 40px;
+
+  /* Suppression du bandeau */
+  border: none;
+  box-shadow: none;
+
+  margin-bottom: 50px;
 }
 
 /* ===== BOUTONS ===== */

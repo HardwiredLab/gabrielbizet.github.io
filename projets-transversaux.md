@@ -57,58 +57,56 @@ Cette section présente quelques projets professionnels complémentaires, articu
 ---
 
 <div class="project-block">
-  <div class="project-title">Unité de Santé de la Femme — Sous-direction Santé et de Secours Médical (SDIS 59)</div>
+  <div class="project-title">Unité de Santé de la Femme (SDIS 59)</div>
 
   <div class="project-context">
-Depuis mai 2025, je suis expert sage-femme auprès des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles. 
+Depuis mai 2025, je suis expert sage-femme au sein de la Sous-direction Santé et de Secours Médical des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles. 
 J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit leur issue - et travaille désormais sur l'élaboration de recommandations pour accompagner les femmes sapeurs-pompiers ménopausées ou présentant des douleurs pelviennes chroniques.
   </div>
 
   <div class="project-item">
-    <strong>Compétence clé</strong> — Accompagner les femmes sapeurs‑pompiers au maintien et au retour à l’activité opérationnelle.
+    <strong>Compétence clé</strong> — Élaboration de parcours individualisés permettant le maintien ou le retour à l’activité opérationnelle des femmes sapeurs-pompiers
   </div>
 
   <div class="project-item">
-    <strong>Savoir</strong> — Mettre en lien les spécificités physiologiques des femmes sapeurs-pompiers et les contraintes inhérentes à ce métier.
+    <strong>Savoir</strong> — Connaître l'exposition professionnelle au métier de sapeur-pompier
   </div>
 
   <div class="project-item">
     <strong>Savoir‑faire</strong> —  
-    - Élaboration de parcours individualisés de maintien / retour à l’activité  
-    - Analyse des risques opérationnels en fonction de la situation clinique  
-    - Rédaction de recommandations à destination des médecins sapeurs‑pompiers  
+    Analyse des risques opérationnels en fonction de la situation clinique
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑être</strong> — Écoute active, adaptation aux contraintes opérationnelles, communication interprofessionnelle fluide.
+    <strong>Savoir‑être</strong> — Écoute active, adaptation aux contraintes opérationnelles et communication interprofessionnelle
   </div>
 </div>
 
 ---
 
 <div class="project-block">
-  <div class="project-title">Formation professionnelle — Auto‑entrepreneur</div>
+  <div class="project-title">Formation Médicale Continue via l'auto‑entreprenariat</div>
 
   <div class="project-context">
-Je conçois et dispense des formations spécialisées en périnatalité en qualité de prestataire de formation (via Medic Formation). Mon activité comprend un programme de 21h dédié à l’analyse physiopathologique du Rythme Cardiaque Fœtal, et je déploie en ce moment-même un module de 14h sur l’accompagnement médical des personnes trans et non‑binaires
+    Je conçois et dispense des formations via l'organisme de formation Medic Formation.  
+    Mon activité comprend un programme de 21h dédié à l’analyse physiopathologique du Rythme Cardiaque Fœtal — outil central du clinicien en salle de naissance — que je mets à jour en continu à partir de la littérature scientifique.  
+    Je développe également un module de 14h sur l’accompagnement médical des personnes trans et non‑binaires, fondé sur les recommandations internationales et les données probantes.
   </div>
 
   <div class="project-item">
-    <strong>Compétence clé</strong> — Concevoir et dispenser des formations spécialisées en périnatalité
+    <strong>Compétence clé</strong> — Concevoir et dispenser des formations spécialisées en périnatalité fondées sur la littérature scientifique
   </div>
 
   <div class="project-item">
-    <strong>Savoir</strong> — Physiologie fœtale, analyse du RCF, pédagogie active, enjeux de santé des personnes trans et non‑binaires.
+    <strong>Savoir</strong> — Actualiser en continu mes connaissances à partir de la littérature scientifique et des recommandations professionnelles.
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑faire</strong> —
-    - Animation de sessions de formation auprès de professionnels de santé (sages‑femmes et médecins), notamment au sein des centres hospitaliers
-    - Création de supports pédagogiques adaptés à des praticiens hospitaliers et libéraux (dossiers cliniques, tracés, mises en situation)  
+    <strong>Savoir‑faire</strong> — Transformer les données probantes en outils pédagogiques concrets et immédiatement mobilisables par les praticiens (tracés commentés, dossiers cliniques, mises en situation).
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑être</strong> — Andragogie, adaptation au niveau des apprenant·es, posture inclusive et respectueuse.
+    <strong>Savoir‑être</strong> — Adopter une posture andragogique rigoureuse, inclusive et adaptée aux besoins des professionnels hospitaliers et libéraux.
   </div>
 </div>
 
@@ -118,27 +116,24 @@ Je conçois et dispense des formations spécialisées en périnatalité en quali
   <div class="project-title">Participation à l'élaboration de recommandations pour la pratique clinique des sociétés savantes</div>
 
   <div class="project-context">
-    Je contribue à la production et à la relecture de recommandations nationales, en apportant une expertise clinique et méthodologique au sein de groupes de travail pluridisciplinaires
-  > 2026 : Participation au groupe de travail HAS « Suspicion d’allergie aux antibiotiques »  
-  > 2026 : Participation au groupe de relecture des recommandations CNGOF « Diabète gestationnel »  
+    Je contribue à la production et à la relecture de recommandations nationales en apportant une expertise clinique et méthodologique au sein de groupes de travail pluridisciplinaires.  
+    > 2026 : Groupe de travail recommandations HAS « Suspicion d’allergie aux antibiotiques »  
+    > 2026 : Groupe de relecture recommandations CNGOF « Diabète gestationnel »  
   </div>
 
   <div class="project-item">
-    <strong>Compétence clé</strong> — Contribuer à la production et à la validation de recommandations nationales
+    <strong>Compétence clé</strong> — Participer à la construction et à la validation de recommandations nationales fondées sur les données probantes
   </div>
 
   <div class="project-item">
-    <strong>Savoir</strong> — Méthodologie de rédaction de recommandations, analyse critique de la littérature, évaluation des niveaux de preuve
+    <strong>Savoir</strong> — Mobiliser la méthodologie des recommandations (analyse critique, niveaux de preuve, hiérarchisation des données) pour garantir la robustesse scientifique des textes
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑faire</strong> —  
-    - Relecture méthodologique et clinique des recommandations 
-    - Vérification de la cohérence interne et de la validité scientifique  
-    - Contribution à la structuration et à la formulation des textes finaux  
+    <strong>Savoir‑faire</strong> — Analyser, structurer et reformuler des contenus complexes afin d’assurer la cohérence interne, la validité scientifique et l’opérationnalité clinique des recommandations
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑être</strong> — Rigueur scientifique, sens du consensus, communication interdisciplinaire
+    <strong>Savoir‑être</strong> — Travailler avec rigueur et sens du consensus au sein d’équipes pluridisciplinaires, en adoptant une communication claire et constructive
   </div>
 </div>

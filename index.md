@@ -90,7 +90,7 @@ permalink: /
 /* ===== BANNIÈRE ===== */
 .banner {
   width: 100%;
-  height: 300px; /* RÉDUITE ENCORE */
+  height: 150px; /* RÉDUITE ENCORE */
   border-radius: 18px;
 
   background-size: contain !important;
@@ -134,7 +134,9 @@ permalink: /
     <h1>Portfolio de compétences</h1>
    
     Bienvenue sur mon portfolio académique<br>
+    
     Je suis sage-femme hospitalier, enseignant, sapeur-pompier volontaire et doctorant au sein de l'ULR2694 METRICS : Evaluation des Technologies de Santé et des Pratiques Médicales<br>
+    
     Cette page propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle
 </div>
 

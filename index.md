@@ -11,21 +11,22 @@ permalink: /
   display: none !important;
 }
 
-/* ===== ESPACEMENT SOUS LE HEADER ===== */
+/* ===== HEADER PLUS PETIT ===== */
 .site-header {
-  padding-bottom: 25px !important;
-  margin-bottom: 40px !important;
+  padding-top: 8px !important;
+  padding-bottom: 10px !important;
+  margin-bottom: 30px !important;
 }
 
 /* ===== HERO / INTRO ===== */
 .intro {
   background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
-  padding: 110px 40px;
+  padding: 90px 40px;
   border-radius: 18px;
   border: 1px solid #2d2d2d;
   box-shadow: 0 0 32px rgba(200,160,100,0.22);
   text-align: center;
-  margin-bottom: 80px;
+  margin-bottom: 70px;
 }
 
 .intro h1 {
@@ -38,8 +39,8 @@ permalink: /
 
 .intro p, .intro br {
   color: #e8e8e8;
-  font-size: 1.75rem; /* TRÈS GRAND */
-  line-height: 2.1;
+  font-size: 2rem; /* AUGMENTÉ ++ */
+  line-height: 2.2;
   font-weight: 300;
 }
 
@@ -85,10 +86,10 @@ permalink: /
 /* ===== BANNIÈRE ===== */
 .banner {
   width: 100%;
-  height: 600px; /* TRÈS LARGE ET HAUTE */
+  height: 750px; /* BEAUCOUP PLUS HAUTE */
   border-radius: 18px;
 
-  /* Empêche le zoom */
+  /* Affichage propre, non zoomé */
   background-size: contain !important;
   background-repeat: no-repeat !important;
 

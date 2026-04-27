@@ -13,38 +13,39 @@ permalink: /
 
 /* ===== HEADER PLUS PETIT ===== */
 .site-header {
-  padding-top: 6px !important;
-  padding-bottom: 6px !important;
-  margin-bottom: 25px !important;
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+  margin-bottom: 20px !important;
 }
 
 /* ===== HERO / INTRO ===== */
 .intro {
   background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
-  padding: 110px 50px;
+  padding: 70px 40px; /* RÉDUIT */
   border-radius: 18px;
   border: 1px solid #2d2d2d;
-  box-shadow: 0 0 32px rgba(200,160,100,0.22);
+  box-shadow: 0 0 28px rgba(200,160,100,0.22);
   text-align: center;
-  margin-bottom: 80px;
+  margin-bottom: 60px;
 }
 
+/* ===== TITRE ===== */
 .intro h1 {
-  font-size: 3.6rem;
+  font-size: 2.8rem; /* PLUS PETIT */
   font-weight: 700;
   color: #e8cfa3;
-  margin-bottom: 55px; /* ESPACE PLUS GRAND AVANT LE TEXTE */
-  letter-spacing: 0.8px;
+  margin-bottom: 35px;
+  letter-spacing: 0.6px;
 }
 
-/* ===== TEXTE D’INTRO (LES 3 LIGNES) ===== */
+/* ===== TEXTE D’INTRO ===== */
 .intro p, .intro br {
   color: #e8e8e8;
-  font-size: 2.4rem; /* PLUS GRAND */
-  line-height: 2.6;  /* PLUS AÉRÉ */
+  font-size: 1.9rem; /* PLUS GRAND */
+  line-height: 2.3;  /* PLUS AÉRÉ */
   font-weight: 300;
   display: block;
-  margin-bottom: 28px; /* ESPACEMENT ENTRE CHAQUE LIGNE */
+  margin-bottom: 22px; /* ESPACE ENTRE CHAQUE PHRASE */
 }
 
 /* ===== SECTIONS ===== */
@@ -89,7 +90,7 @@ permalink: /
 /* ===== BANNIÈRE ===== */
 .banner {
   width: 100%;
-  height: 360px; /* RÉDUITE ENCORE */
+  height: 300px; /* RÉDUITE ENCORE */
   border-radius: 18px;
 
   background-size: contain !important;
@@ -97,7 +98,7 @@ permalink: /
   background-color: #111;
   background-position: center top;
 
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 /* ===== BOUTONS ===== */

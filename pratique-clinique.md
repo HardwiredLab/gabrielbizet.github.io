@@ -8,15 +8,11 @@ permalink: /pratique-clinique/
 
 <style>
 
-/* ===== BLOC INTRO ===== */
-.intro-block {
-  background: #1b1b1b;
-  padding: 34px 38px;
-  border-radius: 14px;
-  border: 1px solid #3d3d3d;
-  box-shadow: 0 0 22px rgba(200,160,100,0.18);
+/* ===== PARAGRAPHE INTRO ===== */
+.intro-text {
+  font-size: 1.05rem;
+  line-height: 1.75;
   color: #e8e8e8;
-  line-height: 1.7;
   margin-bottom: 55px;
 }
 
@@ -56,22 +52,41 @@ permalink: /pratique-clinique/
 .level-card {
   background: #1b1b1b;
   border-radius: 14px;
-  padding: 28px 32px;
+  padding: 30px 34px;
   border: 1px solid #3d3d3d;
   box-shadow: 0 0 18px rgba(200,160,100,0.18);
-  margin-bottom: 40px;
+  margin-bottom: 45px;
 }
 
-.level-card h2 {
-  margin-top: 0;
-  color: #f5e7d3;
+.level-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 12px;
+}
+
+.level-title {
   font-size: 1.4rem;
+  color: #f5e7d3;
+  margin: 0;
+}
+
+.level-date {
+  font-size: 0.95rem;
+  color: #e8cfa3;
+  font-weight: 600;
 }
 
 .level-card h3 {
-  margin-bottom: 6px;
+  margin: 0 0 6px 0;
   color: #e8cfa3;
   font-size: 1.15rem;
+}
+
+.level-card p {
+  margin: 0 0 14px 0;
+  color: #cfcfcf;
+  line-height: 1.55;
 }
 
 .level-card ul {
@@ -83,14 +98,11 @@ permalink: /pratique-clinique/
 </style>
 
 
-<div class="intro-block">
+<div class="intro-text">
 
-J’exerce actuellement à temps partiel (50%) au sein de l’Hôpital Privé de Marne‑la‑Vallée.  
+J’exerce actuellement à temps partiel (50%) au sein de l’Hôpital Privé de Marne‑la‑Vallée. Ma pratique clinique constitue le socle de l’ensemble de mes projets : elle nourrit ma réflexion, structure mes priorités et donne du sens à mes engagements scientifiques et pédagogiques.
 
-Ma pratique clinique constitue le socle de l’ensemble de mes projets : elle nourrit ma réflexion, structure mes priorités et donne du sens à mes engagements scientifiques et pédagogiques.
-
-J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéral au niveau III — afin de construire une **vision globale, réaliste et indépendante** de mon métier.  
-Cette diversité m’a permis de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
+J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéral au niveau III — afin de construire une **vision globale, réaliste et indépendante** de mon métier. Cette diversité m’a permis de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
 
 </div>
 
@@ -119,12 +131,19 @@ Cette diversité m’a permis de développer une pratique adaptable, rigoureuse 
 
 ---
 
-# Expérience professionnelle
+
+
+
+
 
 <div class="level-card">
-  <h2>Niveau III</h2>
+  <div class="level-header">
+    <h2 class="level-title">Niveau III</h2>
+    <div class="level-date"><strong>07/2024 → 05/2025</strong></div>
+  </div>
+
   <h3>CHU de Lille — Hôpital Jeanne de Flandre</h3>
-  <p><em>Pôle Femme Mère Nouveau-né</em><br><strong>07/2024 → 05/2025</strong></p>
+  <p><em>Pôle Femme Mère Nouveau-né</em></p>
 
   <ul>
     <li>Bloc obstétrical</li>
@@ -135,10 +154,15 @@ Cette diversité m’a permis de développer une pratique adaptable, rigoureuse 
   </ul>
 </div>
 
+
 <div class="level-card">
-  <h2>Niveau IIb</h2>
+  <div class="level-header">
+    <h2 class="level-title">Niveau IIb</h2>
+    <div class="level-date"><strong>07/2024 → 09/2025</strong></div>
+  </div>
+
   <h3>Hôpital Saint‑Vincent — GHICL</h3>
-  <p><em>Remplacements ponctuels</em><br><strong>07/2024 → 09/2025</strong></p>
+  <p><em>Remplacements ponctuels</em></p>
 
   <ul>
     <li>Bloc obstétrical</li>
@@ -146,10 +170,15 @@ Cette diversité m’a permis de développer une pratique adaptable, rigoureuse 
   </ul>
 </div>
 
+
 <div class="level-card">
-  <h2>Niveau IIa</h2>
+  <div class="level-header">
+    <h2 class="level-title">Niveau IIa</h2>
+    <div class="level-date"><strong>Depuis 09/2025</strong></div>
+  </div>
+
   <h3>Hôpital Privé de Marne-la-Vallée</h3>
-  <p><em>Poste actuel — 50%</em><br><strong>Depuis 09/2025</strong></p>
+  <p><em>Poste actuel — 50%</em></p>
 
   <ul>
     <li>Bloc obstétrical</li>
@@ -159,10 +188,15 @@ Cette diversité m’a permis de développer une pratique adaptable, rigoureuse 
   </ul>
 </div>
 
+
 <div class="level-card">
-  <h2>Niveau I</h2>
+  <div class="level-header">
+    <h2 class="level-title">Niveau I</h2>
+    <div class="level-date"><strong>08/2025</strong></div>
+  </div>
+
   <h3>Maternité des Lilas</h3>
-  <p><em>Remplacements ponctuels</em><br><strong>08/2025</strong></p>
+  <p><em>Remplacements ponctuels</em></p>
 
   <ul>
     <li>Bloc obstétrical</li>
@@ -170,10 +204,15 @@ Cette diversité m’a permis de développer une pratique adaptable, rigoureuse 
   </ul>
 </div>
 
+
 <div class="level-card">
-  <h2>Activité libérale</h2>
+  <div class="level-header">
+    <h2 class="level-title">Activité libérale</h2>
+    <div class="level-date"><strong>08/2024</strong></div>
+  </div>
+
   <h3>Cabinet Bien Naître — Cysoing</h3>
-  <p><em>Remplacement</em><br><strong>08/2024</strong></p>
+  <p><em>Remplacement</em></p>
 
   <ul>
     <li>Consultations de suivi de grossesse</li>

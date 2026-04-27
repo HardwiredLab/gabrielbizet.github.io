@@ -88,7 +88,7 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   <div class="project-title">Formation Médicale Continue via l'auto‑entreprenariat</div>
 
   <div class="project-context">
-    Je conçois et dispense des formations via l'organisme de formation Medic Formation.  
+    depuis 2024, je conçois et dispense des formations via l'organisme de formation Medic Formation.  
     Mon activité comprend un programme de 21h dédié à l’analyse physiopathologique du Rythme Cardiaque Fœtal — outil central du clinicien en salle de naissance — que je mets à jour en continu à partir de la littérature scientifique.  
     Je développe également un module de 14h sur l’accompagnement médical des personnes trans et non‑binaires, fondé sur les recommandations internationales et les données probantes.
   </div>

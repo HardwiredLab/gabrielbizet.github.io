@@ -27,11 +27,24 @@ permalink: /pratique-clinique/
 }
 
 .competence-title {
-  font-size: 1.45rem;
+  font-size: 1.55rem;
   font-weight: 700;
   color: #f5e7d3;
-  margin-bottom: 22px;
-  letter-spacing: 0.3px;
+  margin-bottom: 28px;
+  letter-spacing: 0.4px;
+}
+
+/* Mise en valeur renforcée de la compétence clé */
+.competence-key {
+  padding: 18px 22px;
+  background: rgba(200,160,100,0.18);
+  border-left: 5px solid #e8cfa3;
+  border-radius: 8px;
+  margin-bottom: 26px;
+  color: #f5e7d3;
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.65;
 }
 
 .competence-item {
@@ -58,17 +71,27 @@ permalink: /pratique-clinique/
   margin-bottom: 45px;
 }
 
+/* Nouveau header : Niveau → Lieu → Dates */
 .level-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  margin-bottom: 12px;
+  margin-bottom: 14px;
 }
 
 .level-title {
   font-size: 1.4rem;
   color: #f5e7d3;
-  margin: 0;
+  margin: 0 0 6px 0;
+}
+
+.level-subheader {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.level-location {
+  font-size: 1.15rem;
+  color: #e8cfa3;
+  font-weight: 600;
 }
 
 .level-date {
@@ -77,14 +100,8 @@ permalink: /pratique-clinique/
   font-weight: 600;
 }
 
-.level-card h3 {
-  margin: 0 0 6px 0;
-  color: #e8cfa3;
-  font-size: 1.15rem;
-}
-
 .level-card p {
-  margin: 0 0 14px 0;
+  margin: 6px 0 14px 0;
   color: #cfcfcf;
   line-height: 1.55;
 }
@@ -111,7 +128,7 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 
   <div class="competence-title">Compétence, savoirs et posture professionnelle</div>
 
-  <div class="competence-item">
+  <div class="competence-key">
     <strong>Compétence clé</strong> — Assurer une prise en charge obstétricale fiable et adaptée, quel que soit le niveau de complexité clinique.
   </div>
 
@@ -131,18 +148,18 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 
 ---
 
-
-
-
+# Expérience professionnelle
 
 
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau III</h2>
-    <div class="level-date"><strong>07/2024 → 05/2025</strong></div>
+    <div class="level-subheader">
+      <div class="level-location">CHU de Lille — Hôpital Jeanne de Flandre</div>
+      <div class="level-date"><strong>07/2024 → 05/2025</strong></div>
+    </div>
   </div>
 
-  <h3>CHU de Lille — Hôpital Jeanne de Flandre</h3>
   <p><em>Pôle Femme Mère Nouveau-né</em></p>
 
   <ul>
@@ -158,10 +175,12 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau IIb</h2>
-    <div class="level-date"><strong>07/2024 → 09/2025</strong></div>
+    <div class="level-subheader">
+      <div class="level-location">Hôpital Saint‑Vincent — GHICL</div>
+      <div class="level-date"><strong>07/2024 → 09/2025</strong></div>
+    </div>
   </div>
 
-  <h3>Hôpital Saint‑Vincent — GHICL</h3>
   <p><em>Remplacements ponctuels</em></p>
 
   <ul>
@@ -174,10 +193,12 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau IIa</h2>
-    <div class="level-date"><strong>Depuis 09/2025</strong></div>
+    <div class="level-subheader">
+      <div class="level-location">Hôpital Privé de Marne-la-Vallée</div>
+      <div class="level-date"><strong>Depuis 09/2025</strong></div>
+    </div>
   </div>
 
-  <h3>Hôpital Privé de Marne-la-Vallée</h3>
   <p><em>Poste actuel — 50%</em></p>
 
   <ul>
@@ -192,10 +213,12 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau I</h2>
-    <div class="level-date"><strong>08/2025</strong></div>
+    <div class="level-subheader">
+      <div class="level-location">Maternité des Lilas</div>
+      <div class="level-date"><strong>08/2025</strong></div>
+    </div>
   </div>
 
-  <h3>Maternité des Lilas</h3>
   <p><em>Remplacements ponctuels</em></p>
 
   <ul>
@@ -208,10 +231,12 @@ J’ai choisi d’exercer dans **tous les niveaux de maternité** — du libéra
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Activité libérale</h2>
-    <div class="level-date"><strong>08/2024</strong></div>
+    <div class="level-subheader">
+      <div class="level-location">Cabinet Bien Naître — Cysoing</div>
+      <div class="level-date"><strong>08/2024</strong></div>
+    </div>
   </div>
 
-  <h3>Cabinet Bien Naître — Cysoing</h3>
   <p><em>Remplacement</em></p>
 
   <ul>

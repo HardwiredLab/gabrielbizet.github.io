@@ -135,7 +135,9 @@ permalink: /
    
     Bienvenue sur mon portfolio académique
     <br>
+    <br>
     Je suis sage-femme hospitalier, enseignant, sapeur-pompier volontaire et doctorant au sein de l'ULR2694 METRICS : Evaluation des Technologies de Santé et des Pratiques Médicales
+    <br>
     <br>
     Cette page propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle
 </div>

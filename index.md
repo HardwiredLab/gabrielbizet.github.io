@@ -21,7 +21,7 @@ permalink: /
 /* ===== HERO / INTRO ===== */
 .intro {
   background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
-  padding: 110px 50px; /* PLUS ESPACÉ */
+  padding: 110px 50px;
   border-radius: 18px;
   border: 1px solid #2d2d2d;
   box-shadow: 0 0 32px rgba(200,160,100,0.22);
@@ -30,19 +30,21 @@ permalink: /
 }
 
 .intro h1 {
-  font-size: 3.6rem; /* LÉGÈREMENT PLUS GRAND */
+  font-size: 3.6rem;
   font-weight: 700;
   color: #e8cfa3;
-  margin-bottom: 45px;
+  margin-bottom: 55px; /* ESPACE PLUS GRAND AVANT LE TEXTE */
   letter-spacing: 0.8px;
 }
 
+/* ===== TEXTE D’INTRO (LES 3 LIGNES) ===== */
 .intro p, .intro br {
   color: #e8e8e8;
-  font-size: 2.2rem; /* AUGMENTÉ ++ */
-  line-height: 2.4; /* PLUS AÉRÉ */
+  font-size: 2.4rem; /* PLUS GRAND */
+  line-height: 2.6;  /* PLUS AÉRÉ */
   font-weight: 300;
-  margin-bottom: 20px; /* ESPACEMENT ENTRE LES LIGNES */
+  display: block;
+  margin-bottom: 28px; /* ESPACEMENT ENTRE CHAQUE LIGNE */
 }
 
 /* ===== SECTIONS ===== */
@@ -87,17 +89,12 @@ permalink: /
 /* ===== BANNIÈRE ===== */
 .banner {
   width: 100%;
-  height: 450px; /* RÉDUITE EN HAUTEUR */
+  height: 360px; /* RÉDUITE ENCORE */
   border-radius: 18px;
 
-  /* Affichage propre, non zoomé */
   background-size: contain !important;
   background-repeat: no-repeat !important;
-
-  /* Fond neutre derrière */
   background-color: #111;
-
-  /* Centre ton visage */
   background-position: center top;
 
   margin-bottom: 50px;
@@ -135,11 +132,10 @@ permalink: /
 <div class="intro">
     <h1>Portfolio de compétences</h1>
    
- Bienvenue sur mon portfolio académique<br>
- Je suis sage-femme hospitalier, enseignant, sapeur-pompier volontaire et doctorant au sein de l'ULR2694 METRICS : Evaluation des Technologies de Santé et des Pratiques Médicales<br>
- Cette page propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle
-
- </div>
+    Bienvenue sur mon portfolio académique<br>
+    Je suis sage-femme hospitalier, enseignant, sapeur-pompier volontaire et doctorant au sein de l'ULR2694 METRICS : Evaluation des Technologies de Santé et des Pratiques Médicales<br>
+    Cette page propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle
+</div>
 
 
 
@@ -194,8 +190,8 @@ permalink: /
 Ce site a été réalisé dans le cadre du projet **COMPEDOC** mené par l'Université de Lille
 
 
- <div class="buttons">
+<div class="buttons">
         <a href="https://www.linkedin.com/in/gabriel-bizet-3872aa286/" target="_blank">LinkedIn</a>
         <a href="https://www.researchgate.net/profile/Gabriel-Bizet" target="_blank">ResearchGate</a>
         <a href="https://orcid.org/0000-0001-8758-6056" target="_blank">ORCID</a>
-    </div>
+</div>

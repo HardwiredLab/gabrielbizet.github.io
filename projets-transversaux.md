@@ -60,7 +60,7 @@ Cette section présente quelques projets professionnels complémentaires, articu
   <div class="project-title">Unité de Santé de la Femme (SDIS 59)</div>
 
   <div class="project-context">
-Depuis mai 2025, je suis expert sage-femme au sein de la Sous-direction Santé et de Secours Médical des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles. 
+Depuis mai 2025, je suis expert sage-femme au sein de la Sous-direction Santé et de Secours Médical des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme, qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles. 
 J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit leur issue - et travaille désormais sur l'élaboration de recommandations pour accompagner les femmes sapeurs-pompiers ménopausées ou présentant des douleurs pelviennes chroniques.
   </div>
 
@@ -88,9 +88,9 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   <div class="project-title">Formation Médicale Continue via l'auto‑entreprenariat</div>
 
   <div class="project-context">
-    depuis 2024, je conçois et dispense des formations via l'organisme de formation Medic Formation.  
+    Depuis 2024, je conçois et dispense des formations via l'organisme de formation Medic Formation.  
     Mon activité comprend un programme de 21h dédié à l’analyse physiopathologique du Rythme Cardiaque Fœtal — outil central du clinicien en salle de naissance — que je mets à jour en continu à partir de la littérature scientifique.  
-    Je développe également un module de 14h sur l’accompagnement médical des personnes trans et non‑binaires, fondé sur les recommandations internationales et les données probantes.
+    Je développe actuellement en parallèle un module de 14h sur l’accompagnement médical des personnes trans et non‑binaires, fondé sur les recommandations internationales et les données probantes.
   </div>
 
   <div class="project-item">
@@ -98,7 +98,7 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   </div>
 
   <div class="project-item">
-    <strong>Savoir</strong> — Actualiser en continu mes connaissances à partir de la littérature scientifique et des recommandations professionnelles.
+    <strong>Savoir</strong> — Actualiser en continu mes connaissances à partir de la littérature scientifique et des recommandations professionnelles
   </div>
 
   <div class="project-item">

@@ -134,7 +134,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
 
     <br>Secours à personne, incendie, opérations diverses et secours routiers
     <div class="transition">
-      Envie de me rendre utile dans un engagement concret où l’on apprend à agir vite et en équipe. C’est cet engagement qui a fait naître ma vocation pour le domaine de la santé
+      Envie de me rendre utile dans un engagement concret où l’on apprend à agir vite et en équipe : c’est cet engagement qui a fait naître ma vocation pour le domaine de la santé
     </div>
   </div>
 </div>
@@ -211,7 +211,7 @@ La frise ci‑dessous met en lumière la manière dont chaque formation a contri
   <div class="timeline-dot"></div>
   <div class="timeline-content">
 
-    <div class="timeline-title">Chef d’Équipe de Sapeurs‑Pompier Volontaire</div>
+    <div class="timeline-title">Chef d’Équipe de Sapeur‑Pompier Volontaire</div>
     <div class="skill-tag">Compétence clé : Diriger une équipe en situation opérationnelle</div>
 
     Commandement d'un binôme, lecture du feu, prise de décision sous pression  

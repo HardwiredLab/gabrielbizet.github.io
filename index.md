@@ -6,16 +6,21 @@ permalink: /
 
 <style>
 
-/* ===== ESPACEMENT SOUS LA NAVIGATION ===== */
+/* ===== SUPPRESSION DE LA NAVIGATION SUR LA PAGE D’ACCUEIL ===== */
+.site-header .site-nav {
+  display: none !important;
+}
+
+/* ===== ESPACEMENT SOUS LE HEADER ===== */
 .site-header {
-  padding-bottom: 28px !important;
-  margin-bottom: 45px !important;
+  padding-bottom: 25px !important;
+  margin-bottom: 40px !important;
 }
 
 /* ===== HERO / INTRO ===== */
 .intro {
   background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
-  padding: 100px 40px;
+  padding: 110px 40px;
   border-radius: 18px;
   border: 1px solid #2d2d2d;
   box-shadow: 0 0 32px rgba(200,160,100,0.22);
@@ -24,17 +29,17 @@ permalink: /
 }
 
 .intro h1 {
-  font-size: 3.2rem;
+  font-size: 3.4rem;
   font-weight: 700;
   color: #e8cfa3;
-  margin-bottom: 36px;
-  letter-spacing: 0.7px;
+  margin-bottom: 40px;
+  letter-spacing: 0.8px;
 }
 
 .intro p, .intro br {
   color: #e8e8e8;
-  font-size: 1.55rem; /* encore augmenté */
-  line-height: 2;
+  font-size: 1.75rem; /* TRÈS GRAND */
+  line-height: 2.1;
   font-weight: 300;
 }
 
@@ -80,17 +85,18 @@ permalink: /
 /* ===== BANNIÈRE ===== */
 .banner {
   width: 100%;
-  height: 520px; /* beaucoup plus grande */
+  height: 600px; /* TRÈS LARGE ET HAUTE */
   border-radius: 18px;
 
-  /* Affichage propre */
-  background-size: cover; /* couvre sans déformer */
-  background-position: center 15%; /* remonte ton visage */
-  background-repeat: no-repeat;
+  /* Empêche le zoom */
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
 
-  /* Suppression du bandeau */
-  border: none;
-  box-shadow: none;
+  /* Fond neutre derrière */
+  background-color: #111;
+
+  /* Centre ton visage */
+  background-position: center top;
 
   margin-bottom: 50px;
 }

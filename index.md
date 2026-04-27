@@ -13,35 +13,36 @@ permalink: /
 
 /* ===== HEADER PLUS PETIT ===== */
 .site-header {
-  padding-top: 8px !important;
-  padding-bottom: 10px !important;
-  margin-bottom: 30px !important;
+  padding-top: 6px !important;
+  padding-bottom: 6px !important;
+  margin-bottom: 25px !important;
 }
 
 /* ===== HERO / INTRO ===== */
 .intro {
   background: linear-gradient(135deg, #1b1b1b 0%, #111 100%);
-  padding: 90px 40px;
+  padding: 110px 50px; /* PLUS ESPACÉ */
   border-radius: 18px;
   border: 1px solid #2d2d2d;
   box-shadow: 0 0 32px rgba(200,160,100,0.22);
   text-align: center;
-  margin-bottom: 70px;
+  margin-bottom: 80px;
 }
 
 .intro h1 {
-  font-size: 3.4rem;
+  font-size: 3.6rem; /* LÉGÈREMENT PLUS GRAND */
   font-weight: 700;
   color: #e8cfa3;
-  margin-bottom: 40px;
+  margin-bottom: 45px;
   letter-spacing: 0.8px;
 }
 
 .intro p, .intro br {
   color: #e8e8e8;
-  font-size: 2rem; /* AUGMENTÉ ++ */
-  line-height: 2.2;
+  font-size: 2.2rem; /* AUGMENTÉ ++ */
+  line-height: 2.4; /* PLUS AÉRÉ */
   font-weight: 300;
+  margin-bottom: 20px; /* ESPACEMENT ENTRE LES LIGNES */
 }
 
 /* ===== SECTIONS ===== */
@@ -86,7 +87,7 @@ permalink: /
 /* ===== BANNIÈRE ===== */
 .banner {
   width: 100%;
-  height: 750px; /* BEAUCOUP PLUS HAUTE */
+  height: 450px; /* RÉDUITE EN HAUTEUR */
   border-radius: 18px;
 
   /* Affichage propre, non zoomé */
@@ -135,7 +136,7 @@ permalink: /
     <h1>Portfolio de compétences</h1>
    
  Bienvenue sur mon portfolio académique<br>
- Je suis sage-femme hospitalier, enseignant, sapeur-pompier volontaire et doctorant au sein de l'ULR2694 METRICS : Evaluation des Technologies de Santé et des Pratiques Médicales
+ Je suis sage-femme hospitalier, enseignant, sapeur-pompier volontaire et doctorant au sein de l'ULR2694 METRICS : Evaluation des Technologies de Santé et des Pratiques Médicales<br>
  Cette page propose une vue d’ensemble de mes travaux, de mes engagements et des compétences mobilisées dans le cadre de mon activité professionnelle
 
  </div>

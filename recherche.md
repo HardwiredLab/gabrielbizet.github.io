@@ -4,147 +4,144 @@ layout: default
 permalink: /recherche/
 ---
 
-## Projets en cours
+# Recherche
 
-### Variations glycémiques maternelles et système nerveux autonome fœtal
-### Direction : Dr L. Ghesquière et Dr M. Lemaitre
-**Objectif :** Comprendre comment les variations glycémiques maternelles (hypo- et hyperglycémies) influencent le système nerveux autonome fœtal.  
-**Compétences mobilisées :** 
-- Piloter et coordonner un projet de recherche translationnel - incluant la conception méthodologique, la rédaction de la saisine à destination du comité d'éthique en expérimentation animale et l'encadrement des étudiants en Master 2 impliqués dans le projet.
-- Recueil et traitement de signaux biomédicaux (logiciels PhysioTrace, VitalRecorder et Physiotika)
-- Développer une démarche critique continue pour ajuster en temps réel les procédures et garantir l'intégrité et la qualité scientifique du protocole.
+Dès mes premières années d’études, j’ai ressenti le besoin de comprendre ce que je faisais, d’en saisir le sens et les mécanismes.
+Cette exigence m’a naturellement conduit vers la recherche, qui est rapidement devenue un appui indispensable pour éclairer ma pratique clinique.
+Au fil de mes formations et de mes collaborations, je me suis progressivement impliqué dans différents projets de recherche clinique, jusqu’à structurer aujourd’hui trois grands axes de travail qui accompagnent l’ensemble de mon parcours :
 
 ---
 
-### Diagnostic de l’Intervillite Histiocytaire Chronique 
-### Direction : Pr D. Subtil
-**Objectif :** Définir la valeur diagnostique et pronostique d’un dosage de phosphatases alcalines dans l’intervillite histiocytaire chronique.  
-**Compétences mobilisées :** 
-- Co‑construire et déployer des études cliniques en collaboration avec les équipes biologiques et obstétricales.
-- Clarifier, structurer et rendre accessibles des données complexes pour étayer une pathologie rare et peu documentée.
-- Réviser les analyses et les manuscrits en intégrant les retours des reviewers et experts externes.
-  
----
+# Axe 1 — Intervillite Histiocytaire Chronique
 
-### Antibioprophylaxie per-partum du Streptocoque du Groupe B 
-### Direction : Pr D. Subtil et Dr C. Duployez
-**Objectif :** Déterminer l’utilité du recours à un antibiogramme systématique en cas de portage maternel de Streptocoque du Groupe B chez les patientes allergiques aux bêta‑lactamines.  
-**Compétences mobilisées :** 
-- Anticiper les contraintes méthodologiques pour renforcer la validité de l’étude d’un événement clinique rare.
-- Mettre en œuvre un recueil standardisé des données issues des dossiers obstétricaux.
-- Fédérer et mobiliser les équipes cliniques et biologiques grâce à des communications orales dédiées, en explicitant les enjeux liés à l’allergie maternelle et à la réalisation d’un antibiogramme pour prévenir les infections néonatales.
+<div class="research-block">
+  <div class="research-title">Intervillite Histiocytaire Chronique</div>
 
----
+  <div class="research-item">
+    <strong>Compétence clé</strong> — Conduire et structurer des études cliniques portant sur des pathologies rares.
+  </div>
 
-## Participation aux projets de recherche
+  <div class="research-item">
+    <strong>Savoir</strong> — Maîtriser les données biologiques, histologiques et cliniques nécessaires à l’étude de l’intervillite histiocytaire chronique.
+  </div>
 
-### Anévrysme de l’artère splénique pendant la grossesse (Thèse Dr Elise Deroubaix)
-**Objectif :** Décrire les conditions de rupture d'anévrysme de l'artère splénique et identifier les facteurs associés à la survie maternelle.  
-**Compétences mobilisées :** 
-- Contribuer à la relecture méthodologique et à la discussion scientifique de l’article
-- Préparer et soumettre le manuscrit auprès de la revue
+  <div class="research-item">
+    <strong>Savoir‑faire</strong> — Organiser, analyser et rendre accessibles des données complexes pour améliorer la compréhension d’une pathologie peu documentée.
+  </div>
+
+  <div class="research-item">
+    <strong>Savoir‑être</strong> — Rigueur scientifique et capacité à collaborer avec des équipes pluridisciplinaires.
+  </div>
+</div>
 
 ---
 
-### Dysjonctions symphysaires dans le post-partum (Thèse Dr Sacha Masquelier)
-**Objectif :** Décrire les circonstances de survenue et les facteurs de risque de la dysjonction symphysaire.  
-**Compétences mobilisées :** 
-- Concevoir et optimiser des figures issues d’imageries (scans, radios) pour renforcer la lisibilité scientifique du manuscrit
-- Créer du lien entre analyses statistiques et implications cliniques
+# Axe 2 — Streptocoque du Groupe B
+
+<div class="research-block">
+  <div class="research-title">Antibioprophylaxie per-partum du Streptocoque du Groupe B</div>
+
+  <div class="research-item">
+    <strong>Compétence clé</strong> — Évaluer et optimiser les stratégies de prévention des infections néonatales.
+  </div>
+
+  <div class="research-item">
+    <strong>Savoir</strong> — Comprendre les enjeux microbiologiques, allergologiques et obstétricaux liés au Streptocoque du Groupe B.
+  </div>
+
+  <div class="research-item">
+    <strong>Savoir‑faire</strong> — Concevoir des études cliniques robustes sur des événements rares et assurer un recueil standardisé des données.
+  </div>
+
+  <div class="research-item">
+    <strong>Savoir‑être</strong> — Sens pédagogique et capacité à fédérer les équipes autour d’un enjeu clinique transversal.
+  </div>
+</div>
 
 ---
 
-### Macrosomie et courbes de poids fœtales (Thèse Dr Madleen Lemaitre)
-**Objectif :** Apprécier l’intérêt du z‑score et du birth weight ratio (BWRatio) pour préciser le niveau de risque associé à la macrosomie dans le Diabète de Type 1.  
-**Compétences mobilisées :** 
-- Modéliser des courbes ROC et estimer les performances prédictives des paramètres étudiés
-- Faciliter l'analyse comparative des données recueillies
+# Axe 3 — Variations glycémiques maternelles et système nerveux autonome fœtal
+
+<div class="research-block">
+  <div class="research-title">Variations glycémiques maternelles et système nerveux autonome fœtal</div>
+
+  <div class="research-item">
+    <strong>Compétence clé</strong> — Piloter un projet translationnel mêlant physiologie, expérimentation et analyse de signaux biomédicaux
+  </div>
+
+  <div class="research-item">
+    <strong>Savoir</strong> — Connaître la physiologie fœtale, la régulation autonome et les principes d’analyse des signaux biomédicaux
+  </div>
+
+  <div class="research-item">
+    <strong>Savoir‑faire</strong> — Concevoir un protocole expérimental, assurer le recueil et le traitement des signaux (PhysioTrace, VitalRecorder, Physiotika)
+  </div>
+
+  <div class="research-item">
+    <strong>Savoir‑être</strong> — Adaptabilité, gestion de l’imprévu expérimental et exigence méthodologique
+  </div>
+</div>
 
 ---
 
-## Mémoires
+# Publications
 
-- **Induction d'une hypoglycémie chez la brebis gestante : preuve de concept**
-  Mémoire pour l'obtention du Master Biologie Santé, 2025.
-  
-- **Place de l'antibiogramme du Streptocoque du Groupe B maternel dans la prévention des INBP**  
-  Mémoire pour l'obtention du D.E. de Sage-Femme, 2024.  
-
-- **Définir le concept de grossesse pathologique : une approche par la philosophie expérimentale**  
-  Mémoire pour l'obtention du M1 Biologie Santé, 2023.  
-
-- **Place des phosphatases alcalines dans le diagnostic de l’IHC**  
-  Mémoire pour l'obtention du M1 Biologie Santé, 2022.
-  
----
-
-## Publications
+### 2026
+- **Lemonnier et al.**
+  *Intrapartum group B streptococcus antibiotic prophylaxis in beta-lactams allergic women and risk of neonatal infection*  
+  *European Journal of Obstetrics and Gynecology and Reproductive Biology*
 
 ### 2025
-- **Placental placement on the lower uterine segment without praevia: A postpartum hemorrhage risk?**  
-  *International Journal of Gynecology & Obstetrics*, 2025.  
-  DOI : 10.1002/ijgo.70680  
+- **Bizet et al.**  
+  *Placental placement on the lower uterine segment without praevia: A postpartum hemorrhage risk?*  
+  *International Journal of Gynecology and Obstetrics*
 
-- **Retentissement fœtal d’une hypoglycémie maternelle chez la brebis gestante : preuve de concept**  
-  *Gynécologie Obstétrique Fertilité & Sénologie*, 2025.  
-  DOI : 10.1016/j.gofs.2025.09.085  
+- **Bizet et al.** 
+  *Retentissement fœtal d’une hypoglycémie maternelle chez la brebis gestante : preuve de concept*  
+  *Gynécologie Obstétrique Fertilité et Sénologie*
+
+- **Mawa et al.**
+  *Characteristics of women presenting with chronic histiocytic intervillositis during pregnancy: A case-control study*  
+  *Journal of Gynecology Obstetrics and Human Reproduction*
 
 ### 2024
-- **Caracteristics of women presenting with chronic histiocytic intervillositis during pregnancy**  
-  *Journal of Gynecology Obstetrics and Human Reproduction*, 2024–2025.  
-  DOI : 10.1016/j.jogoh.2024.102882  
-
-- **Modalités d’accompagnement actuelles des transidentités : une perspective médicale**  
-  *Sages-Femmes*, 2024.  
-  DOI : 10.1016/j.sagf.2024.01.005  
+- **Bizet et al.**
+  *Modalités d’accompagnement actuelles des transidentités : une perspective médicale*  
+  *Sages-Femmes*
 
 ### 2023
-- **En cas d'allergie aux béta-lactamines chez les femmes enceintes colonisées à Streptococcus agalactiae, tenir compte de l'antibiogramme à l'accouchement pourrait diminuer le risque d'infection néonatale**  
-  *Médecine et Maladies Infectieuses Formation*, 2023.  
-  DOI : 10.1016/j.mmifmc.2023.11.001  
+- **Lemonnier et al.**
+  *En cas d’allergie aux bêta-lactamines chez les femmes enceintes colonisées à Streptococcus agalactiae, tenir compte de l’antibiogramme à l’accouchement pourrait diminuer le risque d’infection néonatale*  
+  *Médecine et Maladies Infectieuses Formation*
 
 ### 2022
-- **Total alkaline phosphatase levels by gestational age in a large sample of pregnant women**  
-  *Placenta*, 2022–2023.  
-  DOI : 10.1016/j.placenta.2022.12.005  
+- **Titaux et al.**
+  *Total alkaline phosphatase levels by gestational age in a large sample of pregnant women*  
+  *Placenta*
 
 ---
 
-## Communications
-
-### Communications orales
+# Communications
 
 ### 2026
-- **Assises Nationales des Sages-Femmes 2026**, La Rochelle  
-  *Ateliers « Analyse physiopathologique du RCF »* — 05/2026  
+- **Journées Nationales de la Société Francophone du Diabète**, Lyon  
+  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*  
+  *Intérêt de la mesure continue du glucose en recherche expérimentale : exemple du modèle ovin*
 
 ### 2025
-- **Assises Nationales des Sages-Femmes 2025**, Montpellier  
-  *Ateliers « Analyse physiopathologique du RCF »* — 05/2025  
-
-- **Journées Sages-Femmes 2025**, Paris  
-  *Place de l’antibiogramme du SGB dans la prévention des INBP* — 03/2025  
-
-- **Pari(s) Santé Femmes 2025**, Paris
-  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept* — 12/2025  
-
-- **Société Française de Médecine Périnatale 2025**, Rennes
-  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept* — 10/2025  
+- **Assises Nationales des Sages-Femmes**, Montpellier  
+  *Ateliers : Analyse physiopathologique du rythme cardiaque fœtal*  
+- **Journées Sages-Femmes**, Paris  
+  *Place de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales*  
+- **Pari(s) Santé Femmes**, Paris  
+  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*  
+- **Société Française de Médecine Périnatale**, Rennes  
+  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*
 
 ### 2024
-- **Groupement Régional du CNGOF 2024**, Lille
-  *Intérêt de l’antibiogramme du SGB dans la prévention des INBP* — 05/2024  
+- **Groupement Régional du Collège National des Gynécologues et Obstétriciens Français**, Lille  
+  *Intérêt de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales bactériennes précoces*
 
 ### 2023
-- **Journées Sages-Femmes 2023**, Paris  
-  *Place des phosphatases alcalines dans le diagnostic de l’IHC* — 03/2023  
-
-
-## Communications affichées
-
-### 2026
-- **Journées Nationales de la Société Francophone du Diabète**, Lyon  
-  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept* — 03/2026  
-
-- **Journées Nationales de la Société Francophone du Diabète**, Lyon  
-  *Intérêt de la mesure continue du glucose en recherche expérimentale : exemple du modèle ovin* — 03/2026  
+- **Journées Sages-Femmes**, Paris  
+  *Place des phosphatases alcalines dans le diagnostic de l’intervillite histiocytaire chronique*

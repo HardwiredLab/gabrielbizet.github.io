@@ -20,8 +20,13 @@ Mon parcours s’est structuré autour d’un besoin constant de comprendre, d�
 Ces influences se combinent avec trois repères complémentaires qui structurent l’ensemble de mon parcours :
 
 **Savoir** — Acquérir des connaissances méthodologiques solides dans mes différents domaines d’expertise  
+<br>
+
 **Savoir‑faire** — Mettre en œuvre ces connaissances dans des actions concrètes : analyser, décider, expérimenter, transmettre  
+<br>
+
 **Savoir‑être** — Cultiver l’utilité, l’adaptabilité et l’engagement au service des autres
+
 
 La frise ci‑dessous montre comment chaque formation s’inscrit dans cette dynamique, en explicitant la compétence clé acquise, les apprentissages associés et la logique qui m’a conduit à la suivre. Chaque carte met en évidence la cohérence globale du parcours et la manière dont chaque étape a contribué à façonner le professionnel de santé que je suis.
 

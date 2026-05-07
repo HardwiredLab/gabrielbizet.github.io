@@ -12,10 +12,10 @@ Cette section retrace la construction progressive de mes compétences cliniques,
 Mon parcours est porté par une curiosité naturelle et par un besoin constant de rigueur et d’utilité.
 
 Mon parcours s’est structuré autour d’un besoin constant de comprendre, d’analyser et de donner du sens à ma pratique, porté par une curiosité naturelle et une exigence de rigueur. Il a notamment été porté par :
-- **Un ancrage dans le soin** — Mon activité de sage‑femme hospitalier et mon engagement comme sapeur‑pompier volontaire ont développé une compréhension fine du terrain, de l’urgence, de la responsabilité clinique et du travail interprofessionnel.
+- **Un ancrage dans le soin** — Mon activité de sage‑femme hospitalier et mon engagement comme sapeur‑pompier volontaire ont développé une compréhension fine du terrain, de l’urgence, de la responsabilité et du travail interprofessionnel.
 - **Une ouverture linguistique structurante** — Les formations en langues ont élargi mes horizons académiques, facilité l’accès à la littérature scientifique internationale et renforcé ma capacité à collaborer dans des environnements pluriculturels.
-- **Une progression scientifique et méthodologique continue** — La recherche s’est imposée comme un outil essentiel pour éclairer ma pratique. Elle m’a conduit vers des projets cliniques variés et vers une spécialisation progressive en méthodologie, biostatistiques et analyse critique.
-- **Une sensibilité croissante aux enjeux d’innovation et d’intelligence artificielle** — L’intelligence artificielle en santé est devenue incontournable pour analyser, structurer et interpréter les données. Mes formations dédiées m’ont permis d’intégrer ces outils dans ma pratique et d’en faire un levier d’amélioration des soins et de compréhension des phénomènes cliniques.
+- **Une progression scientifique et méthodologique continue** — La recherche s’est imposée comme un outil essentiel pour éclairer ma pratique et m’a conduit vers des projets cliniques variés.
+- **Une sensibilité croissante aux enjeux d’innovation et d’intelligence artificielle** — L’intelligence artificielle, lorsqu'elle est utilisée à bon escient, est devenue incontournable pour exploiter les données cliniques et expérimentales. Mes formations m’ont permis d’en maîtriser les usages concrets : extraction et structuration de données, analyse de signaux biomédicaux et appui à la modélisation dans mes travaux de recherche.
 
 Ces influences se combinent avec trois repères complémentaires qui structurent l’ensemble de mon parcours :
 **Savoir** — Acquérir des connaissances méthodologiques solides dans mes différents domaines d’expertise  

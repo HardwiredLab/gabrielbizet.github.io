@@ -74,6 +74,8 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
   <h2>1. Amener une cohérence hospitalo‑universitaire</h2>
 
   <p>Articuler plus étroitement mes activités de terrain, mes enseignements et mes travaux de recherche</p>
+<br>
+<br>
 
   <p><strong>Actions envisagées :</strong></p>
   <ul>
@@ -90,6 +92,8 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
   <h2>2. Développer mon réseau professionnel</h2>
 
   <p>Renforcer les liens avec les équipes hospitalières, universitaires et de recherche afin de soutenir des projets transversaux</p>
+<br>
+<br>
 
   <p><strong>Actions envisagées :</strong></p>
   <ul>
@@ -105,7 +109,10 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
   <h2>Projet professionnel</h2>
 
   <p>Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement 
+    
   Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain</p>
+
+<br>
 
   <h3 style="color:#e8cfa3; margin-top:30px;">Court terme</h3>
   <ul>
@@ -114,11 +121,15 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
     <li>Développer mes compétences pédagogiques (simulation, ingénierie)</li>
   </ul>
 
+<br>
+
   <h3 style="color:#e8cfa3; margin-top:30px;">Moyen terme</h3>
   <ul>
     <li>Porter ou co‑porter un projet de recherche clinique ou translationnelle</li>
     <li>Ouvrir mes activités à l’international (réseaux, congrès, collaborations thématiques)</li>
   </ul>
+
+<br>
 
   <h3 style="color:#e8cfa3; margin-top:30px;">Long terme</h3>
   <ul>
@@ -135,7 +146,6 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 <!-- ===== BLOC 4 ===== -->
 <div class="plan-block">
   <h2>Lignes directrices</h2>
-
   <ul>
     <li>Travailler dans des environnements où la clinique nourrit la recherche</li>
     <li>Développer des outils utiles aux équipes de terrain</li>

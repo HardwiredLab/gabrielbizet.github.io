@@ -118,8 +118,8 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   <div class="project-context">
     Je contribue à la production et à la relecture de recommandations nationales en apportant une expertise clinique et méthodologique au sein de groupes de travail pluridisciplinaires
     <br>
-    > 2026 : Groupe de travail recommandations HAS « Suspicion d’allergie aux antibiotiques »  
-    > 2026 : Groupe de relecture recommandations CNGOF « Diabète gestationnel »  
+    > 2026 : Groupe de travail recommandations HAS « Suspicion d’allergie aux antibiotiques »      <br>
+    > 2026 : Groupe de relecture recommandations CNGOF « Diabète gestationnel »      <br>
   </div>
 
   <div class="project-item">

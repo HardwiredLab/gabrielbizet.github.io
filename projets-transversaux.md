@@ -61,7 +61,7 @@ Cette section présente quelques projets professionnels complémentaires, articu
 
   <div class="project-context">
 Depuis mai 2025, je suis expert sage-femme au sein de la Sous-direction Santé et de Secours Médical des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme, qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles. 
-J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit leur issue - et travaille désormais sur l'élaboration de recommandations pour accompagner les femmes sapeurs-pompiers ménopausées ou présentant des douleurs pelviennes chroniques.
+J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit leur issue - et travaille désormais sur l'élaboration de recommandations pour accompagner les femmes sapeurs-pompiers dans le cadre de leur (pré)ménopause ainsi que lorsqu'elles présentent des douleurs pelviennes chroniques.
   </div>
 
   <div class="project-item">
@@ -117,6 +117,7 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
 
   <div class="project-context">
     Je contribue à la production et à la relecture de recommandations nationales en apportant une expertise clinique et méthodologique au sein de groupes de travail pluridisciplinaires
+    <br>
     > 2026 : Groupe de travail recommandations HAS « Suspicion d’allergie aux antibiotiques »  
     > 2026 : Groupe de relecture recommandations CNGOF « Diabète gestationnel »  
   </div>

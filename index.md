@@ -146,7 +146,7 @@ permalink: /
 
 <div class="section">
 <h3>👤 À propos</h3>
-<p>Quelques repères sur mon identité professionnelle et mon projet de carrière</p>
+<p>Quelques repères sur mon identité professionnelle</p>
 <a href="{{ "/about/" | relative_url }}">Voir →</a>
 </div>
 

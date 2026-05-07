@@ -7,11 +7,11 @@ permalink: /recherche/
 <h1>Recherche</h1>
 
 <div style="margin-bottom:1.2rem;">
-Dès mes premières années d’études, j’ai ressenti le besoin de comprendre ce que je faisais, d’en saisir le sens et les mécanismes.
+Dès mes premières années d’études, j’ai ressenti le besoin de comprendre ce que je faisais, d’en saisir le sens et les mécanismes
 </div>
 
 <div style="margin-bottom:1.2rem;">
-Cette exigence m’a naturellement conduit vers la recherche, qui est rapidement devenue un appui indispensable pour éclairer ma pratique clinique.
+Cette exigence m’a naturellement conduit vers la recherche, qui est rapidement devenue un appui indispensable pour éclairer ma pratique clinique
 </div>
 
 <div style="margin-bottom:2rem;">
@@ -56,10 +56,18 @@ Au fil de mes formations et de mes collaborations, je me suis progressivement im
   font-weight: 700;
 }
 
-/* Espacement spécifique pour les communications USF */
+/* ===== COMMUNICATIONS ===== */
+.comm-item {
+  margin-bottom: 18px;
+  line-height: 1.55;
+}
+
 .usf-block {
-  margin-top: 14px;
-  margin-bottom: 22px;
+  margin-top: 22px;
+  margin-bottom: 26px;
+  padding: 10px 0;
+  border-left: 3px solid rgba(200,160,100,0.35);
+  padding-left: 12px;
 }
 
 </style>
@@ -233,39 +241,55 @@ Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variat
 
 ### 2026
 
-<div class="usf-block">
+<div class="usf-block comm-item">
 - **Secours Santé**, Lons-le-Saunier  
   *Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle*
 </div>
 
+<div class="comm-item">
 - **Assises Nationales des Sages-Femmes**, Montpellier  
   *Ateliers : Analyse physiopathologique du rythme cardiaque fœtal*
+</div>
 
+<div class="comm-item">
 - **Journées Nationales de la Société Francophone du Diabète**, Lyon  
   *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*  
   *Intérêt de la mesure continue du glucose en recherche expérimentale : exemple du modèle ovin*
+</div>
 
 ### 2025
 
-<div class="usf-block">
+<div class="usf-block comm-item">
 - **Pari(s) Santé Femmes**, Paris  
   *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*  
   *Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle*
 </div>
 
+<div class="comm-item">
 - **Assises Nationales des Sages-Femmes**, Montpellier  
   *Ateliers : Analyse physiopathologique du rythme cardiaque fœtal*
+</div>
 
+<div class="comm-item">
 - **Journées Sages-Femmes**, Paris  
   *Place de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales*
+</div>
 
+<div class="comm-item">
 - **Société Française de Médecine Périnatale**, Rennes  
   *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*
+</div>
 
 ### 2024
+
+<div class="comm-item">
 - **Groupement Régional du Collège National des Gynécologues et Obstétriciens Français**, Lille  
   *Intérêt de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales bactériennes précoces*
+</div>
 
 ### 2023
+
+<div class="comm-item">
 - **Journées Sages-Femmes**, Paris  
   *Place des phosphatases alcalines dans le diagnostic de l’intervillite histiocytaire chronique*
+</div>

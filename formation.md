@@ -18,14 +18,10 @@ Mon parcours s’est structuré autour d’un besoin constant de comprendre, d�
 - **Une sensibilité croissante aux enjeux d’innovation et d’intelligence artificielle** — L’intelligence artificielle, lorsqu'elle est utilisée à bon escient, est devenue incontournable pour exploiter les données cliniques et expérimentales. Mes formations m’ont permis d’en maîtriser les usages concrets : extraction et structuration de données, analyse de signaux biomédicaux et appui à la modélisation dans mes travaux de recherche.
 
 Ces influences se combinent avec trois repères complémentaires qui structurent l’ensemble de mon parcours :
+<span style="display:block;"><strong>Savoir</strong><br>— Acquérir des connaissances méthodologiques solides dans mes différents domaines d’expertise</span>
+<span style="display:block; margin-top:0.4rem;"><strong>Savoir‑faire</strong><br>— Mettre en œuvre ces connaissances dans des actions concrètes : analyser, décider, expérimenter, transmettre</span>
+<span style="display:block; margin-top:0.4rem;"><strong>Savoir‑être</strong><br>— Cultiver l’utilité, l’adaptabilité et l’engagement au service des autres</span>
 
-**Savoir** — Acquérir des connaissances méthodologiques solides dans mes différents domaines d’expertise  
-<br>
-
-**Savoir‑faire** — Mettre en œuvre ces connaissances dans des actions concrètes : analyser, décider, expérimenter, transmettre  
-<br>
-
-**Savoir‑être** — Cultiver l’utilité, l’adaptabilité et l’engagement au service des autres
 
 
 La frise ci‑dessous montre comment chaque formation s’inscrit dans cette dynamique, en explicitant la compétence clé acquise, les apprentissages associés et la logique qui m’a conduit à la suivre. Chaque carte met en évidence la cohérence globale du parcours et la manière dont chaque étape a contribué à façonner le professionnel de santé que je suis.

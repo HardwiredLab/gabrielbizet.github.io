@@ -23,14 +23,17 @@ Cette section présente quelques projets professionnels complémentaires, articu
   margin-bottom: 55px;
 }
 
+/* ===== TITRE DU PROJET ===== */
 .project-title {
   font-size: 1.6rem;
   font-weight: 700;
   color: #e8cfa3;
   margin-bottom: 22px;
   letter-spacing: 0.4px;
+  text-align: center;
 }
 
+/* ===== CONTEXTE ===== */
 .project-context {
   color: #e8e8e8;
   margin-bottom: 22px;
@@ -38,18 +41,30 @@ Cette section présente quelques projets professionnels complémentaires, articu
   font-style: italic;
 }
 
+/* ===== ÉTIQUETTES (Compétence clé, Savoir...) ===== */
 .project-item {
-  margin-bottom: 18px;
-  padding: 14px 18px;
-  background: rgba(200,160,100,0.10);
-  border-left: 4px solid #e8cfa3;
-  border-radius: 6px;
+  margin-bottom: 22px;
+  padding: 18px 22px;
+  background: rgba(200,160,100,0.08);
+  border-radius: 10px;
   color: #e8e8e8;
-  line-height: 1.6;
+  line-height: 1.65;
+  text-align: center;
+  border: 1px solid rgba(200,160,100,0.22);
+  box-shadow: 0 0 12px rgba(200,160,100,0.12);
 }
 
+/* ===== TITRE DE L'ÉTIQUETTE ===== */
 .project-item strong {
+  display: inline-block;
+  margin-bottom: 6px;
+  padding: 4px 12px;
+  background: rgba(200,160,100,0.18);
+  border-radius: 6px;
   color: #e8cfa3;
+  font-size: 1.05rem;
+  letter-spacing: 0.3px;
+  font-weight: 700;
 }
 
 </style>
@@ -60,25 +75,28 @@ Cette section présente quelques projets professionnels complémentaires, articu
   <div class="project-title">Unité de Santé de la Femme (SDIS 59)</div>
 
   <div class="project-context">
-Depuis mai 2025, je suis expert sage-femme au sein de la Sous-direction Santé et de Secours Médical des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme, qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles. 
-J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit leur issue - et travaille désormais sur l'élaboration de recommandations pour accompagner les femmes sapeurs-pompiers dans le cadre de leur (pré)ménopause ainsi que lorsqu'elles présentent des douleurs pelviennes chroniques.
+Depuis mai 2025, je suis expert sage-femme au sein de la Sous-direction Santé et de Secours Médical des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme, qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles.  
+J'ai déployé un dispositif d'accompagnement des grossesses — quelle que soit leur issue — et travaille désormais sur l'élaboration de recommandations pour accompagner les femmes sapeurs-pompiers dans le cadre de leur (pré)ménopause ainsi que lorsqu'elles présentent des douleurs pelviennes chroniques.
   </div>
 
   <div class="project-item">
-    <strong>Compétence clé</strong> — Élaboration de parcours individualisés permettant le maintien ou le retour à l’activité opérationnelle des femmes sapeurs-pompiers
+    <strong>Compétence clé</strong><br>
+    Élaboration de parcours individualisés permettant le maintien ou le retour à l’activité opérationnelle des femmes sapeurs-pompiers
   </div>
 
   <div class="project-item">
-    <strong>Savoir</strong> — Connaître l'exposition professionnelle au métier de sapeur-pompier
+    <strong>Savoir</strong><br>
+    Connaître l'exposition professionnelle au métier de sapeur-pompier
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑faire</strong> —  
+    <strong>Savoir‑faire</strong><br>
     Analyse des risques opérationnels en fonction de la situation clinique
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑être</strong> — Écoute active, adaptation aux contraintes opérationnelles et communication interprofessionnelle
+    <strong>Savoir‑être</strong><br>
+    Écoute active, adaptation aux contraintes opérationnelles et communication interprofessionnelle
   </div>
 </div>
 
@@ -94,47 +112,55 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   </div>
 
   <div class="project-item">
-    <strong>Compétence clé</strong> — Concevoir et dispenser des formations spécialisées en périnatalité fondées sur la littérature scientifique
+    <strong>Compétence clé</strong><br>
+    Concevoir et dispenser des formations spécialisées en périnatalité fondées sur la littérature scientifique
   </div>
 
   <div class="project-item">
-    <strong>Savoir</strong> — Actualiser en continu mes connaissances à partir de la littérature scientifique et des recommandations professionnelles
+    <strong>Savoir</strong><br>
+    Actualiser en continu mes connaissances à partir de la littérature scientifique et des recommandations professionnelles
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑faire</strong> — Transformer les données probantes en outils pédagogiques concrets et immédiatement mobilisables par les praticiens (tracés commentés, dossiers cliniques, mises en situation)
+    <strong>Savoir‑faire</strong><br>
+    Transformer les données probantes en outils pédagogiques concrets et immédiatement mobilisables par les praticiens (tracés commentés, dossiers cliniques, mises en situation)
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑être</strong> — Adopter une posture andragogique rigoureuse, inclusive et adaptée aux besoins des professionnels hospitaliers et libéraux
+    <strong>Savoir‑être</strong><br>
+    Adopter une posture andragogique rigoureuse, inclusive et adaptée aux besoins des professionnels hospitaliers et libéraux
   </div>
 </div>
 
 ---
 
 <div class="project-block">
-  <div class="project-title">Participation à l'élaboration de recommandations pour la pratique clinique des sociétés savantes</div>
+  <div class="project-title">Participation aux recommandations des sociétés savantes</div>
 
   <div class="project-context">
     Je contribue à la production et à la relecture de recommandations nationales en apportant une expertise clinique et méthodologique au sein de groupes de travail pluridisciplinaires
-    <br>
-    > 2026 : Groupe de travail recommandations HAS « Suspicion d’allergie aux antibiotiques »      <br>
-    > 2026 : Groupe de relecture recommandations CNGOF « Diabète gestationnel »      <br>
+    <br><br>
+    > 2026 : Groupe de travail recommandations HAS « Suspicion d’allergie aux antibiotiques »  
+    > 2026 : Groupe de relecture recommandations CNGOF « Diabète gestationnel »
   </div>
 
   <div class="project-item">
-    <strong>Compétence clé</strong> — Participer à la construction et à la validation de recommandations nationales fondées sur les données probantes
+    <strong>Compétence clé</strong><br>
+    Participer à la construction et à la validation de recommandations nationales fondées sur les données probantes
   </div>
 
   <div class="project-item">
-    <strong>Savoir</strong> — Mobiliser la méthodologie des recommandations (analyse critique, niveaux de preuve, hiérarchisation des données) pour garantir la robustesse scientifique des textes
+    <strong>Savoir</strong><br>
+    Mobiliser la méthodologie des recommandations (analyse critique, niveaux de preuve, hiérarchisation des données)
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑faire</strong> — Analyser, structurer et reformuler des contenus complexes afin d’assurer la cohérence interne, la validité scientifique et l’opérationnalité clinique des recommandations
+    <strong>Savoir‑faire</strong><br>
+    Analyser, structurer et reformuler des contenus complexes pour garantir la cohérence interne, la validité scientifique et l’opérationnalité clinique
   </div>
 
   <div class="project-item">
-    <strong>Savoir‑être</strong> — Travailler avec rigueur et sens du consensus au sein d’équipes pluridisciplinaires, en adoptant une communication claire et constructive
+    <strong>Savoir‑être</strong><br>
+    Travailler avec rigueur et sens du consensus au sein d’équipes pluridisciplinaires
   </div>
 </div>

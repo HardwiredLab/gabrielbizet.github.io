@@ -18,6 +18,7 @@ Mon parcours s’est structuré autour d’un besoin constant de comprendre, d�
 - **Une sensibilité croissante aux enjeux d’innovation et d’intelligence artificielle** — L’intelligence artificielle, lorsqu'elle est utilisée à bon escient, est devenue incontournable pour exploiter les données cliniques et expérimentales. Mes formations m’ont permis d’en maîtriser les usages concrets : extraction et structuration de données, analyse de signaux biomédicaux et appui à la modélisation dans mes travaux de recherche.
 
 Ces influences se combinent avec trois repères complémentaires qui structurent l’ensemble de mon parcours :
+
 **Savoir** — Acquérir des connaissances méthodologiques solides dans mes différents domaines d’expertise  
 **Savoir‑faire** — Mettre en œuvre ces connaissances dans des actions concrètes : analyser, décider, expérimenter, transmettre  
 **Savoir‑être** — Cultiver l’utilité, l’adaptabilité et l’engagement au service des autres
@@ -206,7 +207,7 @@ La frise ci‑dessous montre comment chaque formation s’inscrit dans cette dyn
     <div class="timeline-title">M1 Biologie Santé - Formation de la Pensée Médicale : concepts et histoire</div>
     <div class="skill-tag">Compétence clé : Interroger les concepts médicaux</div>
 
-    <br>Analyse de textes anciens (grec et latin ancien), introduction à l’épistémologie, réflexion sur les erreurs de raisonnement
+    <br>Analyse de textes anciens (grec ancien et latin), introduction à l’épistémologie, réflexion sur les erreurs de raisonnement
     <div class="transition">
       Envie de comprendre les fondements conceptuels de la médecine, d’élargir ma vision du soin et de découvrir un pan plus qualitatif de la recherche
     </div>

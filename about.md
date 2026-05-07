@@ -15,8 +15,6 @@ Cette démarche articule deux cadres complémentaires :
 
 Ma pratique clinique s’appuie sur une posture analytique, collaborative et orientée vers l’amélioration continue des soins. Sur le plan académique, j’accorde une importance particulière à la lisibilité des concepts, à la méthodologie et à l'interdisciplinarité.
 
-Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement. Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain. Cette articulation entre pratique, recherche et enseignement constitue le fil conducteur de mon parcours et de mes engagements à venir.
-
 Ce portfolio s’inscrit dans le dispositif **COMPEDOC** (Université de Lille). 
 
 Il retrace, sous forme de frises chronologiques et de compétences structurées, la manière dont mes activités cliniques, pédagogiques, scientifiques et transversales se sont construites et enrichies mutuellement.

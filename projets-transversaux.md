@@ -85,7 +85,7 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
 ---
 
 <div class="project-block">
-  <div class="project-title">Formation Médicale Continue via l'auto‑entreprenariat</div>
+  <div class="project-title">Prestataire de formation (Medic Formation)</div>
 
   <div class="project-context">
     Depuis 2024, je conçois et dispense des formations via l'organisme de formation Medic Formation.  

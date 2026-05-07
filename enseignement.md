@@ -8,11 +8,11 @@ permalink: /enseignement/
 
 ## Présentation générale
 
-Depuis janvier 2025, je suis Enseignant en Maïeutique au sein de la Faculté de Médecine, Maïeutique et Sciences de la Santé (Université Catholique de Lille), où j’assume la responsabilité d'une promotion d’étudiant·e·s sages-femmes.  
+Depuis janvier 2025, je suis Enseignant en Maïeutique au sein de la Faculté de Médecine, Maïeutique et Sciences de la Santé (Université Catholique de Lille), où j’assume la responsabilité d'une promotion d’étudiant·e·s sages-femmes
 
-Ce qui me motive dans l’enseignement, c’est de former des cliniciens capables de décider, d’actualiser leurs connaissances et de remettre leur pratique en question.  
+Ce qui me motive dans l’enseignement, c’est de former des cliniciens capables de décider, d’actualiser leurs connaissances et de remettre leur pratique en question
 
-C’est aussi une manière de rester à jour, de me stimuler intellectuellement et de faire évoluer ma propre pratique.
+C’est aussi une manière de rester à jour, de me stimuler intellectuellement et de faire évoluer ma propre pratique
 
 ---
 
@@ -81,88 +81,132 @@ h3 {
   color: #e8cfa3;
 }
 
+/* ===== ITEMS SAVOIRS ===== */
+.savoir-item {
+  margin-bottom: 10px;
+}
+
 </style>
 
 ---
 
-# 🎓 Pour les étudiants  
+# Pour les étudiants  
 ### **Compétence centrale : Transférer un savoir théorique en compétence clinique**
 
 <div class="savoirs-block">
-<strong>Savoir</strong> — Connaître les bases du raisonnement clinique, de la méthodologie et les principes de simulation  
-<strong>Savoir‑faire</strong> — Concevoir des situations d’apprentissage qui amènent les étudiants à appliquer un concept, analyser une situation et justifier une décision  
-<strong>Savoir‑être</strong> — Soutenir l’apprentissage en rendant le parcours clair et structuré pour les étudiants
+
+  <div class="savoir-item">
+    <strong>Savoir</strong><br>
+    Connaître les bases du raisonnement clinique, de la méthodologie et les principes de simulation
+  </div>
+
+  <div class="savoir-item">
+    <strong>Savoir‑faire</strong><br>
+    Concevoir des situations d’apprentissage qui amènent les étudiants à appliquer un concept, analyser une situation et justifier une décision
+  </div>
+
+  <div class="savoir-item">
+    <strong>Savoir‑être</strong><br>
+    Soutenir l’apprentissage en rendant le parcours clair et structuré pour les étudiants
+  </div>
+
 </div>
 
 <div class="cards-container">
   <div class="card">
     <h3>Apprentissages hybrides</h3>
-    <p>Alterner cours magistraux, cas cliniques et exercices pratiques pour faciliter le passage de la théorie à la pratique.</p>
+    <p>Alterner cours magistraux, cas cliniques et exercices pratiques pour faciliter le passage de la théorie à la pratique</p>
   </div>
 
   <div class="card">
     <h3>Simulation haute-fidélité</h3>
-    <p>Placer les étudiants dans des situations réalistes où ils doivent analyser, décider et justifier leurs choix.</p>
+    <p>Placer les étudiants dans des situations réalistes où ils doivent analyser, décider et justifier leurs choix</p>
   </div>
 
   <div class="card">
     <h3>Accompagnement en recherche</h3>
-    <p>Guider les étudiants dans la construction d’une démarche scientifique simple, rigoureuse et adaptée à leur niveau.</p>
+    <p>Guider les étudiants dans la construction d’une démarche scientifique simple, rigoureuse et adaptée à leur niveau</p>
   </div>
 </div>
 
 ---
 
-# 🧑‍🏫 Pour l’équipe pédagogique  
+# Pour l’équipe pédagogique  
 ### **Compétence centrale : Piloter et faire vivre un parcours universitaire**
 
 <div class="savoirs-block">
-<strong>Savoir</strong> — Maîtriser les référentiels et les attendus du 1er cycle des études de Maïeutique  
-<strong>Savoir‑faire</strong> — Élaborer une maquette pédagogique, un programme et une docimologie conforme aux textes réglementaires  
-<strong>Savoir‑être</strong> — Soutenir la dynamique collective en étant disponible et engagé dans le travail d’équipe
+
+  <div class="savoir-item">
+    <strong>Savoir</strong><br>
+    Maîtriser les référentiels et les attendus du 1er cycle des études de Maïeutique
+  </div>
+
+  <div class="savoir-item">
+    <strong>Savoir‑faire</strong><br>
+    Élaborer une maquette pédagogique, un programme et une docimologie conforme aux textes réglementaires
+  </div>
+
+  <div class="savoir-item">
+    <strong>Savoir‑être</strong><br>
+    Soutenir la dynamique collective en étant disponible et engagé dans le travail d’équipe
+  </div>
+
 </div>
 
 <div class="cards-container">
   <div class="card">
     <h3>Pilotage pédagogique</h3>
-    <p>Gestion d’une promotion et coordination des intervenants.</p>
+    <p>Gestion d’une promotion et coordination des intervenants</p>
   </div>
 
   <div class="card">
     <h3>Harmonisation des programmes</h3>
-    <p>Construction de progressions cohérentes entre seconde et troisième année.</p>
+    <p>Construction de progressions cohérentes entre seconde et troisième année</p>
   </div>
 
   <div class="card">
     <h3>Évaluations par compétences</h3>
-    <p>Conception d’épreuves cliniques et d’oraux centrés sur les compétences métiers.</p>
+    <p>Conception d’épreuves cliniques et d’oraux centrés sur les compétences métiers</p>
   </div>
 </div>
 
 ---
 
-# 🏛️ Pour l’institution  
+# Pour l’institution  
 ### **Compétence centrale : Structurer le Département de Maïeutique par une polyvalence hospitalo‑universitaire**
 
 <div class="savoirs-block">
-<strong>Savoir</strong> — Mobiliser les connaissances issues de la clinique, de la recherche et de la pédagogie  
-<strong>Savoir‑faire</strong> — Intégrer la réalité clinique pour enrichir et actualiser les enseignements  
-<strong>Savoir‑être</strong> — Articuler pratique clinique et pédagogie en restant polyvalent et adaptable
+
+  <div class="savoir-item">
+    <strong>Savoir</strong><br>
+    Mobiliser les connaissances issues de la clinique, de la recherche et de la pédagogie
+  </div>
+
+  <div class="savoir-item">
+    <strong>Savoir‑faire</strong><br>
+    Intégrer la réalité clinique pour enrichir et actualiser les enseignements
+  </div>
+
+  <div class="savoir-item">
+    <strong>Savoir‑être</strong><br>
+    Articuler pratique clinique et pédagogie en restant polyvalent et adaptable
+  </div>
+
 </div>
 
 <div class="cards-container">
   <div class="card">
     <h3>Recherche institutionnelle</h3>
-    <p>Participation aux projets d'e-learning du Rythme Cardiaque Foetal (eRCF), d'Intelligence Artificielle pour l'analyse du Rythme Cardiaque Foetal (AIM‑CTG) et à la structuration de la recherche en maïeutique.</p>
+    <p>Participation aux projets d'e-learning du Rythme Cardiaque Foetal (eRCF), d'Intelligence Artificielle pour l'analyse du Rythme Cardiaque Foetal (AIM‑CTG) et à la structuration de la recherche en maïeutique</p>
   </div>
 
   <div class="card">
     <h3>Interface hôpital–université</h3>
-    <p>Transformation du terrain en supports pédagogiques concrets.</p>
+    <p>Transformation du terrain en supports pédagogiques concrets</p>
   </div>
 
   <div class="card">
     <h3>Polyvalence inter‑filières</h3>
-    <p>Interventions auprès des étudiants en médecine, maïeutique et professions paramédicales.</p>
+    <p>Interventions auprès des étudiants en médecine, maïeutique et professions paramédicales</p>
   </div>
 </div>

@@ -118,7 +118,9 @@ permalink: /pratique-clinique/
 
 <div class="intro-text">
 
-J’exerce actuellement à temps partiel (50%) au sein de l’Hôpital Privé de Marne‑la‑Vallée. Ma pratique clinique constitue le socle de l’ensemble de mes projets : elle nourrit ma réflexion, structure mes priorités et donne du sens à mes engagements scientifiques et pédagogiques.
+J’exerce actuellement à temps partiel (50%) au sein de l’Hôpital Privé de Marne‑la‑Vallée. 
+
+Ma pratique clinique constitue le socle de l’ensemble de mes projets : elle nourrit ma réflexion, structure mes priorités et donne du sens à mes engagements scientifiques et pédagogiques.
 
 J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au niveau III — afin de construire une vision globale, réaliste et indépendante de mon métier. Cette diversité m’a permis de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
 

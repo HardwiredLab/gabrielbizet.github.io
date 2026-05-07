@@ -6,10 +6,8 @@ permalink: /recherche/
 
 # Recherche
 
-Dès mes premières années d’études, j’ai ressenti le besoin de comprendre ce que je faisais, d’en saisir le sens et les mécanismes
-<br>
-Cette exigence m’a naturellement conduit vers la recherche, qui est rapidement devenue un appui indispensable pour éclairer ma pratique clinique
-<br>
+Dès mes premières années d’études, j’ai ressenti le besoin de comprendre ce que je faisais, d’en saisir le sens et les mécanismes.  
+Cette exigence m’a naturellement conduit vers la recherche, qui est rapidement devenue un appui indispensable pour éclairer ma pratique clinique.  
 Au fil de mes formations et de mes collaborations, je me suis progressivement impliqué dans différents projets de recherche clinique, jusqu’à structurer aujourd’hui trois grands axes de travail qui accompagnent l’ensemble de mon parcours :
 
 ---
@@ -17,24 +15,25 @@ Au fil de mes formations et de mes collaborations, je me suis progressivement im
 # Axe 1 — Intervillite Histiocytaire Chronique
 
 <div class="research-block">
+
 L'Intervillite Histiocytaire Chronique est une maladie rare et grave du placenta. Elle est associée à un risque élevé de complications obstétricales — retards de croissance, fausses couches, morts fœtales — et récidive dans environ un tiers des grossesses.
-  
-  <div class="research-item">
-    <strong>Compétence clé</strong> — Contribuer à des études cliniques évaluant la valeur diagnostique et pronostique des phosphatases alcalines (PAL) dans l’Intervillite Histiocytaire Chronique (IHC)
-  </div>
 
-  <div class="research-item">
-    <strong>Savoir</strong> — Comprendre les mécanismes biologiques, histologiques et cliniques de l’IHC, ainsi que le rôle potentiel des PAL maternelles
-  </div>
-
-  <div class="research-item">
-    <strong>Savoir‑faire</strong> — Analyser et interpréter des résultats explorant l’association entre phosphatases alcalines et IHC, et en évaluer la pertinence clinique
-  </div>
+<div class="research-item">
+<strong>Compétence clé</strong> — Contribuer à des études cliniques évaluant la valeur diagnostique et pronostique des phosphatases alcalines (PAL) dans l’Intervillite Histiocytaire Chronique (IHC)
 </div>
 
-  <div class="research-item">
-    <strong>Savoir‑être</strong> — Rigueur scientifique et capacité à collaborer avec des équipes pluridisciplinaires
-  </div>
+<div class="research-item">
+<strong>Savoir</strong> — Comprendre les mécanismes biologiques, histologiques et cliniques de l’IHC, ainsi que le rôle potentiel des PAL maternelles
+</div>
+
+<div class="research-item">
+<strong>Savoir‑faire</strong> — Analyser et interpréter des résultats explorant l’association entre phosphatases alcalines et IHC, et en évaluer la pertinence clinique
+</div>
+
+<div class="research-item">
+<strong>Savoir‑être</strong> — Rigueur scientifique et capacité à collaborer avec des équipes pluridisciplinaires
+</div>
+
 </div>
 
 ---
@@ -42,22 +41,25 @@ L'Intervillite Histiocytaire Chronique est une maladie rare et grave du placenta
 # Axe 2 — Streptocoque du Groupe B
 
 <div class="research-block">
+
 Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physiologique dans la flore vaginale et digestive. Inoffensive pour la femme enceinte, elle peut provoquer des infections graves chez le nouveau‑né, d’où l’importance de l’antibioprophylaxie pendant le travail.
-  <div class="research-item">
-    <strong>Compétence clé</strong> — Évaluer et optimiser les stratégies de prévention des infections néonatales bactériennes précoces
-  </div>
 
-  <div class="research-item">
-    <strong>Savoir</strong> — Comprendre les enjeux microbiologiques, allergologiques et obstétricaux liés au Streptocoque du Groupe B
-  </div>
+<div class="research-item">
+<strong>Compétence clé</strong> — Évaluer et optimiser les stratégies de prévention des infections néonatales bactériennes précoces
+</div>
 
-  <div class="research-item">
-    <strong>Savoir‑faire</strong> — Concevoir des études cliniques robustes sur des événements rares et assurer un recueil standardisé des données
-  </div>
+<div class="research-item">
+<strong>Savoir</strong> — Comprendre les enjeux microbiologiques, allergologiques et obstétricaux liés au Streptocoque du Groupe B
+</div>
 
-  <div class="research-item">
-    <strong>Savoir‑être</strong> — Contribuer de manière autonome et régulière au projet, en soutenant un travail collaboratif et en assurant un suivi fiable
-  </div>
+<div class="research-item">
+<strong>Savoir‑faire</strong> — Concevoir des études cliniques robustes sur des événements rares et assurer un recueil standardisé des données
+</div>
+
+<div class="research-item">
+<strong>Savoir‑être</strong> — Contribuer de manière autonome et régulière au projet, en soutenant un travail collaboratif et en assurant un suivi fiable
+</div>
+
 </div>
 
 ---
@@ -65,23 +67,25 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
 # Axe 3 — Variations glycémiques maternelles et système nerveux autonome fœtal
 
 <div class="research-block">
+
 Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variations glycémiques (hypoglycémies et hyperglycémies) sont fréquentes et peuvent être sévères. Le retentissement fœtal de telles variations demeure peu exploré.
 
-  <div class="research-item">
-    <strong>Compétence clé</strong> — Piloter un projet translationnel mêlant physiologie, expérimentation et analyse de signaux biomédicaux
-  </div>
+<div class="research-item">
+<strong>Compétence clé</strong> — Piloter un projet translationnel mêlant physiologie, expérimentation et analyse de signaux biomédicaux
+</div>
 
-  <div class="research-item">
-    <strong>Savoir</strong> — Connaître la physiologie fœtale et les principes d’analyse des signaux biomédicaux
-  </div>
+<div class="research-item">
+<strong>Savoir</strong> — Connaître la physiologie fœtale et les principes d’analyse des signaux biomédicaux
+</div>
 
-  <div class="research-item">
-    <strong>Savoir‑faire</strong> — Concevoir un protocole expérimental, assurer le recueil et le traitement des signaux (PhysioTrace, VitalRecorder, Physiotika)
-  </div>
+<div class="research-item">
+<strong>Savoir‑faire</strong> — Concevoir un protocole expérimental, assurer le recueil et le traitement des signaux (PhysioTrace, VitalRecorder, Physiotika)
+</div>
 
-  <div class="research-item">
-    <strong>Savoir‑être</strong> — Adaptabilité, gestion de l’imprévu expérimental et exigence méthodologique
-  </div>
+<div class="research-item">
+<strong>Savoir‑être</strong> — Adaptabilité, gestion de l’imprévu expérimental et exigence méthodologique
+</div>
+
 </div>
 
 ---

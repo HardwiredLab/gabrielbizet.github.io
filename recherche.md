@@ -19,57 +19,87 @@ Au fil de mes formations et de mes collaborations, je me suis progressivement im
 </div>
 
 <style>
-/* Bloc de mise en valeur des compétences */
+
+/* ===== BLOC COMPÉTENCES PREMIUM ===== */
 .competence-block {
   background: #1b1b1b;
   border: 1px solid #3d3d3d;
-  padding: 16px 20px;
-  border-radius: 10px;
-  margin: 18px 0 26px 0;
-  box-shadow: 0 0 14px rgba(200,160,100,0.18);
+  padding: 22px 26px;
+  border-radius: 12px;
+  margin: 28px 0 40px 0;
+  box-shadow: 0 0 18px rgba(200,160,100,0.18);
 }
 
-.competence-block strong {
+/* Titre interne */
+.competence-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #e8cfa3;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid rgba(200,160,100,0.35);
+  letter-spacing: 0.3px;
+}
+
+/* Liste des savoirs */
+.competence-list {
+  margin-top: 18px;
+}
+
+.competence-item {
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+
+.competence-item strong {
   color: #e8cfa3;
   font-weight: 700;
 }
 
-.competence-item {
-  margin-bottom: 10px;
-  line-height: 1.55;
+/* Espacement spécifique pour les communications USF */
+.usf-block {
+  margin-top: 14px;
+  margin-bottom: 22px;
 }
+
 </style>
 
 <hr>
 
 <h1>Axe 1 — Intervillite Histiocytaire Chronique</h1>
 
-<div class="research-block" style="margin-bottom:2rem;">
+<div class="research-block" style="margin-bottom:2.4rem;">
 
-<div style="margin-bottom:1rem;">
+<div style="margin-bottom:1.2rem;">
 L'Intervillite Histiocytaire Chronique est une maladie rare et grave du placenta. Elle est associée à un risque élevé de complications obstétricales — retards de croissance, fausses couches, morts fœtales — et récidive dans environ un tiers des grossesses.
 </div>
 
 <div class="competence-block">
 
+  <div class="competence-title">Compétence clé</div>
   <div class="competence-item">
-    <strong>Compétence clé</strong><br>
     Contribuer à des études cliniques évaluant la valeur diagnostique et pronostique des phosphatases alcalines (PAL) dans l’Intervillite Histiocytaire Chronique (IHC)
   </div>
 
-  <div class="competence-item">
-    <strong>Savoir</strong><br>
-    Comprendre les mécanismes biologiques, histologiques et cliniques de l’IHC, ainsi que le rôle potentiel des PAL maternelles
-  </div>
+  <div class="competence-title" style="margin-top:26px;">Savoirs associés</div>
 
-  <div class="competence-item">
-    <strong>Savoir‑faire</strong><br>
-    Analyser et interpréter des résultats explorant l’association entre phosphatases alcalines et IHC, et en évaluer la pertinence clinique
-  </div>
+  <div class="competence-list">
 
-  <div class="competence-item" style="margin-bottom:0;">
-    <strong>Savoir‑être</strong><br>
-    Rigueur scientifique et capacité à collaborer avec des équipes pluridisciplinaires
+    <div class="competence-item">
+      <strong>Savoir</strong><br>
+      Comprendre les mécanismes biologiques, histologiques et cliniques de l’IHC, ainsi que le rôle potentiel des PAL maternelles
+    </div>
+
+    <div class="competence-item">
+      <strong>Savoir‑faire</strong><br>
+      Analyser et interpréter des résultats explorant l’association entre phosphatases alcalines et IHC, et en évaluer la pertinence clinique
+    </div>
+
+    <div class="competence-item" style="margin-bottom:0;">
+      <strong>Savoir‑être</strong><br>
+      Rigueur scientifique et capacité à collaborer avec des équipes pluridisciplinaires
+    </div>
+
   </div>
 
 </div>
@@ -80,32 +110,38 @@ L'Intervillite Histiocytaire Chronique est une maladie rare et grave du placenta
 
 <h1>Axe 2 — Streptocoque du Groupe B</h1>
 
-<div class="research-block" style="margin-bottom:2rem;">
+<div class="research-block" style="margin-bottom:2.4rem;">
 
-<div style="margin-bottom:1rem;">
+<div style="margin-bottom:1.2rem;">
 Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physiologique dans la flore vaginale et digestive. Inoffensive pour la femme enceinte, elle peut provoquer des infections graves chez le nouveau‑né, d’où l’importance de l’antibioprophylaxie pendant le travail.
 </div>
 
 <div class="competence-block">
 
+  <div class="competence-title">Compétence clé</div>
   <div class="competence-item">
-    <strong>Compétence clé</strong><br>
     Évaluer et optimiser les stratégies de prévention des infections néonatales bactériennes précoces
   </div>
 
-  <div class="competence-item">
-    <strong>Savoir</strong><br>
-    Comprendre les enjeux microbiologiques, allergologiques et obstétricaux liés au Streptocoque du Groupe B
-  </div>
+  <div class="competence-title" style="margin-top:26px;">Savoirs associés</div>
 
-  <div class="competence-item">
-    <strong>Savoir‑faire</strong><br>
-    Concevoir des études cliniques robustes sur des événements rares et assurer un recueil standardisé des données
-  </div>
+  <div class="competence-list">
 
-  <div class="competence-item" style="margin-bottom:0;">
-    <strong>Savoir‑être</strong><br>
-    Contribuer de manière autonome et régulière au projet, en soutenant un travail collaboratif et en assurant un suivi fiable
+    <div class="competence-item">
+      <strong>Savoir</strong><br>
+      Comprendre les enjeux microbiologiques, allergologiques et obstétricaux liés au Streptocoque du Groupe B
+    </div>
+
+    <div class="competence-item">
+      <strong>Savoir‑faire</strong><br>
+      Concevoir des études cliniques robustes sur des événements rares et assurer un recueil standardisé des données
+    </div>
+
+    <div class="competence-item" style="margin-bottom:0;">
+      <strong>Savoir‑être</strong><br>
+      Contribuer de manière autonome et régulière au projet, en soutenant un travail collaboratif et en assurant un suivi fiable
+    </div>
+
   </div>
 
 </div>
@@ -116,32 +152,38 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
 
 <h1>Axe 3 — Variations glycémiques maternelles et système nerveux autonome fœtal</h1>
 
-<div class="research-block" style="margin-bottom:2rem;">
+<div class="research-block" style="margin-bottom:2.4rem;">
 
-<div style="margin-bottom:1rem;">
+<div style="margin-bottom:1.2rem;">
 Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variations glycémiques (hypoglycémies et hyperglycémies) sont fréquentes et peuvent être sévères. Le retentissement fœtal de telles variations demeure peu exploré.
 </div>
 
 <div class="competence-block">
 
+  <div class="competence-title">Compétence clé</div>
   <div class="competence-item">
-    <strong>Compétence clé</strong><br>
     Piloter un projet translationnel mêlant physiologie, expérimentation et analyse de signaux biomédicaux
   </div>
 
-  <div class="competence-item">
-    <strong>Savoir</strong><br>
-    Connaître la physiologie fœtale et les principes d’analyse des signaux biomédicaux
-  </div>
+  <div class="competence-title" style="margin-top:26px;">Savoirs associés</div>
 
-  <div class="competence-item">
-    <strong>Savoir‑faire</strong><br>
-    Concevoir un protocole expérimental, assurer le recueil et le traitement des signaux (PhysioTrace, VitalRecorder, Physiotika)
-  </div>
+  <div class="competence-list">
 
-  <div class="competence-item" style="margin-bottom:0;">
-    <strong>Savoir‑être</strong><br>
-    Adaptabilité, gestion de l’imprévu expérimental et exigence méthodologique
+    <div class="competence-item">
+      <strong>Savoir</strong><br>
+      Connaître la physiologie fœtale et les principes d’analyse des signaux biomédicaux
+    </div>
+
+    <div class="competence-item">
+      <strong>Savoir‑faire</strong><br>
+      Concevoir un protocole expérimental, assurer le recueil et le traitement des signaux (PhysioTrace, VitalRecorder, Physiotika)
+    </div>
+
+    <div class="competence-item" style="margin-bottom:0;">
+      <strong>Savoir‑être</strong><br>
+      Adaptabilité, gestion de l’imprévu expérimental et exigence méthodologique
+    </div>
+
   </div>
 
 </div>
@@ -190,22 +232,33 @@ Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variat
 # Communications
 
 ### 2026
-- **Secours Santé**, Lons-le-Saunier
+
+<div class="usf-block">
+- **Secours Santé**, Lons-le-Saunier  
   *Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle*
+</div>
+
 - **Assises Nationales des Sages-Femmes**, Montpellier  
-  *Ateliers : Analyse physiopathologique du rythme cardiaque fœtal* 
+  *Ateliers : Analyse physiopathologique du rythme cardiaque fœtal*
+
 - **Journées Nationales de la Société Francophone du Diabète**, Lyon  
   *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*  
   *Intérêt de la mesure continue du glucose en recherche expérimentale : exemple du modèle ovin*
 
 ### 2025
-- **Assises Nationales des Sages-Femmes**, Montpellier  
-  *Ateliers : Analyse physiopathologique du rythme cardiaque fœtal*  
-- **Journées Sages-Femmes**, Paris  
-  *Place de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales*  
+
+<div class="usf-block">
 - **Pari(s) Santé Femmes**, Paris  
-  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*
+  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*  
   *Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle*
+</div>
+
+- **Assises Nationales des Sages-Femmes**, Montpellier  
+  *Ateliers : Analyse physiopathologique du rythme cardiaque fœtal*
+
+- **Journées Sages-Femmes**, Paris  
+  *Place de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales*
+
 - **Société Française de Médecine Périnatale**, Rennes  
   *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*
 

@@ -11,51 +11,51 @@ permalink: /pratique-clinique/
 /* ===== PARAGRAPHE INTRO ===== */
 .intro-text {
   font-size: 1.05rem;
-  line-height: 1.75;
+  line-height: 1.7;
   color: #e8e8e8;
-  margin-bottom: 45px;
+  margin-bottom: 40px;
+  max-width: 900px;
 }
 
-/* ===== COMPÉTENCE CLÉ (mise en avant autonome) ===== */
+/* ===== COMPÉTENCE CLÉ ===== */
 .competence-key-standalone {
-  background: linear-gradient(135deg, rgba(200,160,100,0.22), rgba(200,160,100,0.08));
-  border: 1px solid #e8cfa3;
-  padding: 22px 26px;
-  border-radius: 14px;
-  margin-bottom: 55px;
+  background: linear-gradient(135deg, rgba(200,160,100,0.18), rgba(200,160,100,0.06));
+  border: 1px solid #d8c4a0;
+  padding: 20px 24px;
+  border-radius: 12px;
+  margin-bottom: 45px;
   color: #f5e7d3;
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   font-weight: 600;
-  line-height: 1.7;
-  box-shadow: 0 0 26px rgba(200,160,100,0.18);
+  line-height: 1.6;
+  box-shadow: 0 0 18px rgba(200,160,100,0.15);
 }
 
 /* ===== BLOC COMPÉTENCES ===== */
 .competence-block {
   background: #1b1b1b;
-  padding: 32px 36px;
-  border-radius: 14px;
+  padding: 28px 32px;
+  border-radius: 12px;
   border: 1px solid #3d3d3d;
-  box-shadow: 0 0 22px rgba(200,160,100,0.18);
-  margin-bottom: 60px;
+  box-shadow: 0 0 18px rgba(200,160,100,0.15);
+  margin-bottom: 50px;
 }
 
 .competence-title {
-  font-size: 1.45rem;
+  font-size: 1.35rem;
   font-weight: 700;
   color: #f5e7d3;
-  margin-bottom: 22px;
-  letter-spacing: 0.3px;
+  margin-bottom: 18px;
 }
 
 .competence-item {
-  margin-bottom: 18px;
-  padding: 14px 18px;
-  background: rgba(200,160,100,0.10);
+  margin-bottom: 14px;
+  padding: 12px 16px;
+  background: rgba(200,160,100,0.08);
   border-left: 4px solid #e8cfa3;
   border-radius: 6px;
   color: #e8e8e8;
-  line-height: 1.6;
+  line-height: 1.55;
 }
 
 .competence-item strong {
@@ -65,21 +65,21 @@ permalink: /pratique-clinique/
 /* ====== CARTES NIVEAUX ====== */
 .level-card {
   background: #1b1b1b;
-  border-radius: 14px;
-  padding: 30px 34px;
+  border-radius: 12px;
+  padding: 26px 30px;
   border: 1px solid #3d3d3d;
-  box-shadow: 0 0 18px rgba(200,160,100,0.18);
-  margin-bottom: 45px;
+  box-shadow: 0 0 16px rgba(200,160,100,0.15);
+  margin-bottom: 40px;
 }
 
 .level-header {
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 
 .level-title {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   color: #f5e7d3;
-  margin: 0 0 6px 0;
+  margin: 0 0 4px 0;
 }
 
 .level-subheader {
@@ -89,26 +89,27 @@ permalink: /pratique-clinique/
 }
 
 .level-location {
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   color: #e8cfa3;
   font-weight: 600;
+  max-width: 70%;
 }
 
 .level-date {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   color: #e8cfa3;
   font-weight: 600;
 }
 
 .level-card p {
-  margin: 6px 0 14px 0;
+  margin: 4px 0 12px 0;
   color: #cfcfcf;
-  line-height: 1.55;
+  line-height: 1.5;
 }
 
 .level-card ul {
-  margin-top: 14px;
-  line-height: 1.6;
+  margin-top: 10px;
+  line-height: 1.55;
   color: #e8e8e8;
 }
 
@@ -150,8 +151,6 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
 ---
 
 
-
-
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau III</h2>
@@ -163,7 +162,6 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
   </div>
 
   <p><em>CDD</em></p>
-
 
   <ul>
     <li>Bloc obstétrical</li>

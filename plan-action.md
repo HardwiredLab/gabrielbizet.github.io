@@ -73,14 +73,14 @@ Articuler plus étroitement mes activités de terrain, mes enseignements et mes 
 
 Renforcer les liens avec les équipes hospitalières, universitaires et de recherche afin de soutenir des projets transversaux.
 
-**Cela inclut :**
+**Actions envisagées :**
 - participer régulièrement aux congrès nationaux et régionaux  
 - initier ou rejoindre des groupes de travail (qualité, simulation, pédagogie, recherche)  
 - consolider les collaborations avec les équipes périnatales et les structures universitaires  
 
 <div class="divider"></div>
 
-<div class="section-title">Objectifs professionnels</div>
+<div class="page-title">Projet professionnel</div>
 
 Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement.  
 Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain.
@@ -101,7 +101,7 @@ Je souhaite maintenir une présence régulière en salle de naissance et dans le
 
 <div class="divider"></div>
 
-<div class="section-title">Orientations et lignes directrices</div>
+<div class="page-title">Lignes directrices</div>
 
 Ce qui guide ma trajectoire :  
 - travailler dans des environnements où la clinique nourrit la recherche  

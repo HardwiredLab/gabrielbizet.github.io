@@ -21,8 +21,8 @@ permalink: /plan-action/
   background: #1b1b1b;
   border: 1px solid #3d3d3d;
   border-radius: 16px;
-  padding: 32px 36px;
-  margin: 50px 0;
+  padding: 36px 40px;
+  margin: 55px 0;
   box-shadow: 0 0 22px rgba(200,160,100,0.18);
 }
 
@@ -30,10 +30,19 @@ permalink: /plan-action/
 .plan-block h2 {
   text-align: center;
   color: #e8cfa3;
-  font-size: 1.55rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin-bottom: 28px;
+  letter-spacing: 0.5px;
+}
+
+/* ===== SOUS-SOUS-TITRES ===== */
+.plan-block h3 {
+  color: #e8cfa3;
+  font-size: 1.25rem;
   font-weight: 600;
-  margin-bottom: 22px;
-  letter-spacing: 0.4px;
+  margin-top: 30px;
+  margin-bottom: 12px;
 }
 
 /* ===== TEXTE ===== */
@@ -63,19 +72,22 @@ permalink: /plan-action/
 <div class="page-title">Plan d’action</div>
 
 Ce plan d’action prolonge la dynamique de mon parcours hospitalo‑universitaire
-
 Il vise à structurer les étapes nécessaires pour renforcer la cohérence entre clinique, recherche et enseignement, tout en développant un réseau professionnel solide
 
 <div class="divider"></div>
 
 
-<!-- ===== BLOC 1 ===== -->
+<!-- ========================================================= -->
+<!-- ====================== BLOC 1 =========================== -->
+<!-- ========================================================= -->
+
 <div class="plan-block">
-  <h2>1. Amener une cohérence hospitalo‑universitaire</h2>
+  <h2>Plan d’action</h2>
+
+  <!-- ===== Sous-partie 1 ===== -->
+  <h3>1. Amener une cohérence hospitalo‑universitaire</h3>
 
   <p>Articuler plus étroitement mes activités de terrain, mes enseignements et mes travaux de recherche</p>
-<br>
-<br>
 
   <p><strong>Actions envisagées :</strong></p>
   <ul>
@@ -84,16 +96,13 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
     <li>Contribuer à la structuration du Département de Maïeutique et aux projets institutionnels</li>
     <li>Développer des outils ou démarches transférables entre clinique et enseignement</li>
   </ul>
-</div>
 
+  <br>
 
-<!-- ===== BLOC 2 ===== -->
-<div class="plan-block">
-  <h2>2. Développer mon réseau professionnel</h2>
+  <!-- ===== Sous-partie 2 ===== -->
+  <h3>2. Développer mon réseau professionnel</h3>
 
   <p>Renforcer les liens avec les équipes hospitalières, universitaires et de recherche afin de soutenir des projets transversaux</p>
-<br>
-<br>
 
   <p><strong>Actions envisagées :</strong></p>
   <ul>
@@ -104,34 +113,34 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 </div>
 
 
-<!-- ===== BLOC 3 ===== -->
+<div class="divider"></div>
+
+
+<!-- ========================================================= -->
+<!-- ====================== BLOC 2 =========================== -->
+<!-- ========================================================= -->
+
 <div class="plan-block">
   <h2>Projet professionnel</h2>
 
-  <p>Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement 
+  <p>Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement
     
   Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain</p>
 
-<br>
-
-  <h3 style="color:#e8cfa3; margin-top:30px;">Court terme</h3>
+  <h3>Court terme</h3>
   <ul>
     <li>Consolider mes compétences cliniques</li>
     <li>Finaliser mes projets de recherche en cours</li>
     <li>Développer mes compétences pédagogiques (simulation, ingénierie)</li>
   </ul>
 
-<br>
-
-  <h3 style="color:#e8cfa3; margin-top:30px;">Moyen terme</h3>
+  <h3>Moyen terme</h3>
   <ul>
     <li>Porter ou co‑porter un projet de recherche clinique ou translationnelle</li>
     <li>Ouvrir mes activités à l’international (réseaux, congrès, collaborations thématiques)</li>
   </ul>
 
-<br>
-
-  <h3 style="color:#e8cfa3; margin-top:30px;">Long terme</h3>
+  <h3>Long terme</h3>
   <ul>
     <li>Occuper un poste hospitalo‑universitaire pérenne</li>
     <li>Contribuer à la structuration de la recherche en Maïeutique</li>
@@ -143,9 +152,13 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 <div class="divider"></div>
 
 
-<!-- ===== BLOC 4 ===== -->
+<!-- ========================================================= -->
+<!-- ====================== BLOC 3 =========================== -->
+<!-- ========================================================= -->
+
 <div class="plan-block">
   <h2>Lignes directrices</h2>
+
   <ul>
     <li>Travailler dans des environnements où la clinique nourrit la recherche</li>
     <li>Développer des outils utiles aux équipes de terrain</li>

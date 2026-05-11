@@ -242,55 +242,58 @@ Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variat
 
 ### 2026
 
-<div class="usf-block comm-item">
-  <strong>Secours Santé</strong>, Lons-le-Saunier  
+<div class="comm-item">
+  <strong>Secours Santé</strong> — <em>Lons-le-Saunier</em><br>
   <em>Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle</em>
 </div>
 
 <div class="comm-item">
-  <strong>Assises Nationales des Sages-Femmes</strong>, Montpellier  
-  <em>Atelier Analyse physiopathologique du rythme cardiaque fœtal (3h)</em>
+  <strong>Assises Nationales des Sages-Femmes</strong> — <em>Montpellier</em><br>
+  <em>Atelier : Analyse physiopathologique du rythme cardiaque fœtal (3h)</em>
 </div>
 
 <div class="comm-item">
-  <strong>Journées Nationales de la Société Francophone du Diabète</strong>, Lyon  
+  <strong>Journées Nationales de la Société Francophone du Diabète</strong> — <em>Lyon</em><br>
   <em>Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept</em><br>
   <em>Intérêt de la mesure continue du glucose en recherche expérimentale : exemple du modèle ovin</em>
 </div>
 
+
 ### 2025
 
-<div class="usf-block comm-item">
-  <strong>Pari(s) Santé Femmes</strong>, Paris  
+<div class="comm-item">
+  <strong>Pari(s) Santé Femmes</strong> — <em>Paris</em><br>
   <em>Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept</em><br>
   <em>Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle</em>
 </div>
 
 <div class="comm-item">
-  <strong>Assises Nationales des Sages-Femmes</strong>, Montpellier  
-  <em>Ateliers Analyse physiopathologique du rythme cardiaque fœtal (2x3h)</em>
+  <strong>Assises Nationales des Sages-Femmes</strong> — <em>Montpellier</em><br>
+  <em>Ateliers : Analyse physiopathologique du rythme cardiaque fœtal (2×3h)</em>
 </div>
 
 <div class="comm-item">
-  <strong>Journées Sages-Femmes</strong>, Paris  
+  <strong>Journées Sages-Femmes</strong> — <em>Paris</em><br>
   <em>Place de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales</em>
 </div>
 
 <div class="comm-item">
-  <strong>Société Française de Médecine Périnatale</strong>, Rennes  
+  <strong>Société Française de Médecine Périnatale</strong> — <em>Rennes</em><br>
   <em>Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept</em>
 </div>
+
 
 ### 2024
 
 <div class="comm-item">
-  <strong>Groupement Régional du Collège National des Gynécologues et Obstétriciens Français</strong>, Lille  
+  <strong>Groupement Régional du Collège National des Gynécologues et Obstétriciens Français</strong> — <em>Lille</em><br>
   <em>Intérêt de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales bactériennes précoces</em>
 </div>
+
 
 ### 2023
 
 <div class="comm-item">
-  <strong>Journées Sages-Femmes</strong>, Paris  
+  <strong>Journées Sages-Femmes</strong> — <em>Paris</em><br>
   <em>Place des phosphatases alcalines dans le diagnostic de l’intervillite histiocytaire chronique</em>
 </div>

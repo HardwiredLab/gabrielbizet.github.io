@@ -72,6 +72,29 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   <div class="pill"><strong>Savoir‑être</strong> — Écoute active, adaptation aux contraintes opérationnelles et communication interprofessionnelle</div>
 </div>
 
+
+<div style="
+  margin-top: 26px;
+  padding: 18px 20px;
+  border-radius: 12px;
+  border: 1px dashed rgba(200,160,100,0.6);
+  background: rgba(200,160,100,0.06);
+">
+  <div style="font-size:0.9rem; letter-spacing:0.12em; text-transform:uppercase; color:#e8cfa3; margin-bottom:6px;">
+    Perspective
+  </div>
+  <div style="font-weight:600; color:#e8e8e8; margin-bottom:6px;">
+    Vers une Association Nationale des Sages-Femmes Sapeurs-Pompiers ?
+  </div>
+  <div style="color:#d8d8d8; font-size:0.95rem; line-height:1.6;">
+    À moyen terme, j’aimerais contribuer à la structuration d’un réseau national de sages-femmes sapeurs-pompiers, 
+    afin de partager nos pratiques, harmoniser les accompagnements et faire reconnaître la spécificité de cette expertise 
+    au sein des services d’incendie et de secours.
+  </div>
+</div>
+
+
+
 ---
 
 <div class="project-section">

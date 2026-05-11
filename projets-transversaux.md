@@ -89,7 +89,7 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   <div style="color:#d8d8d8; font-size:0.95rem; line-height:1.6;">
     À moyen terme, j’aimerais contribuer à la structuration d’un réseau national de sages-femmes sapeurs-pompiers, 
     afin de partager nos pratiques, harmoniser les accompagnements et faire reconnaître la spécificité de cette expertise 
-    au sein des services d’incendie et de secours.
+    au sein des services d’incendie et de secours
   </div>
 </div>
 

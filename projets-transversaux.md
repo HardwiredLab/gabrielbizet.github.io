@@ -9,7 +9,7 @@ permalink: /projets-transversaux/
 Cette section présente quelques projets professionnels complémentaires, articulés autour de trois axes :  
 1. Mon activité d'expert sage-femme auprès du Service Départemental d'Incendie et de Secours du Nord  
 2. Ma participation à la formation professionnelle continue via l'auto‑entrepreneuriat  
-3. La participation aux travaux des sociétés savantes
+3. Ma contribution aux travaux des sociétés savantes
 
 <style>
 

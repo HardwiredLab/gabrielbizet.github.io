@@ -82,12 +82,12 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 <!-- ========================================================= -->
 
 <div class="plan-block">
-  <h2>Plan d’action</h2>
+  <h2>Mes leviers d’action</h2>
 
   <!-- ===== Sous-partie 1 ===== -->
   <h3>1. Amener une cohérence hospitalo‑universitaire</h3>
 
-  <p>Articuler plus étroitement mes activités de terrain, mes enseignements et mes travaux de recherche</p>
+  <p>Articuler plus étroitement mon activité clinique, universitaire et mes travaux de recherche</p>
 
   <p><strong>Actions envisagées :</strong></p>
   <ul>
@@ -107,7 +107,7 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
   <p><strong>Actions envisagées :</strong></p>
   <ul>
     <li>Participer régulièrement aux congrès nationaux et régionaux</li>
-    <li>Initier ou rejoindre des groupes de travail (qualité, simulation, pédagogie, recherche)</li>
+    <li>Initier ou rejoindre des groupes de travail (simulation, pédagogie, recherche)</li>
     <li>Consolider les collaborations avec les équipes périnatales et les structures universitaires</li>
   </ul>
 </div>
@@ -121,7 +121,7 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 <!-- ========================================================= -->
 
 <div class="plan-block">
-  <h2>Projet professionnel</h2>
+  <h2>Mon projet professionnel</h2>
 
   <p>Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement
     
@@ -157,10 +157,10 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 <!-- ========================================================= -->
 
 <div class="plan-block">
-  <h2>Lignes directrices</h2>
+  <h2>Mes lignes directrices</h2>
 
   <ul>
-    <li>Travailler dans des environnements où la clinique nourrit la recherche</li>
+    <li>Travailler dans des environnements où la pratique clinique nourrit la recherche</li>
     <li>Développer des outils utiles aux équipes de terrain</li>
     <li>Former des cliniciens capables de raisonner, analyser et décider</li>
     <li>Contribuer à une vision moderne, scientifique et exigeante de la périnatalité</li>

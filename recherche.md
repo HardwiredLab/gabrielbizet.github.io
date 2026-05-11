@@ -205,35 +205,36 @@ Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variat
 ### 2026
 - **Lemonnier et al.**  
   *Intrapartum group B streptococcus antibiotic prophylaxis in beta-lactams allergic women and risk of neonatal infection*  
-  *European Journal of Obstetrics and Gynecology and Reproductive Biology*
+  [European Journal of Obstetrics and Gynecology and Reproductive Biology](https://doi.org/10.1016/j.ejogrb.2026.115091)
 
 ### 2025
 - **Bizet et al.**  
   *Placental placement on the lower uterine segment without praevia: A postpartum hemorrhage risk?*  
-  *International Journal of Gynecology and Obstetrics*
+  [International Journal of Gynecology and Obstetrics](https://doi.org/10.1002/ijgo.70680)
 
 - **Bizet et al.**  
   *Retentissement fœtal d’une hypoglycémie maternelle chez la brebis gestante : preuve de concept*  
-  *Gynécologie Obstétrique Fertilité et Sénologie*
+  [Gynécologie Obstétrique Fertilité et Sénologie](https://doi.org/10.1016/j.gofs.2025.09.085)
 
 - **Mawa et al.**  
   *Characteristics of women presenting with chronic histiocytic intervillositis during pregnancy: A case-control study*  
-  *Journal of Gynecology Obstetrics and Human Reproduction*
+  [Journal of Gynecology Obstetrics and Human Reproduction](https://doi.org/10.1016/j.jogoh.2024.102882)
 
 ### 2024
 - **Bizet et al.**  
   *Modalités d’accompagnement actuelles des transidentités : une perspective médicale*  
-  *Sages-Femmes*
+  [Sages-Femmes](https://doi.org/10.1016/j.sagf.2024.01.005)
 
 ### 2023
 - **Lemonnier et al.**  
   *En cas d’allergie aux bêta-lactamines chez les femmes enceintes colonisées à Streptococcus agalactiae, tenir compte de l’antibiogramme à l’accouchement pourrait diminuer le risque d’infection néonatale*  
-  *Médecine et Maladies Infectieuses Formation*
+  [Médecine et Maladies Infectieuses Formation](https://doi.org/10.1016/j.mmifmc.2023.03.270)
 
 ### 2022
 - **Titaux et al.**  
   *Total alkaline phosphatase levels by gestational age in a large sample of pregnant women*  
-  *Placenta*
+  [Placenta](https://doi.org/10.1016/j.placenta.2022.12.005)
+
 
 ---
 
@@ -242,54 +243,54 @@ Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variat
 ### 2026
 
 <div class="usf-block comm-item">
-- **Secours Santé**, Lons-le-Saunier  
-  *Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle*
+  <strong>Secours Santé</strong>, Lons-le-Saunier  
+  <em>Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle</em>
 </div>
 
 <div class="comm-item">
-- **Assises Nationales des Sages-Femmes**, Montpellier  
-  *Ateliers : Analyse physiopathologique du rythme cardiaque fœtal*
+  <strong>Assises Nationales des Sages-Femmes</strong>, Montpellier  
+  <em>Atelier Analyse physiopathologique du rythme cardiaque fœtal (3h)</em>
 </div>
 
 <div class="comm-item">
-- **Journées Nationales de la Société Francophone du Diabète**, Lyon  
-  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*  
-  *Intérêt de la mesure continue du glucose en recherche expérimentale : exemple du modèle ovin*
+  <strong>Journées Nationales de la Société Francophone du Diabète</strong>, Lyon  
+  <em>Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept</em><br>
+  <em>Intérêt de la mesure continue du glucose en recherche expérimentale : exemple du modèle ovin</em>
 </div>
 
 ### 2025
 
 <div class="usf-block comm-item">
-- **Pari(s) Santé Femmes**, Paris  
-  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*  
-  *Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle*
+  <strong>Pari(s) Santé Femmes</strong>, Paris  
+  <em>Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept</em><br>
+  <em>Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle</em>
 </div>
 
 <div class="comm-item">
-- **Assises Nationales des Sages-Femmes**, Montpellier  
-  *Ateliers : Analyse physiopathologique du rythme cardiaque fœtal*
+  <strong>Assises Nationales des Sages-Femmes</strong>, Montpellier  
+  <em>Ateliers Analyse physiopathologique du rythme cardiaque fœtal (2x3h)</em>
 </div>
 
 <div class="comm-item">
-- **Journées Sages-Femmes**, Paris  
-  *Place de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales*
+  <strong>Journées Sages-Femmes</strong>, Paris  
+  <em>Place de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales</em>
 </div>
 
 <div class="comm-item">
-- **Société Française de Médecine Périnatale**, Rennes  
-  *Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept*
+  <strong>Société Française de Médecine Périnatale</strong>, Rennes  
+  <em>Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept</em>
 </div>
 
 ### 2024
 
 <div class="comm-item">
-- **Groupement Régional du Collège National des Gynécologues et Obstétriciens Français**, Lille  
-  *Intérêt de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales bactériennes précoces*
+  <strong>Groupement Régional du Collège National des Gynécologues et Obstétriciens Français</strong>, Lille  
+  <em>Intérêt de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales bactériennes précoces</em>
 </div>
 
 ### 2023
 
 <div class="comm-item">
-- **Journées Sages-Femmes**, Paris  
-  *Place des phosphatases alcalines dans le diagnostic de l’intervillite histiocytaire chronique*
+  <strong>Journées Sages-Femmes</strong>, Paris  
+  <em>Place des phosphatases alcalines dans le diagnostic de l’intervillite histiocytaire chronique</em>
 </div>

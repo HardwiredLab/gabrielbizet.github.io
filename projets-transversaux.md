@@ -126,7 +126,7 @@ Mon activité comprend un programme de 21h dédié à l’analyse physiopatholog
     Formation à l'accompagnement médical des personnes trans et non‑binaires
   </div>
   <div style="color:#d8d8d8; font-size:0.95rem; line-height:1.6;">
-   Je développe actuellement en parallèle un module de 14h sur l’accompagnement médical des personnes trans et non‑binaires, fondé sur les recommandations internationales et les données probantes. Cette nouvelle formation devrait être déployée d'ici la fin d'année 2026.
+  Je développe actuellement en parallèle un module de 14 heures consacré à l’accompagnement médical des personnes trans et non‑binaires, fondé sur les recommandations internationales et les données probantes. Cette thématique demeure encore peu représentée dans les formations initiales des études médicales, alors même qu’elle constitue un enjeu majeur de santé publique et de qualité des soins. Ce nouveau module devrait être déployé d’ici la fin de l’année 2026.
   </div>
 </div>
 

@@ -103,13 +103,31 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   <div class="context">
 Depuis 2024, je conçois et dispense des formations via l'organisme de formation Medic Formation.  
 Mon activité comprend un programme de 21h dédié à l’analyse physiopathologique du Rythme Cardiaque Fœtal — outil central du clinicien en salle de naissance — que je mets à jour en continu à partir de la littérature scientifique.  
-Je développe actuellement en parallèle un module de 14h sur l’accompagnement médical des personnes trans et non‑binaires, fondé sur les recommandations internationales et les données probantes.
-  </div>
+</div>
 
   <div class="pill"><strong>Compétence clé</strong> — Concevoir et dispenser des formations spécialisées en périnatalité fondées sur la littérature scientifique</div>
   <div class="pill"><strong>Savoir</strong> — Actualiser en continu mes connaissances à partir de la littérature scientifique et des recommandations professionnelles</div>
   <div class="pill"><strong>Savoir‑faire</strong> — Transformer les données probantes en outils pédagogiques concrets et immédiatement mobilisables par les praticiens (tracés commentés, dossiers cliniques, mises en situation)</div>
   <div class="pill"><strong>Savoir‑être</strong> — Adopter une posture andragogique rigoureuse, inclusive et adaptée aux besoins des professionnels hospitaliers et libéraux</div>
+</div>
+
+
+<div style="
+  margin-top: 26px;
+  padding: 18px 20px;
+  border-radius: 12px;
+  border: 1px dashed rgba(200,160,100,0.6);
+  background: rgba(200,160,100,0.06);
+">
+  <div style="font-size:0.9rem; letter-spacing:0.12em; text-transform:uppercase; color:#e8cfa3; margin-bottom:6px;">
+    Perspective
+  </div>
+  <div style="font-weight:600; color:#e8e8e8; margin-bottom:6px;">
+    Formation à l'accompagnement médical des personnes trans et non‑binaires
+  </div>
+  <div style="color:#d8d8d8; font-size:0.95rem; line-height:1.6;">
+   Je développe actuellement en parallèle un module de 14h sur l’accompagnement médical des personnes trans et non‑binaires, fondé sur les recommandations internationales et les données probantes. Cette nouvelle formation devrait être déployée d'ici la fin d'année 2026.
+  </div>
 </div>
 
 ---

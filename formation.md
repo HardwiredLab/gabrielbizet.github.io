@@ -231,7 +231,6 @@ La frise ci‑dessous montre comment chaque formation s’inscrit dans cette dyn
   </div>
 </div>
 
-
 <!-- Chef d'équipe SPV -->
 <div class="timeline-item">
   <div class="timeline-date">2023</div>

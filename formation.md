@@ -12,10 +12,10 @@ Cette section retrace la construction progressive de mes compétences cliniques,
 Mon parcours est porté par une curiosité naturelle et par un besoin constant de rigueur et d’utilité.
 
 Mon parcours s’est structuré autour d’un besoin constant de comprendre, d’analyser et de donner du sens à ma pratique, porté par une curiosité naturelle et une exigence de rigueur. Il a notamment été porté par :
-- **Un ancrage dans le soin** — Mon activité de sage‑femme hospitalier et mon engagement comme sapeur‑pompier volontaire ont développé une compréhension fine du terrain, de l’urgence, de la responsabilité et du travail interprofessionnel.
+- **Un ancrage dans le soin** — Mon activité de sage‑femme hospitalier et mon engagement comme sapeur‑pompier volontaire ont développé une compréhension fine du terrain, de l’urgence, de la responsabilité et du travail pluridisciplinaire.
 - **Une ouverture linguistique structurante** — Les formations en langues ont élargi mes horizons académiques, facilité l’accès à la littérature scientifique internationale et renforcé ma capacité à collaborer dans des environnements pluriculturels.
 - **Une progression scientifique et méthodologique continue** — La recherche s’est imposée comme un outil essentiel pour éclairer ma pratique et m’a conduit vers des projets cliniques variés.
-- **Une sensibilité croissante aux enjeux d’innovation et d’intelligence artificielle** — L’intelligence artificielle, lorsqu'elle est utilisée à bon escient, est devenue incontournable pour exploiter les données cliniques et expérimentales. Mes formations m’ont permis d’en maîtriser les usages concrets : extraction et structuration de données, analyse de signaux biomédicaux et appui à la modélisation dans mes travaux de recherche.
+- **Une sensibilité croissante aux enjeux d’innovation** — Mes formations m’ont permis de développer une pratique très concrète des outils numériques appliqués à la recherche : extraction et nettoyage de données, structuration de jeux de données complexes, analyse de signaux biomédicaux et appui à la modélisation dans mes travaux.
 
 Ces influences se combinent avec trois repères complémentaires qui structurent l’ensemble de mon parcours :
 <span style="display:block;"><strong>Savoir</strong> — Acquérir des connaissances méthodologiques solides dans mes différents domaines d’expertise</span>

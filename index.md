@@ -181,9 +181,9 @@ permalink: /
 </div>
 
 <div class="section">
-<h3>🧭 Plan d’action</h3>
+<h3>🧭 Projections professionnelles</h3>
 <p>Mes perspectives professionnelles à court, moyen et long terme</p>
-<a href="{{ "/plan-action/" | relative_url }}">Voir →</a>
+<a href="{{ "/projections-professionnelles/" | relative_url }}">Voir →</a>
 </div>
 
 <div class="section">

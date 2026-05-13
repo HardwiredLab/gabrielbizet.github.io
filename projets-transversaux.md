@@ -102,7 +102,7 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
 
   <div class="context">
 Depuis 2024, je conçois et dispense des formations via l'organisme de formation Medic Formation.  
-Mon activité comprend un programme de 21h dédié à l’analyse physiopathologique du Rythme Cardiaque Fœtal — outil central du clinicien en salle de naissance — que je mets à jour en continu à partir de la littérature scientifique.  
+Mon activité comprend un programme de 21h dédié à l’analyse physiopathologique du Rythme Cardiaque Fœtal — outil central du clinicien en salle de naissance — que je mets à jour régulièrement à partir de la littérature scientifique disponible.  
 </div>
 
   <div class="pill"><strong>Compétence clé</strong> — Concevoir et dispenser des formations spécialisées en périnatalité fondées sur la littérature scientifique</div>

@@ -10,22 +10,22 @@ permalink: /projections-professionnelles/
 .page-title {
   text-align: center;
   color: #e8cfa3;
-  font-size: 2.6rem;
+  font-size: 2.4rem;
   font-weight: 700;
-  margin: 55px 0 40px 0;
-  letter-spacing: 0.7px;
+  margin: 50px 0 35px 0;
+  letter-spacing: 0.6px;
 }
 
-/* ===== INTRO EN RELIEF ===== */
+/* ===== INTRO EN RELIEF (version plus sobre) ===== */
 .intro-box {
-  background: rgba(200,160,100,0.08);
-  border-left: 4px solid #e8cfa3;
-  padding: 28px 32px;
-  border-radius: 12px;
-  margin-bottom: 55px;
+  background: rgba(200,160,100,0.05);
+  border-left: 3px solid #e8cfa3;
+  padding: 22px 26px;
+  border-radius: 10px;
+  margin-bottom: 50px;
   color: #e8e8e8;
-  line-height: 1.75;
-  font-size: 1.1rem;
+  line-height: 1.7;
+  font-size: 1.05rem;
 }
 
 /* ===== BLOC PRINCIPAL ===== */
@@ -42,9 +42,9 @@ permalink: /projections-professionnelles/
 .plan-block h2 {
   text-align: center;
   color: #e8cfa3;
-  font-size: 1.8rem;
+  font-size: 1.75rem;
   font-weight: 700;
-  margin-bottom: 32px;
+  margin-bottom: 30px;
   letter-spacing: 0.5px;
 }
 
@@ -63,7 +63,7 @@ permalink: /projections-professionnelles/
   border-left: 3px solid #e8cfa3;
   border-radius: 10px;
   padding: 22px 26px;
-  margin: 35px 0 10px 0;
+  margin: 55px 0 10px 0; /* ← AJOUT D’AIR AU-DESSUS */
 }
 
 .mini-box h4 {
@@ -175,7 +175,7 @@ permalink: /projections-professionnelles/
 
   <p><strong>Actions envisagées :</strong></p>
   <ul>
-    <li>Participer régulièrement aux congrès nationaux et régionaux</li>
+    <li>Participer régulièrement aux congrès régionaux, nationaux voire internationaux</li>
     <li>Initier ou rejoindre des groupes de travail (simulation, pédagogie, recherche)</li>
     <li>Consolider les collaborations avec les équipes périnatales et les structures universitaires</li>
   </ul>

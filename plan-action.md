@@ -69,7 +69,7 @@ permalink: /plan-action/
 </style>
 
 
-<div class="page-title">Plan d’action</div>
+<div class="page-title">Projections professionnelles</div>
 
 Ce plan d’action prolonge la dynamique de mon parcours hospitalo‑universitaire
 Il vise à structurer les étapes nécessaires pour renforcer la cohérence entre clinique, recherche et enseignement, tout en développant un réseau professionnel solide
@@ -77,12 +77,66 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 <div class="divider"></div>
 
 
+
+
 <!-- ========================================================= -->
 <!-- ====================== BLOC 1 =========================== -->
 <!-- ========================================================= -->
 
 <div class="plan-block">
-  <h2>Mes leviers d’action</h2>
+  <h2>Mon projet professionnel</h2>
+
+  <p>Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement. 
+    
+  Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain</p>
+
+  <h3>Court terme</h3>
+  <ul>
+    <li>Consolider mes compétences cliniques</li>
+    <li>Finaliser mes projets de recherche en cours</li>
+    <li>Développer mes compétences pédagogiques (simulation, ingénierie)</li>
+  </ul>
+
+  <h3>Moyen terme</h3>
+  <ul>
+    <li>Porter ou co‑porter un projet de recherche clinique ou translationnelle</li>
+    <li>Ouvrir mes activités à l’international (réseaux, congrès, collaborations thématiques)</li>
+  </ul>
+
+  <h3>Long terme</h3>
+  <ul>
+    <li>Occuper un poste hospitalo‑universitaire pérenne</li>
+    <li>Contribuer au développement de la recherche en Maïeutique</li>
+    <li>Développer un axe de recherche propre autour de l’analyse des risques périnataux</li>
+  </ul>
+</div>
+
+
+<div class="divider"></div>
+
+
+<!-- ========================================================= -->
+<!-- ====================== BLOC 2 =========================== -->
+<!-- ========================================================= -->
+
+<div class="plan-block">
+  <h2>Mes lignes directrices</h2>
+
+  <ul>
+    <li>Travailler dans des environnements où la pratique clinique nourrit la recherche</li>
+    <li>Développer des outils utiles aux équipes de terrain</li>
+    <li>Former des cliniciens capables de raisonner, analyser et décider</li>
+    <li>Contribuer à une vision moderne, scientifique et exigeante de la périnatalité</li>
+  </ul>
+</div>
+
+
+<!-- ========================================================= -->
+<!-- ====================== BLOC 3 =========================== -->
+<!-- ========================================================= -->
+
+<div class="plan-block">
+  <h2>Plan d’action</h2>
 
   <!-- ===== Sous-partie 1 ===== -->
   <h3>1. Amener une cohérence hospitalo‑universitaire</h3>
@@ -93,7 +147,6 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
   <ul>
     <li>Rassembler mes affiliations sous une identité professionnelle unifiée</li>
     <li>Intégrer mes projets de recherche dans les enseignements (méthodologie, analyse de signaux, physiologie)</li>
-    <li>Contribuer à la structuration du Département de Maïeutique et aux projets institutionnels</li>
     <li>Développer des outils ou démarches transférables entre clinique et enseignement</li>
   </ul>
 
@@ -116,53 +169,4 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 <div class="divider"></div>
 
 
-<!-- ========================================================= -->
-<!-- ====================== BLOC 2 =========================== -->
-<!-- ========================================================= -->
 
-<div class="plan-block">
-  <h2>Mon projet professionnel</h2>
-
-  <p>Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement
-    
-  Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain</p>
-
-  <h3>Court terme</h3>
-  <ul>
-    <li>Consolider mes compétences cliniques</li>
-    <li>Finaliser mes projets de recherche en cours</li>
-    <li>Développer mes compétences pédagogiques (simulation, ingénierie)</li>
-  </ul>
-
-  <h3>Moyen terme</h3>
-  <ul>
-    <li>Porter ou co‑porter un projet de recherche clinique ou translationnelle</li>
-    <li>Ouvrir mes activités à l’international (réseaux, congrès, collaborations thématiques)</li>
-  </ul>
-
-  <h3>Long terme</h3>
-  <ul>
-    <li>Occuper un poste hospitalo‑universitaire pérenne</li>
-    <li>Contribuer à la structuration de la recherche en Maïeutique</li>
-    <li>Développer un axe de recherche propre autour de l’analyse des risques périnataux</li>
-  </ul>
-</div>
-
-
-<div class="divider"></div>
-
-
-<!-- ========================================================= -->
-<!-- ====================== BLOC 3 =========================== -->
-<!-- ========================================================= -->
-
-<div class="plan-block">
-  <h2>Mes lignes directrices</h2>
-
-  <ul>
-    <li>Travailler dans des environnements où la pratique clinique nourrit la recherche</li>
-    <li>Développer des outils utiles aux équipes de terrain</li>
-    <li>Former des cliniciens capables de raisonner, analyser et décider</li>
-    <li>Contribuer à une vision moderne, scientifique et exigeante de la périnatalité</li>
-  </ul>
-</div>

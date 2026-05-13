@@ -62,7 +62,7 @@ Cette section présente quelques projets professionnels complémentaires, articu
   <h2>Unité de Santé de la Femme (SDIS 59)</h2>
 
   <div class="context">
-Depuis mai 2025, je suis expert sage-femme au sein de la Sous-direction Santé et de Secours Médical des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme, qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles. 
+Depuis mai 2025, je suis sage-femme expert sapeur-pompier volontaire au sein de la Sous-direction Santé et de Secours Médical des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme, qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles. 
 J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit leur issue - et travaille désormais sur l'élaboration de recommandations pour accompagner les femmes sapeurs-pompiers dans le cadre de leur (pré)ménopause ainsi que lorsqu'elles présentent des douleurs pelviennes chroniques.
   </div>
 

@@ -26,6 +26,22 @@ permalink: /plan-action/
   box-shadow: 0 0 22px rgba(200,160,100,0.18);
 }
 
+/* ===== MINI BOX (lignes directrices) ===== */
+.mini-box {
+  background: rgba(200,160,100,0.08);
+  border-left: 3px solid #e8cfa3;
+  border-radius: 10px;
+  padding: 22px 26px;
+  margin: 35px 0 60px 0;
+}
+
+.mini-box h3 {
+  color: #e8cfa3;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
 /* ===== SOUS-TITRES ===== */
 .plan-block h2 {
   text-align: center;
@@ -47,14 +63,16 @@ permalink: /plan-action/
 
 /* ===== TEXTE ===== */
 .plan-block p,
-.plan-block li {
+.plan-block li,
+.mini-box li {
   color: #e8e8e8;
   line-height: 1.7;
   margin-bottom: 14px;
 }
 
 /* ===== LISTES ===== */
-.plan-block ul {
+.plan-block ul,
+.mini-box ul {
   margin: 14px 0 20px 0;
   padding-left: 20px;
 }
@@ -69,14 +87,11 @@ permalink: /plan-action/
 </style>
 
 
-<div class="page-title">Projections professionnelles</div>
-
-Ce plan d’action prolonge la dynamique de mon parcours hospitalo‑universitaire
-Il vise à structurer les étapes nécessaires pour renforcer la cohérence entre clinique, recherche et enseignement, tout en développant un réseau professionnel solide
+<p>Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement. 
+    
+Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain.</p>
 
 <div class="divider"></div>
-
-
 
 
 <!-- ========================================================= -->
@@ -85,10 +100,6 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 
 <div class="plan-block">
   <h2>Mon projet professionnel</h2>
-
-  <p>Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement. 
-    
-  Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain</p>
 
   <h3>Court terme</h3>
   <ul>
@@ -112,16 +123,12 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 </div>
 
 
-<div class="divider"></div>
-
-
 <!-- ========================================================= -->
-<!-- ====================== BLOC 2 =========================== -->
+<!-- ===== MINI BOX : LIGNES DIRECTRICES ===================== -->
 <!-- ========================================================= -->
 
-<div class="plan-block">
-  <h2>Mes lignes directrices</h2>
-
+<div class="mini-box">
+  <h3>Mes lignes directrices</h3>
   <ul>
     <li>Travailler dans des environnements où la pratique clinique nourrit la recherche</li>
     <li>Développer des outils utiles aux équipes de terrain</li>
@@ -132,13 +139,12 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 
 
 <!-- ========================================================= -->
-<!-- ====================== BLOC 3 =========================== -->
+<!-- ====================== BLOC 2 =========================== -->
 <!-- ========================================================= -->
 
 <div class="plan-block">
   <h2>Plan d’action</h2>
 
-  <!-- ===== Sous-partie 1 ===== -->
   <h3>1. Amener une cohérence hospitalo‑universitaire</h3>
 
   <p>Articuler plus étroitement mon activité clinique, universitaire et mes travaux de recherche</p>
@@ -152,7 +158,6 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
 
   <br>
 
-  <!-- ===== Sous-partie 2 ===== -->
   <h3>2. Développer mon réseau professionnel</h3>
 
   <p>Renforcer les liens avec les équipes hospitalières, universitaires et de recherche afin de soutenir des projets transversaux</p>
@@ -165,8 +170,4 @@ Il vise à structurer les étapes nécessaires pour renforcer la cohérence entr
   </ul>
 </div>
 
-
 <div class="divider"></div>
-
-
-

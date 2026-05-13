@@ -224,9 +224,9 @@ La frise ci‑dessous montre comment chaque formation s’inscrit dans cette dyn
     <div class="timeline-title">Immersion clinique — Dispositif Transidentités (CHU de Lille)</div>
     <div class="skill-tag">Compétence clé : Comprendre l’organisation des parcours de transition et le rôle des différentes spécialités impliquées dans l’accompagnement des personnes trans et non-binaires</div>
 
-    Immersion progressive au sein du Dispositif Transidentités du CHU de Lille (Pr François Medjkane), avec observation de nombreuses consultations (endocrinologie, andrologie, pédopsychiatrie, préservation de la fertilité...)  
+    Immersion progressive au sein du Dispositif Transidentités du CHU de Lille (Pr F.Medjkane), avec observation de nombreuses consultations (endocrinologie, andrologie, pédopsychiatrie, préservation de la fertilité...)  
     <div class="transition">
-      Je souhaitais comprendre les étapes d'un parcours de transition pour pouvoir accueillir toute personne de manière respectueuse, répondre de façon adaptée et agir professionnellement, sans risque de blesser
+      Envie de comprendre les étapes d'un parcours de transition pour pouvoir accueillir toute personne de manière respectueuse, répondre de façon adaptée et agir professionnellement, sans risque de blesser
     </div>
   </div>
 </div>

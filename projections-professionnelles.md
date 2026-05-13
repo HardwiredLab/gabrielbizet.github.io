@@ -108,6 +108,8 @@ permalink: /projections-professionnelles/
 
 </style>
 
+<h1 class="page-title">Projections professionnelles</h1>
+
 
 <!-- ========================================================= -->
 <!-- ====================== BLOC 1 =========================== -->

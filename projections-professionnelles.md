@@ -109,16 +109,6 @@ permalink: /projections-professionnelles/
 </style>
 
 
-<h1 class="page-title">Projections professionnelles</h1>
-
-<div class="intro-box">
-  <div class="intro-title">Introduction</div>
-  Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement. 
-    
-  Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain.
-</div>
-
-
 <!-- ========================================================= -->
 <!-- ====================== BLOC 1 =========================== -->
 <!-- ========================================================= -->
@@ -126,6 +116,11 @@ permalink: /projections-professionnelles/
 <div class="plan-block">
   <h2>Mon projet professionnel</h2>
 
+  Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement. 
+    
+  Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain.
+
+  
   <h3>Court terme</h3>
   <ul>
     <li>Consolider mes compétences cliniques</li>

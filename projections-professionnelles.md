@@ -1,7 +1,7 @@
 ---
-title: "Plan d’action"
+title: "Projections Professionnelles"
 layout: default
-permalink: /plan-action/
+permalink: /projections-professionnelles/
 ---
 
 <style>
@@ -10,13 +10,25 @@ permalink: /plan-action/
 .page-title {
   text-align: center;
   color: #e8cfa3;
-  font-size: 2.3rem;
+  font-size: 2.6rem;
   font-weight: 700;
-  margin: 45px 0 35px 0;
-  letter-spacing: 0.6px;
+  margin: 55px 0 40px 0;
+  letter-spacing: 0.7px;
 }
 
-/* ===== BLOC MODERNE ===== */
+/* ===== INTRO EN RELIEF ===== */
+.intro-box {
+  background: rgba(200,160,100,0.08);
+  border-left: 4px solid #e8cfa3;
+  padding: 28px 32px;
+  border-radius: 12px;
+  margin-bottom: 55px;
+  color: #e8e8e8;
+  line-height: 1.75;
+  font-size: 1.1rem;
+}
+
+/* ===== BLOC PRINCIPAL ===== */
 .plan-block {
   background: #1b1b1b;
   border: 1px solid #3d3d3d;
@@ -26,29 +38,13 @@ permalink: /plan-action/
   box-shadow: 0 0 22px rgba(200,160,100,0.18);
 }
 
-/* ===== MINI BOX (lignes directrices) ===== */
-.mini-box {
-  background: rgba(200,160,100,0.08);
-  border-left: 3px solid #e8cfa3;
-  border-radius: 10px;
-  padding: 22px 26px;
-  margin: 35px 0 60px 0;
-}
-
-.mini-box h3 {
-  color: #e8cfa3;
-  font-size: 1.3rem;
-  font-weight: 600;
-  margin-bottom: 16px;
-}
-
 /* ===== SOUS-TITRES ===== */
 .plan-block h2 {
   text-align: center;
   color: #e8cfa3;
-  font-size: 1.7rem;
+  font-size: 1.8rem;
   font-weight: 700;
-  margin-bottom: 28px;
+  margin-bottom: 32px;
   letter-spacing: 0.5px;
 }
 
@@ -59,6 +55,22 @@ permalink: /plan-action/
   font-weight: 600;
   margin-top: 30px;
   margin-bottom: 12px;
+}
+
+/* ===== MINI BOX (lignes directrices intégrées) ===== */
+.mini-box {
+  background: rgba(200,160,100,0.10);
+  border-left: 3px solid #e8cfa3;
+  border-radius: 10px;
+  padding: 22px 26px;
+  margin: 35px 0 10px 0;
+}
+
+.mini-box h4 {
+  color: #e8cfa3;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 14px;
 }
 
 /* ===== TEXTE ===== */
@@ -87,11 +99,13 @@ permalink: /plan-action/
 </style>
 
 
-<p>Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement. 
-    
-Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain.</p>
+<h1 class="page-title">Projections professionnelles</h1>
 
-<div class="divider"></div>
+<div class="intro-box">
+  Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement. 
+    
+  Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain.
+</div>
 
 
 <!-- ========================================================= -->
@@ -120,21 +134,18 @@ Je souhaite maintenir une présence régulière en salle de naissance et dans le
     <li>Contribuer au développement de la recherche en Maïeutique</li>
     <li>Développer un axe de recherche propre autour de l’analyse des risques périnataux</li>
   </ul>
-</div>
 
+  <!-- ===== MINI BOX INTÉGRÉE ===== -->
+  <div class="mini-box">
+    <h4>Mes lignes directrices</h4>
+    <ul>
+      <li>Travailler dans des environnements où la pratique clinique nourrit la recherche</li>
+      <li>Développer des outils utiles aux équipes de terrain</li>
+      <li>Former des cliniciens capables de raisonner, analyser et décider</li>
+      <li>Contribuer à une vision moderne, scientifique et exigeante de la périnatalité</li>
+    </ul>
+  </div>
 
-<!-- ========================================================= -->
-<!-- ===== MINI BOX : LIGNES DIRECTRICES ===================== -->
-<!-- ========================================================= -->
-
-<div class="mini-box">
-  <h3>Mes lignes directrices</h3>
-  <ul>
-    <li>Travailler dans des environnements où la pratique clinique nourrit la recherche</li>
-    <li>Développer des outils utiles aux équipes de terrain</li>
-    <li>Former des cliniciens capables de raisonner, analyser et décider</li>
-    <li>Contribuer à une vision moderne, scientifique et exigeante de la périnatalité</li>
-  </ul>
 </div>
 
 

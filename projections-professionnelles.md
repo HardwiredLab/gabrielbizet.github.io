@@ -16,16 +16,26 @@ permalink: /projections-professionnelles/
   letter-spacing: 0.6px;
 }
 
-/* ===== INTRO EN RELIEF (version plus sobre) ===== */
+/* ===== INTRO EN RELIEF (version élégante, moins massive) ===== */
 .intro-box {
-  background: rgba(200,160,100,0.05);
-  border-left: 3px solid #e8cfa3;
-  padding: 22px 26px;
-  border-radius: 10px;
-  margin-bottom: 50px;
+  background: rgba(200,160,100,0.06);
+  border: 1px solid rgba(200,160,100,0.25);
+  padding: 26px 30px;
+  border-radius: 14px;
+  margin: 45px 0 60px 0;
   color: #e8e8e8;
-  line-height: 1.7;
-  font-size: 1.05rem;
+  line-height: 1.75;
+  font-size: 1.08rem;
+  box-shadow: 0 0 18px rgba(200,160,100,0.12);
+}
+
+.intro-title {
+  color: #e8cfa3;
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-bottom: 14px;
+  letter-spacing: 0.4px;
+  text-align: center;
 }
 
 /* ===== BLOC PRINCIPAL ===== */
@@ -63,7 +73,7 @@ permalink: /projections-professionnelles/
   border-left: 3px solid #e8cfa3;
   border-radius: 10px;
   padding: 22px 26px;
-  margin: 55px 0 10px 0; /* ← AJOUT D’AIR AU-DESSUS */
+  margin: 55px 0 10px 0;
 }
 
 .mini-box h4 {
@@ -102,6 +112,7 @@ permalink: /projections-professionnelles/
 <h1 class="page-title">Projections professionnelles</h1>
 
 <div class="intro-box">
+  <div class="intro-title">Introduction</div>
   Mon projet professionnel s’oriente vers un poste hospitalo‑universitaire ou d’enseignant‑chercheur, articulant activité clinique, recherche et enseignement. 
     
   Je souhaite maintenir une présence régulière en salle de naissance et dans les services de soins afin de conserver un ancrage clinique fort et de nourrir mes travaux de recherche par l’expérience du terrain.

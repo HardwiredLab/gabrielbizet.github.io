@@ -245,6 +245,7 @@ Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variat
 <div class="comm-item">
   <strong>Secours Santé</strong> — <em>Lons-le-Saunier</em><br>
   <em>Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle</em>
+  <i>Premier prix poster (posters présentés)</i>
 </div>
 
 <div class="comm-item">
@@ -275,6 +276,7 @@ Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variat
 <div class="comm-item">
   <strong>Journées Sages-Femmes</strong> — <em>Paris</em><br>
   <em>Place de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales</em>
+  <i>Prix de la Communication Orale la plus originale</i>
 </div>
 
 <div class="comm-item">

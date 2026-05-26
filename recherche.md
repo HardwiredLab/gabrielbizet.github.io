@@ -70,6 +70,19 @@ Au fil de mes formations et de mes collaborations, je me suis progressivement im
   padding-left: 12px;
 }
 
+/* ===== DISTINCTIONS ===== */
+.highlight-award {
+  display: inline-block;
+  margin-top: 4px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: rgba(232, 207, 163, 0.12);
+  border: 1px solid rgba(232, 207, 163, 0.35);
+  color: #f2d7aa;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
 </style>
 
 <hr>
@@ -85,10 +98,35 @@ Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variat
 <div class="competence-block">
 
   <div class="competence-title">Compétence clé</div>
+
   <div class="competence-item">
     Piloter un projet translationnel mêlant physiologie, expérimentation et analyse de signaux biomédicaux
   </div>
-  
+
+  <div class="competence-title" style="margin-top:26px;">Savoirs associés</div>
+
+  <div class="competence-list">
+
+    <div class="competence-item">
+      <strong>Savoir</strong><br>
+      Connaître la physiologie fœtale et les principes d’analyse des signaux biomédicaux
+    </div>
+
+    <div class="competence-item">
+      <strong>Savoir-faire</strong><br>
+      Concevoir un protocole expérimental, assurer le recueil et le traitement des signaux (PhysioTrace, VitalRecorder, Physiotika)
+    </div>
+
+    <div class="competence-item" style="margin-bottom:0;">
+      <strong>Savoir-être</strong><br>
+      Adaptabilité, gestion de l’imprévu expérimental et exigence méthodologique
+    </div>
+
+  </div>
+
+</div>
+
+</div>
 
 <hr>
 
@@ -103,6 +141,7 @@ L'Intervillite Histiocytaire Chronique est une maladie rare et grave du placenta
 <div class="competence-block">
 
   <div class="competence-title">Compétence clé</div>
+
   <div class="competence-item">
     Contribuer à des études cliniques évaluant la valeur diagnostique et pronostique des phosphatases alcalines (PAL) dans l’Intervillite Histiocytaire Chronique (IHC)
   </div>
@@ -117,12 +156,12 @@ L'Intervillite Histiocytaire Chronique est une maladie rare et grave du placenta
     </div>
 
     <div class="competence-item">
-      <strong>Savoir‑faire</strong><br>
+      <strong>Savoir-faire</strong><br>
       Analyser et interpréter des résultats explorant l’association entre phosphatases alcalines et IHC, et en évaluer la pertinence clinique
     </div>
 
     <div class="competence-item" style="margin-bottom:0;">
-      <strong>Savoir‑être</strong><br>
+      <strong>Savoir-être</strong><br>
       Rigueur scientifique et capacité à collaborer avec des équipes pluridisciplinaires
     </div>
 
@@ -139,12 +178,13 @@ L'Intervillite Histiocytaire Chronique est une maladie rare et grave du placenta
 <div class="research-block" style="margin-bottom:2.4rem;">
 
 <div style="margin-bottom:1.2rem;">
-Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physiologique dans la flore vaginale et digestive. Inoffensive pour la femme enceinte, elle peut provoquer des infections graves chez le nouveau‑né, d’où l’importance de l’antibioprophylaxie pendant le travail.
+Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physiologique dans la flore vaginale et digestive. Inoffensive pour la femme enceinte, elle peut provoquer des infections graves chez le nouveau-né, d’où l’importance de l’antibioprophylaxie pendant le travail.
 </div>
 
 <div class="competence-block">
 
   <div class="competence-title">Compétence clé</div>
+
   <div class="competence-item">
     Évaluer et optimiser les stratégies de prévention des infections néonatales bactériennes précoces
   </div>
@@ -159,38 +199,13 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
     </div>
 
     <div class="competence-item">
-      <strong>Savoir‑faire</strong><br>
+      <strong>Savoir-faire</strong><br>
       Concevoir des études cliniques robustes sur des événements rares et assurer un recueil standardisé des données
     </div>
 
     <div class="competence-item" style="margin-bottom:0;">
-      <strong>Savoir‑être</strong><br>
+      <strong>Savoir-être</strong><br>
       Contribuer de manière autonome et régulière au projet, en soutenant un travail collaboratif et en assurant un suivi fiable
-    </div>
-
-  </div>
-
-</div>
-
-</div>
-
-  <div class="competence-title" style="margin-top:26px;">Savoirs associés</div>
-
-  <div class="competence-list">
-
-    <div class="competence-item">
-      <strong>Savoir</strong><br>
-      Connaître la physiologie fœtale et les principes d’analyse des signaux biomédicaux
-    </div>
-
-    <div class="competence-item">
-      <strong>Savoir‑faire</strong><br>
-      Concevoir un protocole expérimental, assurer le recueil et le traitement des signaux (PhysioTrace, VitalRecorder, Physiotika)
-    </div>
-
-    <div class="competence-item" style="margin-bottom:0;">
-      <strong>Savoir‑être</strong><br>
-      Adaptabilité, gestion de l’imprévu expérimental et exigence méthodologique
     </div>
 
   </div>
@@ -236,7 +251,6 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
   *Total alkaline phosphatase levels by gestational age in a large sample of pregnant women*  
   [Placenta](https://doi.org/10.1016/j.placenta.2022.12.005)
 
-
 ---
 
 # Communications
@@ -246,8 +260,11 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
 <div class="comm-item">
   <strong>Secours Santé</strong> — <em>Lons-le-Saunier</em><br>
   <em>Unité de Santé de la Femme du Service Départemental d’Incendie et de Secours du Nord : une approche intégrée alliant santé génésique et vie professionnelle</em>
-   <br>
-  <i>Premier prix poster (posters présentés)</i>
+  <br>
+
+  <div class="highlight-award">
+    <i>Premier prix poster (posters présentés)</i>
+  </div>
 </div>
 
 <div class="comm-item">
@@ -260,7 +277,6 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
   <em>Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept</em><br>
   <em>Intérêt de la mesure continue du glucose en recherche expérimentale : exemple du modèle ovin</em>
 </div>
-
 
 ### 2025
 
@@ -279,7 +295,10 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
   <strong>Journées Sages-Femmes</strong> — <em>Paris</em><br>
   <em>Place de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales</em>
   <br>
-  <i>Prix de la Communication Orale la plus originale</i>
+
+  <div class="highlight-award">
+    <i>Prix de la Communication Orale la plus originale</i>
+  </div>
 </div>
 
 <div class="comm-item">
@@ -287,14 +306,12 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
   <em>Retentissement fœtal d’une hypoglycémie maternelle : preuve de concept</em>
 </div>
 
-
 ### 2024
 
 <div class="comm-item">
   <strong>Groupement Régional du Collège National des Gynécologues et Obstétriciens Français</strong> — <em>Lille</em><br>
   <em>Intérêt de l’antibiogramme du Streptocoque du Groupe B dans la prévention des infections néonatales bactériennes précoces</em>
 </div>
-
 
 ### 2023
 

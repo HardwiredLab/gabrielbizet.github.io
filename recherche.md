@@ -263,7 +263,7 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
   <br>
 
   <div class="highlight-award">
-    <i>Premier prix poster (posters présentés)</i>
+    <i>Premier prix poster (commentés)</i>
   </div>
 </div>
 

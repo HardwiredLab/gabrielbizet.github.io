@@ -74,7 +74,25 @@ Au fil de mes formations et de mes collaborations, je me suis progressivement im
 
 <hr>
 
-<h1>Axe 1 — Intervillite Histiocytaire Chronique</h1>
+<h1>Axe 1 — Variations glycémiques maternelles et système nerveux autonome fœtal</h1>
+
+<div class="research-block" style="margin-bottom:2.4rem;">
+
+<div style="margin-bottom:1.2rem;">
+Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variations glycémiques (hypoglycémies et hyperglycémies) sont fréquentes et peuvent être sévères. Le retentissement fœtal de telles variations demeure peu exploré.
+</div>
+
+<div class="competence-block">
+
+  <div class="competence-title">Compétence clé</div>
+  <div class="competence-item">
+    Piloter un projet translationnel mêlant physiologie, expérimentation et analyse de signaux biomédicaux
+  </div>
+  
+
+<hr>
+
+<h1>Axe 2 — Intervillite Histiocytaire Chronique</h1>
 
 <div class="research-block" style="margin-bottom:2.4rem;">
 
@@ -116,7 +134,7 @@ L'Intervillite Histiocytaire Chronique est une maladie rare et grave du placenta
 
 <hr>
 
-<h1>Axe 2 — Streptocoque du Groupe B</h1>
+<h1>Axe 3 — Streptocoque du Groupe B</h1>
 
 <div class="research-block" style="margin-bottom:2.4rem;">
 
@@ -155,23 +173,6 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
 </div>
 
 </div>
-
-<hr>
-
-<h1>Axe 3 — Variations glycémiques maternelles et système nerveux autonome fœtal</h1>
-
-<div class="research-block" style="margin-bottom:2.4rem;">
-
-<div style="margin-bottom:1.2rem;">
-Au cours de la grossesse de femmes vivant avec un diabète de type 1, les variations glycémiques (hypoglycémies et hyperglycémies) sont fréquentes et peuvent être sévères. Le retentissement fœtal de telles variations demeure peu exploré.
-</div>
-
-<div class="competence-block">
-
-  <div class="competence-title">Compétence clé</div>
-  <div class="competence-item">
-    Piloter un projet translationnel mêlant physiologie, expérimentation et analyse de signaux biomédicaux
-  </div>
 
   <div class="competence-title" style="margin-top:26px;">Savoirs associés</div>
 

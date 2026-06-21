@@ -84,7 +84,7 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
     Perspective
   </div>
   <div style="font-weight:600; color:#e8e8e8; margin-bottom:6px;">
-    Vers une Association Nationale des Sages-Femmes Sapeurs-Pompiers ?
+    Vers une Association Nationale des Sages-Femmes de Sapeurs-Pompiers ?
   </div>
   <div style="color:#d8d8d8; font-size:0.95rem; line-height:1.6;">
     À moyen terme, j’aimerais contribuer à la structuration d’un réseau national de sages-femmes sapeurs-pompiers, 

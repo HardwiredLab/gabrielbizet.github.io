@@ -274,7 +274,7 @@ La frise ci‑dessous montre comment chaque formation s’inscrit dans cette dyn
 
     Instrumentation, conception de protocoles, analyse de signaux biomédicaux  
     <div class="transition">
-      Envie de d'acquérir et manipuler moi-même et de construire un projet expérimental complet, étape par étape
+      Envie de construire un projet expérimental complet et d’en assurer moi‑même toutes les étapes — protocole, recueil des données et analyse — afin d’en suivre la finalité en autonomie 
     </div>
   </div>
 </div>

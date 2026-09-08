@@ -198,6 +198,18 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
     <li>Bloc obstétrical</li>
     <li>Urgences obstétricales</li>
   </ul>
+
+  
+  <div class="level-location">GHICL, Hôpital Saint‑Vincent de Paul, F-59000 Lille</div>
+  <div class="level-date"><strong>Depuis 09/2026</strong></div>
+    </div>
+  </div>
+  
+  <ul>
+    <li>Bloc obstétrical</li>
+    <li>Urgences obstétricales</li>
+    <li>Suites de naissance</li>
+  </ul>
 </div>
 
 
@@ -207,7 +219,7 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
     <div class="level-subheader">
       <div class="level-location">Ramsay Santé, Hôpital Privé de Marne-la-Vallée, 
         F-94015 Bry-sur-Marne</div>
-      <div class="level-date"><strong>Depuis 09/2025</strong></div>
+      <div class="level-date"><strong>09/2025 → 092026</strong></div>
     </div>
   </div>
 

@@ -130,8 +130,6 @@ Ma pratique clinique constitue le socle de l’ensemble de mes projets : elle no
 J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au niveau III — afin de construire une vision globale, réaliste et indépendante de mon métier. Cette diversité m’a permis de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
 </p>
 
-
-
 </div>
 
 
@@ -161,6 +159,8 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
 ---
 
 
+<!-- ===================== NIVEAU III ===================== -->
+
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau III</h2>
@@ -183,6 +183,8 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
 </div>
 
 
+<!-- ===================== NIVEAU IIb — SAINT-VINCENT ===================== -->
+
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau IIb</h2>
@@ -202,7 +204,23 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
 
   <hr style="border:0; border-top:1px solid #3d3d3d; margin:22px 0;">
 
- <div class="level-card">
+  <div class="level-subheader">
+    <div class="level-location">GHICL, Hôpital Saint‑Vincent de Paul, F-59000 Lille</div>
+    <div class="level-date"><strong>07/2024 → 09/2025</strong></div>
+  </div>
+
+  <p><em>Remplacements ponctuels</em></p>
+
+  <ul>
+    <li>Bloc obstétrical</li>
+    <li>Urgences obstétricales</li>
+  </ul>
+</div>
+
+
+<!-- ===================== NIVEAU IIa — MARNE-LA-VALLÉE ===================== -->
+
+<div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau IIa</h2>
     <div class="level-subheader">
@@ -235,6 +253,9 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
   </ul>
 </div>
 
+
+<!-- ===================== NIVEAU I ===================== -->
+
 <div class="level-card">
   <div class="level-header">
     <h2 class="level-title">Niveau I</h2>
@@ -252,6 +273,8 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
   </ul>
 </div>
 
+
+<!-- ===================== ACTIVITÉ LIBÉRALE ===================== -->
 
 <div class="level-card">
   <div class="level-header">

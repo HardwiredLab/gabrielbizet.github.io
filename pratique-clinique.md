@@ -202,28 +202,28 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
 
   <hr style="border:0; border-top:1px solid #3d3d3d; margin:22px 0;">
 
-  <div class="level-subheader">
-    <div class="level-location">GHICL, Hôpital Saint‑Vincent de Paul, F-59000 Lille</div>
-    <div class="level-date"><strong>07/2024 → 09/2025</strong></div>
+ <div class="level-card">
+  <div class="level-header">
+    <h2 class="level-title">Niveau IIa</h2>
+    <div class="level-subheader">
+      <div class="level-location">Ramsay Santé, Hôpital Privé de Marne-la-Vallée, 
+        F-94015 Bry-sur-Marne</div>
+      <div class="level-date"><strong>Depuis 09/2026</strong></div>
+    </div>
   </div>
 
   <p><em>Remplacements ponctuels</em></p>
 
   <ul>
     <li>Bloc obstétrical</li>
-    <li>Urgences obstétricales</li>
   </ul>
-</div>
 
+  <hr style="border:0; border-top:1px solid #3d3d3d; margin:22px 0;">
 
-<div class="level-card">
-  <div class="level-header">
-    <h2 class="level-title">Niveau IIa</h2>
-    <div class="level-subheader">
-      <div class="level-location">Ramsay Santé, Hôpital Privé de Marne-la-Vallée, 
-        F-94015 Bry-sur-Marne</div>
-      <div class="level-date"><strong>09/2025 → 08/2026</strong></div>
-    </div>
+  <div class="level-subheader">
+    <div class="level-location">Ramsay Santé, Hôpital Privé de Marne-la-Vallée, 
+      F-94015 Bry-sur-Marne</div>
+    <div class="level-date"><strong>09/2025 → 08/2026</strong></div>
   </div>
 
   <p><em>CDI</em></p>
@@ -233,25 +233,7 @@ J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au
     <li>Urgences obstétricales</li>
     <li>Suites de naissance</li>
   </ul>
-
-  <hr style="border:0; border-top:1px solid #3d3d3d; margin:22px 0;">
-
-  <div class="level-subheader">
-    <div class="level-location">Ramsay Santé, Hôpital Privé de Marne-la-Vallée, 
-      F-94015 Bry-sur-Marne</div>
-    <div class="level-date"><strong>Depuis 09/2026</strong></div>
-  </div>
-
-  <p><em>Remplacements ponctuels</em></p>
-
-  <ul>
-    <li>Bloc obstétrical</li>
-  </ul>
 </div>
-
-
-
-
 
 <div class="level-card">
   <div class="level-header">

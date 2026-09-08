@@ -219,6 +219,9 @@ Le Streptocoque du Groupe B (SGB) est une bactérie présente de manière physio
 # Publications
 
 ### 2026
+- **Masquelier et al.**  
+  *Maternal and fetal factors associated with symphyseal disjunction after vaginal delivery: An exploratory case–control study*   [International Journal of Gynecology and Obstetrics](https://doi.org/10.1002/ijgo.71244)
+
 - **Lemonnier et al.**  
   *Intrapartum group B streptococcus antibiotic prophylaxis in beta-lactams allergic women and risk of neonatal infection*  
   [European Journal of Obstetrics and Gynecology and Reproductive Biology](https://doi.org/10.1016/j.ejogrb.2026.115091)

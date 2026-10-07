@@ -63,7 +63,7 @@ Cette section présente quelques projets professionnels complémentaires, articu
 
   <div class="context">
 Depuis mai 2025, je suis sage-femme expert sapeur-pompier volontaire au sein de la Sous-direction Santé et de Secours Médical des Sapeurs-Pompiers du Nord. Dans ce cadre, je développe l’Unité de Santé de la Femme, qui a pour vocation d’accompagner les femmes sapeurs‑pompiers tout au long de leur parcours professionnel. L’objectif est d’assurer un maintien ou un retour à l’activité opérationnelle compatible avec les exigences physiques du métier et les contraintes individuelles. 
-J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit leur issue - et travaille désormais sur l'élaboration de recommandations pour accompagner les femmes sapeurs-pompiers dans le cadre de leur (pré)ménopause ainsi que lorsqu'elles présentent des douleurs pelviennes chroniques.
+J'ai déployé un dispositif d'accompagnement des grossesses — quelle que soit leur issue — et travaille désormais sur l'élaboration de recommandations pour accompagner les femmes sapeurs-pompiers dans le cadre de leur (pré)ménopause ainsi que lorsqu'elles présentent des douleurs pelviennes chroniques.
   </div>
 
   <div class="pill"><strong>Compétence clé</strong> — Élaboration de parcours individualisés permettant le maintien ou le retour à l’activité opérationnelle des femmes sapeurs-pompiers</div>
@@ -72,6 +72,28 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   <div class="pill"><strong>Savoir‑être</strong> — Écoute active, adaptation aux contraintes opérationnelles et communication interprofessionnelle</div>
 </div>
 
+<!-- ===== VIDEO ===== -->
+
+<div style="margin: 40px 0;">
+  <div style="font-size:0.9rem; letter-spacing:0.12em; text-transform:uppercase; color:#e8cfa3; margin-bottom:10px;">
+    Pour en savoir plus :
+  </div>
+
+  <video controls style="
+    width: 100%;
+    max-width: 900px;
+    border-radius: 12px;
+    border: 1px solid rgba(200,160,100,0.35);
+    box-shadow: 0 0 22px rgba(200,160,100,0.18);
+    display: block;
+    margin: 0 auto;
+  ">
+    <source src="/assets/videos/USF_SDIS59.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la lecture vidéo.
+  </video>
+</div>
+
+<!-- ===== ASSOCIATION MISE À JOUR ===== -->
 
 <div style="
   margin-top: 26px;
@@ -81,19 +103,25 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   background: rgba(200,160,100,0.06);
 ">
   <div style="font-size:0.9rem; letter-spacing:0.12em; text-transform:uppercase; color:#e8cfa3; margin-bottom:6px;">
-    Perspective
+    Association Nationale des Sages-Femmes de Sapeurs-Pompiers
   </div>
+
   <div style="font-weight:600; color:#e8e8e8; margin-bottom:6px;">
-    Vers une Association Nationale des Sages-Femmes de Sapeurs-Pompiers ?
+    Créée en juillet 2026, j'assure la fonction de Secrétaire Général
   </div>
+
   <div style="color:#d8d8d8; font-size:0.95rem; line-height:1.6;">
-    À moyen terme, j’aimerais contribuer à la structuration d’un réseau national de sages-femmes sapeurs-pompiers, 
-    afin de partager nos pratiques, harmoniser les accompagnements et faire reconnaître la spécificité de cette expertise 
-    au sein des services d’incendie et de secours
+    La vocation de notre association est de :
+    <ul style="margin-top:12px; color:#e8e8e8; line-height:1.6;">
+      <li>Représenter les experts sages-femmes exerçant au sein des Services Départementaux d'Incendie et de Secours (SDIS)</li>
+      <li>Promouvoir la place, les compétences et l’expertise des sages-femmes dans la Sous‑direction Santé (SDS)</li>
+      <li>Contribuer à l’élaboration, l’harmonisation et la diffusion des doctrines opérationnelles relatives à la santé des femmes, la périnatalité et les urgences obstétricales et néonatales</li>
+      <li>Développer la formation, la recherche et l’innovation dans les domaines relevant des missions des experts sages-femmes</li>
+      <li>Favoriser les échanges professionnels entre les sages-femmes et les autres acteurs de la SDS</li>
+      <li>Représenter les experts sages-femmes auprès des institutions nationales</li>
+    </ul>
   </div>
 </div>
-
-
 
 ---
 
@@ -103,14 +131,13 @@ J'ai déployé un dispositif d'accompagnement des grossesses - quelle que soit l
   <div class="context">
 Depuis 2024, je conçois et dispense des formations via l'organisme de formation Medic Formation.  
 Mon activité comprend un programme de 21h dédié à l’analyse physiopathologique du Rythme Cardiaque Fœtal — outil central du clinicien en salle de naissance — que je mets à jour régulièrement à partir de la littérature scientifique disponible.  
-</div>
+  </div>
 
   <div class="pill"><strong>Compétence clé</strong> — Concevoir et dispenser des formations spécialisées en périnatalité fondées sur la littérature scientifique</div>
   <div class="pill"><strong>Savoir</strong> — Actualiser en continu mes connaissances à partir de la littérature scientifique et des recommandations professionnelles</div>
   <div class="pill"><strong>Savoir‑faire</strong> — Transformer les données probantes en outils pédagogiques concrets et immédiatement mobilisables par les praticiens (tracés commentés, dossiers cliniques, mises en situation)</div>
   <div class="pill"><strong>Savoir‑être</strong> — Adopter une posture andragogique rigoureuse, inclusive et adaptée aux besoins des professionnels hospitaliers et libéraux</div>
 </div>
-
 
 <div style="
   margin-top: 26px;

@@ -79,42 +79,119 @@ J'ai déployé un dispositif d'accompagnement des grossesses — quelle que soit
     Pour en savoir plus :
   </div>
 
-  <video controls style="
-    width: 100%;
-    max-width: 900px;
-    border-radius: 12px;
-    border: 1px solid rgba(200,160,100,0.35);
-    box-shadow: 0 0 22px rgba(200,160,100,0.18);
-    display: block;
-    margin: 0 auto;
-  ">
-    <source src="/assets/videos/USF_SDIS59.mp4" type="video/mp4">
+  <video
+    controls
+    preload="metadata"
+    playsinline
+    style="
+      width: 100%;
+      max-width: 900px;
+      border-radius: 12px;
+      border: 1px solid rgba(200,160,100,0.35);
+      box-shadow: 0 0 22px rgba(200,160,100,0.18);
+      display: block;
+      margin: 0 auto;
+      background:#000;
+    "
+  >
+    <source src="{{ '/assets/videos/USF_SDIS59.mp4' | relative_url }}" type="video/mp4">
     Votre navigateur ne supporte pas la lecture vidéo.
   </video>
+
+  <div style="
+    margin-top:10px;
+    text-align:center;
+    font-size:0.88rem;
+    color:#bfbfbf;
+  ">
+    Si la vidéo ne se lance pas,
+    <a href="{{ '/assets/videos/USF_SDIS59.mp4' | relative_url }}"
+       target="_blank"
+       rel="noopener"
+       style="color:#e8cfa3; text-decoration:none;">
+      ouvrir directement la vidéo
+    </a>.
+  </div>
 </div>
 
 <!-- ===== ASSOCIATION MISE À JOUR ===== -->
 
 <div style="
   margin-top: 26px;
-  padding: 18px 20px;
-  border-radius: 12px;
-  border: 1px dashed rgba(200,160,100,0.6);
-  background: rgba(200,160,100,0.06);
+  padding: 22px 22px;
+  border-radius: 14px;
+  border: 1px solid rgba(200,160,100,0.45);
+  background:
+    linear-gradient(
+      135deg,
+      rgba(200,160,100,0.08),
+      rgba(200,160,100,0.03)
+    );
+  box-shadow: 0 0 22px rgba(200,160,100,0.08);
 ">
-  <div style="font-size:0.9rem; letter-spacing:0.12em; text-transform:uppercase; color:#e8cfa3; margin-bottom:6px;">
+  <div style="
+    font-size:0.82rem;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:#e8cfa3;
+    margin-bottom:8px;
+    font-weight:700;
+  ">
+    Engagement associatif national
+  </div>
+
+  <div style="
+    font-size:1.15rem;
+    font-weight:700;
+    color:#e8e8e8;
+    margin-bottom:8px;
+  ">
     Association Nationale des Sages-Femmes de Sapeurs-Pompiers
   </div>
 
-  <div style="font-weight:600; color:#e8e8e8; margin-bottom:6px;">
-    Créée en juillet 2026, j'assure la fonction de Secrétaire Général
+  <div style="
+    font-weight:600;
+    color:#e8cfa3;
+    margin-bottom:14px;
+  ">
+    Créée en juillet 2026 — Secrétaire Général
   </div>
 
-  <div style="color:#d8d8d8; font-size:0.95rem; line-height:1.6;">
-    La vocation de notre association est de :
-    <ul style="margin-top:12px; color:#e8e8e8; line-height:1.6;">
+  <div style="
+    color:#d8d8d8;
+    font-size:0.95rem;
+    line-height:1.65;
+  ">
+    L'association a pour vocation de structurer et de fédérer le réseau national des sages-femmes de sapeurs-pompiers, dont les missions restent encore très hétérogènes d'un SDIS à l'autre.
+
+    <br><br>
+
+    En qualité de <strong style="color:#e8cfa3;">Secrétaire Général</strong>, je participe à l'organisation et au développement de l'association, à la coordination des projets nationaux et à la structuration d'un réseau professionnel permettant de mieux identifier les fonctions, les compétences et les champs d'intervention des sages-femmes au sein des SDIS.
+
+    <br><br>
+
+    Je contribue notamment au développement d'un <strong style="color:#e8cfa3;">observatoire national des sages-femmes sapeurs-pompiers</strong>, destiné à cartographier leur répartition territoriale, leurs missions et leurs modalités d'exercice, avec l'objectif de produire à terme des données utiles à la recherche, à la formation et à l'harmonisation des pratiques.
+
+    <div style="
+      margin-top:18px;
+      padding:14px 16px;
+      border-left:3px solid #e8cfa3;
+      background:rgba(200,160,100,0.06);
+      border-radius:0 10px 10px 0;
+      color:#e8e8e8;
+    ">
+      <strong style="color:#e8cfa3;">Notre ambition :</strong>
+      faire émerger un réseau national capable de mutualiser les expériences locales, de valoriser l'expertise des sages-femmes et de contribuer à la construction de pratiques communes adaptées aux réalités opérationnelles.
+    </div>
+
+    <ul style="
+      margin-top:18px;
+      color:#e8e8e8;
+      line-height:1.65;
+      padding-left:20px;
+    ">
       <li>Représenter les experts sages-femmes exerçant au sein des Services Départementaux d'Incendie et de Secours (SDIS)</li>
-      <li>Promouvoir la place, les compétences et l’expertise des sages-femmes dans la Sous‑direction Santé (SDS)</li>
+      <li>Promouvoir la place, les compétences et l’expertise des sages-femmes dans la Sous-direction Santé (SDS)</li>
       <li>Contribuer à l’élaboration, l’harmonisation et la diffusion des doctrines opérationnelles relatives à la santé des femmes, la périnatalité et les urgences obstétricales et néonatales</li>
       <li>Développer la formation, la recherche et l’innovation dans les domaines relevant des missions des experts sages-femmes</li>
       <li>Favoriser les échanges professionnels entre les sages-femmes et les autres acteurs de la SDS</li>

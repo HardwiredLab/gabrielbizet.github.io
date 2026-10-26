@@ -127,7 +127,7 @@ Ma pratique clinique constitue le socle de l’ensemble de mes projets : elle no
 </p>
 
 <p style="margin-bottom: 1.2rem;">
-J’ai choisi d’exercer dans tous les niveaux de maternité — du libéral au niveau III — afin de construire une vision globale, réaliste et indépendante de mon métier. Cette diversité m’a permis de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
+J’ai volontairement travaillé dans des structures de type et d'organisation différentes afin d'acquérir une vision globale, réaliste et indépendante de mon métier. Cette diversité me permet de développer une pratique adaptable, rigoureuse et centrée sur les besoins réels des patientes.
 </p>
 
 </div>
